@@ -1,0 +1,534 @@
+,kew_id,native_tdwg3_codes,intro_tdwg3_codes,extinct_tdwg3_codes,Accepted_Name,Accepted_ID,Accepted_Rank,Accepted_Species,Accepted_Species_ID
+0,77154429-1,['WAU'],[],[],Adelphacme minima,77154429-1,Species,Adelphacme minima,77154429-1
+1,545655-1,"['BOL', 'BZN', 'BZE', 'BZL', 'BZC', 'CLM', 'FRG', 'GUY', 'PER', 'SUR', 'VEN']",[],[],Antonia ovata,545655-1,Species,Antonia ovata,545655-1
+2,545660-1,"['BOL', 'BZN', 'BZC']",[],[],Bonyunia antoniifolia,545660-1,Species,Bonyunia antoniifolia,545660-1
+3,34787-2,"['BZN', 'CLM', 'VEN']",[],[],Bonyunia aquatica,34787-2,Species,Bonyunia aquatica,34787-2
+4,77104860-1,['CLM'],[],[],Bonyunia excelsa,77104860-1,Species,Bonyunia excelsa,77104860-1
+5,77104861-1,['BZN'],[],[],Bonyunia magnifica,77104861-1,Species,Bonyunia magnifica,77104861-1
+6,34789-2,"['BZN', 'GUY', 'VEN']",[],[],Bonyunia minor,34789-2,Species,Bonyunia minor,34789-2
+7,77104862-1,['CLM'],[],[],Bonyunia nobilis,77104862-1,Species,Bonyunia nobilis,77104862-1
+8,77104863-1,['PER'],[],[],Bonyunia pulchra,77104863-1,Species,Bonyunia pulchra,77104863-1
+9,77104864-1,['GUY'],[],[],Bonyunia spectabilis,77104864-1,Species,Bonyunia spectabilis,77104864-1
+10,545664-1,"['GUY', 'VEN']",[],[],Bonyunia superba,545664-1,Species,Bonyunia superba,545664-1
+11,77104865-1,['BZN'],[],[],Bonyunia venusta,77104865-1,Species,Bonyunia venusta,77104865-1
+12,546332-1,"['ASS', 'BAN', 'CHC', 'EHM', 'NEP', 'WHM']",[],[],Gardneria angustifolia,546332-1,Species,Gardneria angustifolia,546332-1
+13,546339-1,"['CHC', 'CHS']",[],[],Gardneria lanceolata,546339-1,Species,Gardneria lanceolata,546339-1
+14,546341-1,"['CHN', 'CHC', 'CHS', 'JAP', 'TAI']",[],[],Gardneria multiflora,546341-1,Species,Gardneria multiflora,546341-1
+15,546343-1,"['CHC', 'CHS', 'JAP', 'KOR', 'NNS', 'TAI']",[],[],Gardneria nutans,546343-1,Species,Gardneria nutans,546343-1
+16,546344-1,"['ASS', 'BAN', 'CHC', 'CHS', 'IND', 'JAW', 'LAO', 'MLY', 'MYA', 'SRL', 'SUM', 'THA', 'CHT', 'VIE']",[],[],Gardneria ovata,546344-1,Species,Gardneria ovata,546344-1
+17,546360-1,"['MAU', 'REU']",[],[],Geniostoma angustifolium,546360-1,Species,Geniostoma angustifolium,546360-1
+18,546361-1,['NWG'],[],[],Geniostoma antherotrichum,546361-1,Species,Geniostoma antherotrichum,546361-1
+19,77230903-1,['NWG'],[],[],Geniostoma antherotrichum var. antherotrichum,77230903-1,Variety,Geniostoma antherotrichum,546361-1
+20,886534-1,['NWG'],[],[],Geniostoma antherotrichum var. archboldianum,886534-1,Variety,Geniostoma antherotrichum,546361-1
+21,546368-1,['NWC'],[],[],Geniostoma balansanum,546368-1,Species,Geniostoma balansanum,546368-1
+22,546370-1,['SAM'],[],[],Geniostoma biseriale,546370-1,Species,Geniostoma biseriale,546370-1
+23,546371-1,"['MAU', 'REU']",[],[],Geniostoma borbonicum,546371-1,Species,Geniostoma borbonicum,546371-1
+24,546375-1,['FIJ'],[],[],Geniostoma calcicola,546375-1,Species,Geniostoma calcicola,546375-1
+25,546377-1,['NWC'],[],[],Geniostoma celastrineum,546377-1,Species,Geniostoma celastrineum,546377-1
+26,546379-1,['SCI'],[],[],Geniostoma clavatum,546379-1,Species,Geniostoma clavatum,546379-1
+27,546388-1,['HAW'],[],[],Geniostoma cyrtandrae,546388-1,Species,Geniostoma cyrtandrae,546388-1
+28,77183773-1,['HAW'],[],[],Geniostoma degeneri,77183773-1,Species,Geniostoma degeneri,77183773-1
+29,546391-1,"['NWC', 'VAN']",[],[],Geniostoma densiflorum,546391-1,Species,Geniostoma densiflorum,546391-1
+30,77230052-1,"['NWC', 'VAN']",[],[],Geniostoma densiflorum var. densiflorum,77230052-1,Variety,Geniostoma densiflorum,546391-1
+31,886535-1,['NWC'],[],[],Geniostoma densiflorum var. oleifolium,886535-1,Variety,Geniostoma densiflorum,546391-1
+32,546396-1,['NWC'],[],[],Geniostoma erythrospermum,546396-1,Species,Geniostoma erythrospermum,546396-1
+33,546397-1,['OGA'],[],[],Geniostoma fagraeoides,546397-1,Species,Geniostoma fagraeoides,546397-1
+34,897803-1,['MRQ'],[],[],Geniostoma gagnae,897803-1,Species,Geniostoma gagnae,897803-1
+35,77209911-1,['HAW'],[],[],Geniostoma gaudichaudii,77209911-1,Species,Geniostoma gaudichaudii,77209911-1
+36,546407-1,['NWC'],[],[],Geniostoma glaucescens,546407-1,Species,Geniostoma glaucescens,546407-1
+37,546409-1,['VAN'],[],[],Geniostoma grandifolium,546409-1,Species,Geniostoma grandifolium,546409-1
+38,546411-1,['MRQ'],[],[],Geniostoma hallei,546411-1,Species,Geniostoma hallei,546411-1
+39,77183885-1,['HAW'],[],[],Geniostoma hedyosmifolium,77183885-1,Species,Geniostoma hedyosmifolium,77183885-1
+40,77183962-1,['HAW'],[],[],Geniostoma helleri,77183962-1,Species,Geniostoma helleri,77183962-1
+41,77184210-1,['HAW'],[],[],Geniostoma hirtellum,77184210-1,Species,Geniostoma hirtellum,77184210-1
+42,77183654-1,['HAW'],[],[],Geniostoma hosakanum,77183654-1,Species,Geniostoma hosakanum,77183654-1
+43,970839-1,['NFK'],[],[],Geniostoma huttonii,970839-1,Species,Geniostoma huttonii,970839-1
+44,77183878-1,['HAW'],[],[],Geniostoma hymenopodum,77183878-1,Species,Geniostoma hymenopodum,77183878-1
+45,77154426-1,['NWC'],[],[],Geniostoma imbricatum,77154426-1,Species,Geniostoma imbricatum,77154426-1
+46,77122818-1,['HAW'],[],[],Geniostoma kaalae,77122818-1,Species,Geniostoma kaalae,77122818-1
+47,546423-1,"['NWG', 'SOL']",[],[],Geniostoma leenhoutsii,546423-1,Species,Geniostoma leenhoutsii,546423-1
+48,77184257-1,['HAW'],[],[],Geniostoma lorencianum,77184257-1,Species,Geniostoma lorencianum,77184257-1
+49,77184188-1,['HAW'],[],[],Geniostoma lydgatei,77184188-1,Species,Geniostoma lydgatei,77184188-1
+50,546429-1,['FIJ'],[],[],Geniostoma macrophyllum,546429-1,Species,Geniostoma macrophyllum,546429-1
+51,546436-1,['NWC'],[],[],Geniostoma mooreanum,546436-1,Species,Geniostoma mooreanum,546436-1
+52,546439-1,['NWC'],[],[],Geniostoma novae-caledoniae,546439-1,Species,Geniostoma novae-caledoniae,546439-1
+53,546448-1,"['MAU', 'REU']",[],[],Geniostoma pedunculatum,546448-1,Species,Geniostoma pedunculatum,546448-1
+54,546449-1,['NFK'],[],[],Geniostoma petiolosum,546449-1,Species,Geniostoma petiolosum,546449-1
+55,77183839-1,['HAW'],[],[],Geniostoma pumilum,77183839-1,Species,Geniostoma pumilum,77183839-1
+56,546457-1,['NWG'],[],[],Geniostoma randianum,546457-1,Species,Geniostoma randianum,546457-1
+57,546458-1,['TUB'],[],[],Geniostoma rapense,546458-1,Species,Geniostoma rapense,546458-1
+58,897804-1,['COO'],[],[],Geniostoma rarotongense,897804-1,Species,Geniostoma rarotongense,897804-1
+59,546459-1,['HAW'],[],[],Geniostoma remyanum,546459-1,Species,Geniostoma remyanum,546459-1
+60,546462-1,"['BIS', 'BOR', 'CRL', 'FIJ', 'JAW', 'LSI', 'MOL', 'MRN', 'NWC', 'NWG', 'NZN', 'NZS', 'NUE', 'PHI', 'PIT', 'QLD', 'SAM', 'SCZ', 'SCI', 'SOL', 'SUL', 'SUM', 'TAI', 'TON', 'TUB', 'VAN', 'WAL']",[],[],Geniostoma rupestre,546462-1,Species,Geniostoma rupestre,546462-1
+61,886538-1,['QLD'],[],[],Geniostoma rupestre var. australianum,886538-1,Variety,Geniostoma rupestre,546462-1
+62,886540-1,['NWC'],[],[],Geniostoma rupestre var. crassifolium,886540-1,Variety,Geniostoma rupestre,546462-1
+63,886543-1,"['CRL', 'FIJ', 'MRN', 'NWC', 'NUE', 'PIT', 'SAM', 'SCZ', 'SCI', 'SOL', 'TON', 'TUB', 'VAN', 'WAL']",[],[],Geniostoma rupestre var. glaberrimum,886543-1,Variety,Geniostoma rupestre,546462-1
+64,886544-1,"['CRL', 'MRN']",[],[],Geniostoma rupestre var. hoeferi,886544-1,Variety,Geniostoma rupestre,546462-1
+65,77217228-1,"['BOR', 'CRL', 'JAW', 'LSI', 'MOL', 'NWG', 'PHI', 'SUL', 'SUM']",[],[],Geniostoma rupestre var. lasiostemon,77217228-1,Variety,Geniostoma rupestre,546462-1
+66,953860-1,"['NZN', 'NZS']",[],[],Geniostoma rupestre var. ligustrifolium,953860-1,Variety,Geniostoma rupestre,546462-1
+67,886547-1,['NWG'],[],[],Geniostoma rupestre var. rouffaeranum,886547-1,Variety,Geniostoma rupestre,546462-1
+68,77230242-1,"['BIS', 'BOR', 'CRL', 'FIJ', 'JAW', 'LSI', 'MOL', 'MRN', 'NWC', 'NWG', 'PHI', 'SAM', 'SCZ', 'SOL', 'SUL', 'SUM', 'TAI', 'TON', 'VAN', 'WAL']",[],[],Geniostoma rupestre var. rupestre,77230242-1,Variety,Geniostoma rupestre,546462-1
+69,886548-1,['SOL'],[],[],Geniostoma rupestre var. solomonense,886548-1,Variety,Geniostoma rupestre,546462-1
+70,886549-1,['NWC'],[],[],Geniostoma rupestre var. thymeleaceum,886549-1,Variety,Geniostoma rupestre,546462-1
+71,546474-1,['FIJ'],[],[],Geniostoma stipulare,546474-1,Species,Geniostoma stipulare,546474-1
+72,897805-1,['COO'],[],[],Geniostoma sykesii,897805-1,Species,Geniostoma sykesii,897805-1
+73,77183797-1,['HAW'],[],[],Geniostoma tinifolium,77183797-1,Species,Geniostoma tinifolium,77183797-1
+74,77184194-1,['HAW'],[],[],Geniostoma tinifolium var. lanaiense,77184194-1,Variety,Geniostoma tinifolium,77183797-1
+75,77233423-1,['HAW'],[],[],Geniostoma tinifolium var. tinifolium,77233423-1,Variety,Geniostoma tinifolium,77183797-1
+76,77184260-1,['HAW'],[],[],Geniostoma tinifolium var. wahiawaense,77184260-1,Variety,Geniostoma tinifolium,77183797-1
+77,546476-1,['SOL'],[],[],Geniostoma trichostylum,546476-1,Species,Geniostoma trichostylum,546476-1
+78,77184007-1,['HAW'],[],[],Geniostoma triflorum,77184007-1,Species,Geniostoma triflorum,77184007-1
+79,546477-1,['SOL'],[],[],Geniostoma umbellatum,546477-1,Species,Geniostoma umbellatum,546477-1
+80,77184074-1,['HAW'],[],[],Geniostoma venosum,77184074-1,Species,Geniostoma venosum,77184074-1
+81,546479-1,['NWC'],[],[],Geniostoma vestitum,546479-1,Species,Geniostoma vestitum,546479-1
+82,77183699-1,['HAW'],[],[],Geniostoma waialealae,77183699-1,Species,Geniostoma waialealae,77183699-1
+83,77184146-1,['HAW'],[],[],Geniostoma waiolani,77184146-1,Species,Geniostoma waiolani,77184146-1
+84,546482-1,['NWG'],[],[],Geniostoma weinlandii,546482-1,Species,Geniostoma weinlandii,546482-1
+85,546584-1,"['NSW', 'QLD', 'VIC']",[],[],Logania albiflora,546584-1,Species,Logania albiflora,546584-1
+86,984031-1,['WAU'],[],[],Logania archeri,984031-1,Species,Logania archeri,984031-1
+87,546589-1,['WAU'],[],[],Logania buxifolia,546589-1,Species,Logania buxifolia,546589-1
+88,546596-1,['QLD'],[],[],Logania cordifolia,546596-1,Species,Logania cordifolia,546596-1
+89,546597-1,['SOA'],[],[],Logania crassifolia,546597-1,Species,Logania crassifolia,546597-1
+90,546599-1,[],[],['NZN'],Logania depressa,546599-1,Species,Logania depressa,546599-1
+91,906553-1,['QLD'],[],[],Logania diffusa,906553-1,Species,Logania diffusa,906553-1
+92,546602-1,['WAU'],[],[],Logania fasciculata,546602-1,Species,Logania fasciculata,546602-1
+93,77085016-1,"['NSW', 'VIC']",[],[],Logania granitica,77085016-1,Species,Logania granitica,77085016-1
+94,546608-1,['SOA'],[],[],Logania insularis,546608-1,Species,Logania insularis,546608-1
+95,546611-1,"['SOA', 'VIC']",[],[],Logania linifolia,546611-1,Species,Logania linifolia,546611-1
+96,984037-1,['WAU'],[],[],Logania litoralis,984037-1,Species,Logania litoralis,984037-1
+97,546613-1,['WAU'],[],[],Logania micrantha,546613-1,Species,Logania micrantha,546613-1
+98,984033-1,['SOA'],[],[],Logania minor,984033-1,Species,Logania minor,984033-1
+99,984032-1,['WAU'],[],[],Logania nanophylla,984032-1,Species,Logania nanophylla,984032-1
+100,546617-1,"['SOA', 'VIC']",[],[],Logania ovata,546617-1,Species,Logania ovata,546617-1
+101,984035-1,['WAU'],[],[],Logania perryana,984035-1,Species,Logania perryana,984035-1
+102,546620-1,"['SOA', 'VIC']",[],[],Logania recurva,546620-1,Species,Logania recurva,546620-1
+103,984036-1,['SOA'],[],[],Logania saxatilis,984036-1,Species,Logania saxatilis,984036-1
+104,984034-1,['SOA'],[],[],Logania scabrella,984034-1,Species,Logania scabrella,984034-1
+105,546624-1,['WAU'],[],[],Logania stenophylla,546624-1,Species,Logania stenophylla,546624-1
+106,77108596-1,['WAU'],[],[],Logania sylvicola,77108596-1,Species,Logania sylvicola,77108596-1
+107,546627-1,"['SOA', 'WAU']",[],[],Logania vaginalis,546627-1,Species,Logania vaginalis,546627-1
+108,990993-1,['NTA'],[],[],Mitrasacme aggregata,990993-1,Species,Mitrasacme aggregata,990993-1
+109,546631-1,"['NWG', 'NTA', 'QLD']",[],[],Mitrasacme albomarginata,546631-1,Species,Mitrasacme albomarginata,546631-1
+110,546632-1,"['NSW', 'QLD']",[],[],Mitrasacme alsinoides,546632-1,Species,Mitrasacme alsinoides,546632-1
+111,546633-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme ambigua,546633-1,Species,Mitrasacme ambigua,546633-1
+112,546637-1,['JAW'],[],[],Mitrasacme bogoriensis,546637-1,Species,Mitrasacme bogoriensis,546637-1
+113,546638-1,['QLD'],[],[],Mitrasacme brachystemonea,546638-1,Species,Mitrasacme brachystemonea,546638-1
+114,990991-1,['QLD'],[],[],Mitrasacme clarksonii,990991-1,Species,Mitrasacme clarksonii,990991-1
+115,546646-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme connata,546646-1,Species,Mitrasacme connata,546646-1
+116,546654-1,"['NWG', 'NTA']",[],[],Mitrasacme elata,546654-1,Species,Mitrasacme elata,546654-1
+117,990987-1,"['NTA', 'WAU']",[],[],Mitrasacme epigaea,990987-1,Species,Mitrasacme epigaea,990987-1
+118,546655-1,"['ASS', 'CBD', 'JAW', 'LAO', 'LSI', 'THA', 'VIE']",[],[],Mitrasacme erophila,546655-1,Species,Mitrasacme erophila,546655-1
+119,77224234-1,[],[],[],Mitrasacme erophila subsp. erophila,77224234-1,Subspecies,Mitrasacme erophila,546655-1
+120,982476-1,"['NTA', 'QLD', 'THA', 'WAU']",[],[],Mitrasacme erophila subsp. grandiflora,982476-1,Subspecies,Mitrasacme erophila,546655-1
+121,546656-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme exserta,546656-1,Species,Mitrasacme exserta,546656-1
+122,990989-1,['NTA'],[],[],Mitrasacme floribunda,990989-1,Species,Mitrasacme floribunda,990989-1
+123,546657-1,['WAU'],[],[],Mitrasacme foliosa,546657-1,Species,Mitrasacme foliosa,546657-1
+124,990997-1,['WAU'],[],[],Mitrasacme galbina,990997-1,Species,Mitrasacme galbina,990997-1
+125,990995-1,['NTA'],[],[],Mitrasacme geniculosa,990995-1,Species,Mitrasacme geniculosa,990995-1
+126,546659-1,"['NTA', 'WAU']",[],[],Mitrasacme gentianea,546659-1,Species,Mitrasacme gentianea,546659-1
+127,990981-1,['NTA'],[],[],Mitrasacme glaucescens,990981-1,Species,Mitrasacme glaucescens,990981-1
+128,990978-1,['WAU'],[],[],Mitrasacme graminea,990978-1,Species,Mitrasacme graminea,990978-1
+129,546661-1,['WAU'],[],[],Mitrasacme hispida,546661-1,Species,Mitrasacme hispida,546661-1
+130,990992-1,"['NWG', 'NTA', 'QLD']",[],[],Mitrasacme inornata,990992-1,Species,Mitrasacme inornata,990992-1
+131,77148781-1,['WAU'],[],[],Mitrasacme katjarranka,77148781-1,Species,Mitrasacme katjarranka,77148781-1
+132,990996-1,['WAU'],[],[],Mitrasacme kenneallyi,990996-1,Species,Mitrasacme kenneallyi,990996-1
+133,546664-1,"['NTA', 'WAU']",[],[],Mitrasacme laevis,546664-1,Species,Mitrasacme laevis,546664-1
+134,546665-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme laricifolia,546665-1,Species,Mitrasacme laricifolia,546665-1
+135,546666-1,['NTA'],[],[],Mitrasacme latiflora,546666-1,Species,Mitrasacme latiflora,546666-1
+136,990999-1,['WAU'],[],[],Mitrasacme laxiceps,990999-1,Species,Mitrasacme laxiceps,990999-1
+137,546669-1,"['NTA', 'WAU']",[],[],Mitrasacme lutea,546669-1,Species,Mitrasacme lutea,546669-1
+138,990994-1,['QLD'],[],[],Mitrasacme maritima,990994-1,Species,Mitrasacme maritima,990994-1
+139,546673-1,"['NTA', 'PHI', 'QLD', 'WAU']",[],[],Mitrasacme micrantha,546673-1,Species,Mitrasacme micrantha,546673-1
+140,546675-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme multicaulis,546675-1,Species,Mitrasacme multicaulis,546675-1
+141,546676-1,"['JAW', 'LSI', 'NWG', 'SUL']",[],[],Mitrasacme neglecta,546676-1,Species,Mitrasacme neglecta,546676-1
+142,990990-1,['QLD'],[],[],Mitrasacme neldneri,990990-1,Species,Mitrasacme neldneri,990990-1
+143,990984-1,"['NTA', 'QLD', 'THA', 'WAU']",[],[],Mitrasacme nidulifera,990984-1,Species,Mitrasacme nidulifera,990984-1
+144,546679-1,"['CRL', 'LSI', 'NWG', 'NTA', 'QLD', 'WAU']",[],[],Mitrasacme nudicaulis,546679-1,Species,Mitrasacme nudicaulis,546679-1
+145,990986-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme nudicaulis var. citrina,990986-1,Variety,Mitrasacme nudicaulis,546679-1
+146,77223896-1,"['CRL', 'LSI', 'NWG', 'NTA', 'QLD', 'WAU']",[],[],Mitrasacme nudicaulis var. nudicaulis,77223896-1,Variety,Mitrasacme nudicaulis,546679-1
+147,546680-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme nummularia,546680-1,Species,Mitrasacme nummularia,546680-1
+148,990977-1,['QLD'],[],[],Mitrasacme oasena,990977-1,Species,Mitrasacme oasena,990977-1
+149,546681-1,"['NSW', 'QLD']",[],[],Mitrasacme paludosa,546681-1,Species,Mitrasacme paludosa,546681-1
+150,990988-1,"['NTA', 'QLD']",[],[],Mitrasacme patens,990988-1,Species,Mitrasacme patens,990988-1
+151,546686-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme phascoides,546686-1,Species,Mitrasacme phascoides,546686-1
+152,546687-1,"['NSW', 'TAS', 'VIC']",[],[],Mitrasacme pilosa,546687-1,Species,Mitrasacme pilosa,546687-1
+153,51770-3,"['NSW', 'TAS', 'VIC']",[],[],Mitrasacme pilosa var. pilosa,51770-3,Variety,Mitrasacme pilosa,546687-1
+154,51799-3,"['NSW', 'TAS', 'VIC']",[],[],Mitrasacme pilosa var. stuartii,51799-3,Variety,Mitrasacme pilosa,546687-1
+155,546689-1,"['NSW', 'NTA', 'QLD', 'VIC', 'WAU']",[],[],Mitrasacme polymorpha,546689-1,Species,Mitrasacme polymorpha,546689-1
+156,546690-1,"['ASS', 'BAN', 'CHN', 'CHS', 'CHH', 'IND', 'JAP', 'JAW', 'KOR', 'LSI', 'MLY', 'MYA', 'NNS', 'NWG', 'NTA', 'PHI', 'PRM', 'QLD', 'SRL', 'SUL', 'SUM', 'TAI', 'THA', 'VIE']",[],[],Mitrasacme prolifera,546690-1,Species,Mitrasacme prolifera,546690-1
+157,546693-1,"['BOR', 'CBD', 'CRL', 'CHC', 'CHS', 'CHH', 'IND', 'JAP', 'JAW', 'KOR', 'LSI', 'MLY', 'MOL', 'MYA', 'NNS', 'NEP', 'NWC', 'NWG', 'NTA', 'PHI', 'QLD', 'SUL', 'SUM', 'TAI', 'THA', 'VIE']",[],[],Mitrasacme pygmaea,546693-1,Species,Mitrasacme pygmaea,546693-1
+158,886551-1,"['CBD', 'CHS', 'VIE']",[],[],Mitrasacme pygmaea var. confertifolia,886551-1,Variety,Mitrasacme pygmaea,546693-1
+159,52183-3,"['BOR', 'CBD', 'CRL', 'CHC', 'CHS', 'CHH', 'IND', 'JAP', 'JAW', 'KOR', 'LSI', 'MLY', 'MOL', 'MYA', 'NNS', 'NEP', 'NWC', 'NWG', 'NSW', 'NTA', 'PHI', 'QLD', 'SUL', 'SUM', 'TAI', 'THA', 'VIE']",[],[],Mitrasacme pygmaea var. pygmaea,52183-3,Variety,Mitrasacme pygmaea,546693-1
+160,990983-1,"['NTA', 'WAU']",[],[],Mitrasacme retroloba,990983-1,Species,Mitrasacme retroloba,990983-1
+161,546695-1,['JAW'],[],[],Mitrasacme saxatilis,546695-1,Species,Mitrasacme saxatilis,546695-1
+162,990985-1,['WAU'],[],[],Mitrasacme scopata,990985-1,Species,Mitrasacme scopata,990985-1
+163,990982-1,"['NTA', 'WAU']",[],[],Mitrasacme scrithicola,990982-1,Species,Mitrasacme scrithicola,990982-1
+164,990998-1,['NTA'],[],[],Mitrasacme secedens,990998-1,Species,Mitrasacme secedens,990998-1
+165,546696-1,"['NSW', 'TAS', 'VIC']",[],[],Mitrasacme serpyllifolia,546696-1,Species,Mitrasacme serpyllifolia,546696-1
+166,546697-1,"['CBD', 'VIE']",[],[],Mitrasacme setosa,546697-1,Species,Mitrasacme setosa,546697-1
+167,990980-1,"['NTA', 'QLD']",[],[],Mitrasacme squamigera,990980-1,Species,Mitrasacme squamigera,990980-1
+168,546701-1,"['NTA', 'QLD', 'WAU']",[],[],Mitrasacme stellata,546701-1,Species,Mitrasacme stellata,546701-1
+169,546702-1,"['NTA', 'WAU']",[],[],Mitrasacme subvolubilis,546702-1,Species,Mitrasacme subvolubilis,546702-1
+170,77153352-1,['WAU'],[],[],Mitrasacme thedae,77153352-1,Species,Mitrasacme thedae,77153352-1
+171,990979-1,['NTA'],[],[],Mitrasacme troglodytica,990979-1,Species,Mitrasacme troglodytica,990979-1
+172,985690-1,['CHS'],[],[],Mitreola macrophylla,985690-1,Species,Mitreola macrophylla,985690-1
+173,546719-1,"['CHC', 'CHS', 'EHM', 'NEP']",[],[],Mitreola pedicellata,546719-1,Species,Mitreola pedicellata,546719-1
+174,546721-1,"['ALA', 'ARK', 'BAH', 'BLZ', 'BOL', 'BZN', 'BZE', 'BZL', 'BZC', 'CLM', 'COS', 'CUB', 'DOM', 'ECU', 'ELS', 'FLA', 'FRG', 'GEO', 'GUA', 'HAI', 'HON', 'KTY', 'LEE', 'LOU', 'MXC', 'MXG', 'MXE', 'MXN', 'MXT', 'MXS', 'MSI', 'MSO', 'NIC', 'NCA', 'OKL', 'PAN', 'PER', 'PUE', 'SCA', 'SUR', 'TEN', 'TEX', 'TRT', 'VEN', 'VRG', 'WIN']","['AND', 'ASS', 'BAN', 'CBD', 'CMN', 'CRL', 'CHC', 'CHS', 'EHM', 'IND', 'JAW', 'LAO', 'LSI', 'MLY', 'MYA', 'NEP', 'NWG', 'NTA', 'OMA', 'PHI', 'SEN', 'SUL', 'SUM', 'THA', 'TOG', 'VIE']",[],Mitreola petiolata,546721-1,Species,Mitreola petiolata,546721-1
+175,546722-1,['CHC'],[],[],Mitreola petiolatoides,546722-1,Species,Mitreola petiolatoides,546722-1
+176,985689-1,['CHS'],[],[],Mitreola pingtaoi,985689-1,Species,Mitreola pingtaoi,985689-1
+177,985692-1,['CHS'],[],[],Mitreola purpureonervia,985692-1,Species,Mitreola purpureonervia,985692-1
+178,546723-1,"['CHS', 'VIE']",[],[],Mitreola reticulata,546723-1,Species,Mitreola reticulata,546723-1
+179,30219651-2,"['ALA', 'ARK', 'BAH', 'FLA', 'GEO', 'LOU', 'MSI', 'NWM', 'NCA', 'OKL', 'SCA', 'TEX', 'VRG']",[],[],Mitreola sessilifolia,30219651-2,Species,Mitreola sessilifolia,30219651-2
+180,985691-1,['CHS'],[],[],Mitreola spathulifolia,985691-1,Species,Mitreola spathulifolia,985691-1
+181,546726-1,['BOR'],[],[],Mitreola sphaerocarpa,546726-1,Species,Mitreola sphaerocarpa,546726-1
+182,546729-1,['MDG'],[],[],Mitreola turgida,546729-1,Species,Mitreola turgida,546729-1
+183,77105825-1,['CHS'],[],[],Mitreola yangchunensis,77105825-1,Species,Mitreola yangchunensis,77105825-1
+184,546784-1,['FIJ'],[],[],Neuburgia alata,546784-1,Species,Neuburgia alata,546784-1
+185,546785-1,"['BIS', 'CRL', 'MOL', 'NWG', 'PHI', 'SOL', 'SUL']",[],[],Neuburgia celebica,546785-1,Species,Neuburgia celebica,546785-1
+186,546786-1,['FIJ'],[],[],Neuburgia collina,546786-1,Species,Neuburgia collina,546786-1
+187,546787-1,"['BIS', 'FIJ', 'MOL', 'NWG', 'SOL', 'VAN']",[],[],Neuburgia corynocarpa,546787-1,Species,Neuburgia corynocarpa,546787-1
+188,77224650-1,"['BIS', 'FIJ', 'MOL', 'NWG', 'SOL', 'VAN']",[],[],Neuburgia corynocarpa var. corynocarpa,77224650-1,Variety,Neuburgia corynocarpa,546787-1
+189,886552-1,['NWG'],[],[],Neuburgia corynocarpa var. sarcantha,886552-1,Variety,Neuburgia corynocarpa,546787-1
+190,546788-1,['NWG'],[],[],Neuburgia kochii,546788-1,Species,Neuburgia kochii,546788-1
+191,546789-1,['FIJ'],[],[],Neuburgia macrocarpa,546789-1,Species,Neuburgia macrocarpa,546789-1
+192,546790-1,['FIJ'],[],[],Neuburgia macroloba,546790-1,Species,Neuburgia macroloba,546790-1
+193,546791-1,['MOL'],[],[],Neuburgia moluccana,546791-1,Species,Neuburgia moluccana,546791-1
+194,77061619-1,"['NWC', 'VAN']",[],[],Neuburgia novocaledonica,77061619-1,Species,Neuburgia novocaledonica,77061619-1
+195,546793-1,['NWG'],[],[],Neuburgia rumphiana,546793-1,Species,Neuburgia rumphiana,546793-1
+196,80480-1,['MOL'],[],[],Neuburgia tuberculata,80480-1,Species,Neuburgia tuberculata,80480-1
+197,80481-1,['NWG'],[],[],Neuburgia tubiflora,80481-1,Species,Neuburgia tubiflora,80481-1
+198,60466948-2,"['BOR', 'MLY', 'PHI', 'SUM']",[],[],Norrisia major,60466948-2,Species,Norrisia major,60466948-2
+199,546804-1,"['MLY', 'PHI', 'SUM']",[],[],Norrisia malaccensis,546804-1,Species,Norrisia malaccensis,546804-1
+200,77154367-1,['WAU'],[],[],Orianthera biloba,77154367-1,Species,Orianthera biloba,77154367-1
+201,77154368-1,['WAU'],[],[],Orianthera callosa,77154368-1,Species,Orianthera callosa,77154368-1
+202,77154366-1,['WAU'],[],[],Orianthera campanulata,77154366-1,Species,Orianthera campanulata,77154366-1
+203,77154369-1,"['NTA', 'WAU']",[],[],Orianthera centralis,77154369-1,Species,Orianthera centralis,77154369-1
+204,77154370-1,['WAU'],[],[],Orianthera exilis,77154370-1,Species,Orianthera exilis,77154370-1
+205,77154371-1,['WAU'],[],[],Orianthera flaviflora,77154371-1,Species,Orianthera flaviflora,77154371-1
+206,77154372-1,['WAU'],[],[],Orianthera judithiana,77154372-1,Species,Orianthera judithiana,77154372-1
+207,77154373-1,"['NSW', 'SOA', 'VIC', 'WAU']",[],[],Orianthera nuda,77154373-1,Species,Orianthera nuda,77154373-1
+208,77154374-1,"['NSW', 'QLD', 'VIC']",[],[],Orianthera pusilla,77154374-1,Species,Orianthera pusilla,77154374-1
+209,77154375-1,['WAU'],[],[],Orianthera serpyllifolia,77154375-1,Species,Orianthera serpyllifolia,77154375-1
+210,77154376-1,['WAU'],[],[],Orianthera serpyllifolia subsp. angustifolia,77154376-1,Subspecies,Orianthera serpyllifolia,77154375-1
+211,77232697-1,['WAU'],[],[],Orianthera serpyllifolia subsp. serpyllifolia,77232697-1,Subspecies,Orianthera serpyllifolia,77154375-1
+212,77154377-1,['WAU'],[],[],Orianthera spermacocea,77154377-1,Species,Orianthera spermacocea,77154377-1
+213,77154378-1,['WAU'],[],[],Orianthera tortuosa,77154378-1,Species,Orianthera tortuosa,77154378-1
+214,77154379-1,['WAU'],[],[],Orianthera wendyae,77154379-1,Species,Orianthera wendyae,77154379-1
+215,991005-1,"['SOA', 'TAS', 'VIC']",[],[],Phyllangium distylis,991005-1,Species,Phyllangium distylis,991005-1
+216,991007-1,"['SOA', 'TAS', 'VIC', 'WAU']",[],[],Phyllangium divergens,991007-1,Species,Phyllangium divergens,991007-1
+217,991008-1,['WAU'],[],[],Phyllangium palustre,991008-1,Species,Phyllangium palustre,991008-1
+218,991004-1,['WAU'],[],[],Phyllangium paradoxum,991004-1,Species,Phyllangium paradoxum,991004-1
+219,991006-1,"['NSW', 'SOA', 'VIC', 'WAU']",[],[],Phyllangium sulcatum,991006-1,Species,Phyllangium sulcatum,991006-1
+220,991001-1,['TAS'],[],[],Schizacme archeri,991001-1,Species,Schizacme archeri,991001-1
+221,77154485-1,['NZS'],[],[],Schizacme ciliata,77154485-1,Species,Schizacme ciliata,77154485-1
+222,77154480-1,['NZS'],[],[],Schizacme helmsii,77154480-1,Species,Schizacme helmsii,77154480-1
+223,991002-1,"['TAS', 'VIC']",[],[],Schizacme montana,991002-1,Species,Schizacme montana,991002-1
+224,77154483-1,['NZS'],[],[],Schizacme novae-zelandiae,77154483-1,Species,Schizacme novae-zelandiae,77154483-1
+225,242169-2,['BZL'],[],[],Spigelia aceifolia,242169-2,Species,Spigelia aceifolia,242169-2
+226,546907-1,['BZE'],[],[],Spigelia aenea,546907-1,Species,Spigelia aenea,546907-1
+227,60458075-2,['ALA'],[],[],Spigelia alabamensis,60458075-2,Species,Spigelia alabamensis,60458075-2
+228,77197934-1,['BZE'],[],[],Spigelia alborubra,77197934-1,Species,Spigelia alborubra,77197934-1
+229,77062626-1,['BZC'],[],[],Spigelia amambaiensis,77062626-1,Species,Spigelia amambaiensis,77062626-1
+230,60434593-2,"['CLM', 'VEN']",[],[],Spigelia amazonica,60434593-2,Species,Spigelia amazonica,60434593-2
+231,242170-2,['BZL'],[],[],Spigelia amplexicaulis,242170-2,Species,Spigelia amplexicaulis,242170-2
+232,324568-2,['BZL'],[],[],Spigelia andersonii,324568-2,Species,Spigelia andersonii,324568-2
+233,330744-2,"['AGW', 'BOL']",[],[],Spigelia andina,330744-2,Species,Spigelia andina,330744-2
+234,318920-2,"['ARU', 'BAH', 'BLZ', 'BOL', 'BZN', 'BZE', 'BZL', 'BZC', 'CAY', 'CLM', 'COS', 'CUB', 'DOM', 'ECU', 'ELS', 'FLA', 'FRG', 'GUA', 'GUY', 'HAI', 'HON', 'JAM', 'LEE', 'MXG', 'MXE', 'MXT', 'MXS', 'NLA', 'NIC', 'PAN', 'PER', 'PUE', 'SWC', 'SUR', 'TRT', 'TCI', 'VEN', 'VNA', 'WIN']","['BEN', 'BIS', 'BKN', 'CMN', 'CAF', 'CON', 'GAB', 'GHA', 'GUI', 'CHH', 'IND', 'IVO', 'JAW', 'LSI', 'LBR', 'MLY', 'MLI', 'NGA', 'SEN', 'SIE', 'SRL', 'SUM', 'THA', 'TOG', 'ZAI']",[],Spigelia anthelmia,318920-2,Species,Spigelia anthelmia,318920-2
+235,546913-1,"['BZL', 'BZC']",[],[],Spigelia asperifolia,546913-1,Species,Spigelia asperifolia,546913-1
+236,77174912-1,['MXS'],[],[],Spigelia ayotzinapensis,77174912-1,Species,Spigelia ayotzinapensis,77174912-1
+237,242177-2,['PAR'],[],[],Spigelia beccabungoides,242177-2,Species,Spigelia beccabungoides,242177-2
+238,546917-1,"['BZE', 'BZS', 'BZL']",[],[],Spigelia beyrichiana,546917-1,Species,Spigelia beyrichiana,546917-1
+239,546919-1,"['BZE', 'BZS', 'BZL']",[],[],Spigelia blanchetiana,546919-1,Species,Spigelia blanchetiana,546919-1
+240,546920-1,['BZE'],[],[],Spigelia brachystachya,546920-1,Species,Spigelia brachystachya,546920-1
+241,242182-2,"['AGE', 'BZS', 'PAR']",[],[],Spigelia caaguazuensis,242182-2,Species,Spigelia caaguazuensis,242182-2
+242,242183-2,"['GUA', 'MXT']",[],[],Spigelia carnosa,242183-2,Species,Spigelia carnosa,242183-2
+243,242184-2,['BZL'],[],[],Spigelia cascatensis,242184-2,Species,Spigelia cascatensis,242184-2
+244,242185-2,['BZS'],[],[],Spigelia catarinensis,242185-2,Species,Spigelia catarinensis,242185-2
+245,319214-2,"['MXC', 'MXT']",[],[],Spigelia chiapensis,319214-2,Species,Spigelia chiapensis,319214-2
+246,77093116-1,['CLM'],[],[],Spigelia chocoensis,77093116-1,Species,Spigelia chocoensis,77093116-1
+247,285434-2,['BZL'],[],[],Spigelia cipoensis,285434-2,Species,Spigelia cipoensis,285434-2
+248,319213-2,"['GUA', 'MXG', 'MXE', 'MXN', 'MXT', 'MXS']",[],[],Spigelia coelostylioides,319213-2,Species,Spigelia coelostylioides,319213-2
+249,77093114-1,['MXS'],[],[],Spigelia colimensis,77093114-1,Species,Spigelia colimensis,77093114-1
+250,1004882-1,['BZE'],[],[],Spigelia cremnophila,1004882-1,Species,Spigelia cremnophila,1004882-1
+251,330742-2,"['CLM', 'ECU']",[],[],Spigelia faveolata,330742-2,Species,Spigelia faveolata,330742-2
+252,300211-2,['BZE'],[],[],Spigelia flava,300211-2,Species,Spigelia flava,300211-2
+253,546932-1,"['BOL', 'BZN', 'BZE', 'BZS', 'BZL', 'GUY']",[],[],Spigelia flemmingiana,546932-1,Species,Spigelia flemmingiana,546932-1
+254,30333464-2,"['ALA', 'FLA']",[],[],Spigelia gentianoides,30333464-2,Species,Spigelia gentianoides,30333464-2
+255,77114017-1,['BZE'],[],[],Spigelia genuflexa,77114017-1,Species,Spigelia genuflexa,77114017-1
+256,546936-1,"['BZE', 'BZL']",[],[],Spigelia glabrata,546936-1,Species,Spigelia glabrata,546936-1
+257,546938-1,"['BZE', 'BZL']",[],[],Spigelia gracilis,546938-1,Species,Spigelia gracilis,546938-1
+258,77151686-1,['MXS'],[],[],Spigelia guerrerensis,77151686-1,Species,Spigelia guerrerensis,77151686-1
+259,546940-1,"['BZN', 'CUB', 'GUY', 'VEN']",[],[],Spigelia guianensis,546940-1,Species,Spigelia guianensis,546940-1
+260,546941-1,"['BOL', 'BZN', 'BZE', 'CLM', 'COS', 'ECU', 'FRG', 'GUY', 'HON', 'PAN', 'PER', 'SUR', 'VEN']",[],[],Spigelia hamellioides,546941-1,Species,Spigelia hamellioides,546941-1
+261,324566-2,"['BZS', 'BZL']",[],[],Spigelia hatschbachii,324566-2,Species,Spigelia hatschbachii,324566-2
+262,546944-1,"['CUB', 'GUA', 'MXG', 'MXE', 'MXN', 'MXT', 'TEX']",[],[],Spigelia hedyotidea,546944-1,Species,Spigelia hedyotidea,546944-1
+263,242200-2,['BZL'],[],[],Spigelia heliotropioides,242200-2,Species,Spigelia heliotropioides,242200-2
+264,242201-2,['BOL'],[],[],Spigelia herzogiana,242201-2,Species,Spigelia herzogiana,242201-2
+265,77080992-1,['BZL'],[],[],Spigelia hirtula,77080992-1,Species,Spigelia hirtula,77080992-1
+266,546947-1,"['AGE', 'AGW', 'BLZ', 'BOL', 'BZN', 'BZE', 'BZS', 'BZL', 'BZC', 'CLM', 'COS', 'ECU', 'ELS', 'GUA', 'HON', 'MXC', 'MXG', 'MXE', 'MXT', 'MXS', 'NIC', 'PAN', 'PAR', 'PER', 'URU', 'VEN']",[],[],Spigelia humboldtiana,546947-1,Species,Spigelia humboldtiana,546947-1
+267,20002791-1,['BZL'],[],[],Spigelia hurleyi,20002791-1,Species,Spigelia hurleyi,20002791-1
+268,324567-2,"['AGE', 'BOL', 'BZS', 'BZL', 'PAR']",[],[],Spigelia insignis,324567-2,Species,Spigelia insignis,324567-2
+269,242207-2,"['BZE', 'BZS', 'PAR']",[],[],Spigelia kleinii,242207-2,Species,Spigelia kleinii,242207-2
+270,546954-1,['BZE'],[],[],Spigelia kuhlmannii,546954-1,Species,Spigelia kuhlmannii,546954-1
+271,546956-1,"['BZE', 'BZL']",[],[],Spigelia laurina,546956-1,Species,Spigelia laurina,546956-1
+272,20002813-1,['PER'],[],[],Spigelia leiocarpa,20002813-1,Species,Spigelia leiocarpa,20002813-1
+273,546958-1,"['BZE', 'BZL', 'BZC']",[],[],Spigelia linarioides,546958-1,Species,Spigelia linarioides,546958-1
+274,546960-1,['FLA'],[],[],Spigelia loganioides,546960-1,Species,Spigelia loganioides,546960-1
+275,546961-1,"['MXC', 'MXG', 'MXE', 'MXS']",[],[],Spigelia longiflora,546961-1,Species,Spigelia longiflora,546961-1
+276,20007552-1,['BZL'],[],[],Spigelia luciatlantica,20007552-1,Species,Spigelia luciatlantica,20007552-1
+277,546964-1,['BZL'],[],[],Spigelia lundiana,546964-1,Species,Spigelia lundiana,546964-1
+278,546965-1,['BZL'],[],[],Spigelia macrophylla,546965-1,Species,Spigelia macrophylla,546965-1
+279,546966-1,"['ALA', 'ARK', 'FLA', 'GEO', 'ILL', 'INI', 'KTY', 'LOU', 'MRY', 'MSI', 'MSO', 'NCA', 'OKL', 'SCA', 'TEN', 'TEX', 'VRG']",[],[],Spigelia marilandica,546966-1,Species,Spigelia marilandica,546966-1
+280,546967-1,"['AGE', 'BZS', 'PAR', 'URU']",[],[],Spigelia martiana,546967-1,Species,Spigelia martiana,546967-1
+281,77093118-1,['BZN'],[],[],Spigelia megapotamica,77093118-1,Species,Spigelia megapotamica,77093118-1
+282,546968-1,"['MXC', 'MXS']",[],[],Spigelia mexicana,546968-1,Species,Spigelia mexicana,546968-1
+283,77174913-1,['MXC'],[],[],Spigelia mocinoi,77174913-1,Species,Spigelia mocinoi,77174913-1
+284,242218-2,"['AGE', 'MXC', 'MXT', 'MXS', 'PAR']",[],[],Spigelia nicotianiflora,242218-2,Species,Spigelia nicotianiflora,242218-2
+285,331049-2,['CLM'],[],[],Spigelia novogranatensis,331049-2,Species,Spigelia novogranatensis,331049-2
+286,546974-1,['BZL'],[],[],Spigelia olfersiana,546974-1,Species,Spigelia olfersiana,546974-1
+287,242221-2,"['HON', 'MXG', 'MXT', 'MXS']",[],[],Spigelia palmeri,242221-2,Species,Spigelia palmeri,242221-2
+288,242222-2,"['AGE', 'BZS', 'PAR']",[],[],Spigelia paraguariensis,242222-2,Species,Spigelia paraguariensis,242222-2
+289,546982-1,"['CLM', 'ECU']",[],[],Spigelia pedunculata,546982-1,Species,Spigelia pedunculata,546982-1
+290,242225-2,['CLM'],[],[],Spigelia persicarioides,242225-2,Species,Spigelia persicarioides,242225-2
+291,20002804-1,['PER'],[],[],Spigelia petiolata,20002804-1,Species,Spigelia petiolata,20002804-1
+292,546986-1,"['BLZ', 'BZE', 'COS', 'ELS', 'GUA', 'GUY', 'HON', 'MXT', 'NIC', 'VEN']",[],[],Spigelia polystachya,546986-1,Species,Spigelia polystachya,546986-1
+293,546987-1,['BZE'],[],[],Spigelia pulchella,546987-1,Species,Spigelia pulchella,546987-1
+294,546989-1,"['BZS', 'BZL']",[],[],Spigelia pusilla,546989-1,Species,Spigelia pusilla,546989-1
+295,242228-2,"['BZE', 'BZC', 'GUA', 'MXT']",[],[],Spigelia pygmaea,242228-2,Species,Spigelia pygmaea,242228-2
+296,77093115-1,['MXE'],[],[],Spigelia queretarensis,77093115-1,Species,Spigelia queretarensis,77093115-1
+297,242230-2,['PAR'],[],[],Spigelia ramosa,242230-2,Species,Spigelia ramosa,242230-2
+298,242232-2,"['BZS', 'BZL']",[],[],Spigelia reitzii,242232-2,Species,Spigelia reitzii,242232-2
+299,242233-2,"['BZS', 'BZL']",[],[],Spigelia riedeliana,242233-2,Species,Spigelia riedeliana,242233-2
+300,242235-2,"['BZS', 'BZL', 'BZC', 'PAR']",[],[],Spigelia rojasiana,242235-2,Species,Spigelia rojasiana,242235-2
+301,77084193-1,['BZN'],[],[],Spigelia rondoniensis,77084193-1,Species,Spigelia rondoniensis,77084193-1
+302,547002-1,"['MXE', 'MXS']",[],[],Spigelia scabrella,547002-1,Species,Spigelia scabrella,547002-1
+303,547003-1,"['BZL', 'BZC']",[],[],Spigelia schlechtendaliana,547003-1,Species,Spigelia schlechtendaliana,547003-1
+304,77106774-1,['CLM'],[],[],Spigelia schultesii,77106774-1,Species,Spigelia schultesii,77106774-1
+305,547007-1,['BZL'],[],[],Spigelia sellowiana,547007-1,Species,Spigelia sellowiana,547007-1
+306,77080991-1,['BZL'],[],[],Spigelia sordida,77080991-1,Species,Spigelia sordida,77080991-1
+307,547010-1,"['BZE', 'BZL']",[],[],Spigelia spartioides,547010-1,Species,Spigelia spartioides,547010-1
+308,547011-1,"['MXC', 'MXG', 'MXE', 'MXS']",[],[],Spigelia speciosa,547011-1,Species,Spigelia speciosa,547011-1
+309,547012-1,['CUB'],[],[],Spigelia sphagnicola,547012-1,Species,Spigelia sphagnicola,547012-1
+310,547015-1,"['COS', 'GUA', 'MXT', 'MXS']",[],[],Spigelia splendens,547015-1,Species,Spigelia splendens,547015-1
+311,77155583-1,['BZN'],[],[],Spigelia spruceana,77155583-1,Species,Spigelia spruceana,77155583-1
+312,77089479-1,['BZL'],[],[],Spigelia stenocardia,77089479-1,Species,Spigelia stenocardia,77089479-1
+313,547016-1,"['AGE', 'BZS', 'URU']",[],[],Spigelia stenophylla,547016-1,Species,Spigelia stenophylla,547016-1
+314,242239-2,"['BZN', 'BZE', 'BZS', 'BZL', 'BZC']",[],[],Spigelia tetraptera,242239-2,Species,Spigelia tetraptera,242239-2
+315,547019-1,['TEX'],[],[],Spigelia texana,547019-1,Species,Spigelia texana,547019-1
+316,319215-2,['MXS'],[],[],Spigelia trispicata,319215-2,Species,Spigelia trispicata,319215-2
+317,242241-2,"['BOL', 'PAR']",[],[],Spigelia valenzuelae,242241-2,Species,Spigelia valenzuelae,242241-2
+318,242242-2,['PAR'],[],[],Spigelia valenzuelae var. major,242242-2,Variety,Spigelia valenzuelae,242241-2
+319,77227245-1,"['BOL', 'PAR']",[],[],Spigelia valenzuelae var. valenzuelae,77227245-1,Variety,Spigelia valenzuelae,242241-2
+320,242243-2,['BZS'],[],[],Spigelia vestita,242243-2,Species,Spigelia vestita,242243-2
+321,77162351-1,['MXS'],[],[],Spigelia xochiquetzalliana,77162351-1,Species,Spigelia xochiquetzalliana,77162351-1
+322,547024-1,"['ANG', 'CMN', 'CAF', 'CON', 'GAB', 'GHA', 'GGI', 'IVO', 'LBR', 'NGA', 'SIE', 'UGA', 'ZAI']",[],[],Strychnos aculeata,547024-1,Species,Strychnos aculeata,547024-1
+323,547027-1,"['BZE', 'BZL']",[],[],Strychnos acuta,547027-1,Species,Strychnos acuta,547027-1
+324,547030-1,"['ASS', 'IND']",[],[],Strychnos aenea,547030-1,Species,Strychnos aenea,547030-1
+325,547031-1,"['BEN', 'GHA', 'GUI', 'GNB', 'IVO', 'LBR', 'NGA', 'SEN', 'SIE', 'TOG']",[],[],Strychnos afzelii,547031-1,Species,Strychnos afzelii,547031-1
+326,247277-2,['BZE'],[],[],Strychnos alvimiana,247277-2,Species,Strychnos alvimiana,247277-2
+327,247278-2,"['BZN', 'CLM', 'PER']",[],[],Strychnos amazonica,247278-2,Species,Strychnos amazonica,247278-2
+328,547037-1,['AND'],[],[],Strychnos andamanensis,547037-1,Species,Strychnos andamanensis,547037-1
+329,547038-1,"['ANG', 'BUR', 'CMN', 'CAF', 'CON', 'GAB', 'MOZ', 'NGA', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos angolensis,547038-1,Species,Strychnos angolensis,547038-1
+330,547039-1,"['CBD', 'CHC', 'CHS', 'CHH', 'PHI', 'THA', 'VIE']",[],[],Strychnos angustiflora,547039-1,Species,Strychnos angustiflora,547039-1
+331,247279-2,"['BZN', 'BZE', 'BZC']",[],[],Strychnos araguaensis,247279-2,Species,Strychnos araguaensis,247279-2
+332,247280-2,"['BOL', 'BZN', 'BZC', 'ECU', 'PER']",[],[],Strychnos asperula,247280-2,Species,Strychnos asperula,247280-2
+333,547045-1,"['CMN', 'CON', 'LBR', 'NGA']",[],[],Strychnos asterantha,547045-1,Species,Strychnos asterantha,547045-1
+334,247281-2,"['BZE', 'BZL']",[],[],Strychnos atlantica,247281-2,Species,Strychnos atlantica,247281-2
+335,547050-1,"['ASS', 'BAN', 'BOR', 'CBD', 'CHC', 'JAW', 'LAO', 'LSI', 'MLY', 'MOL', 'MYA', 'NWG', 'NSW', 'NCB', 'PHI', 'QLD', 'SRL', 'SUL', 'SUM', 'THA', 'VIE']",[],[],Strychnos axillaris,547050-1,Species,Strychnos axillaris,547050-1
+336,247282-2,['BZE'],[],[],Strychnos bahiensis,247282-2,Species,Strychnos bahiensis,247282-2
+337,247283-2,"['BZN', 'CLM']",[],[],Strychnos barnhartiana,247283-2,Species,Strychnos barnhartiana,247283-2
+338,547059-1,"['BEN', 'CMN', 'GAB', 'IVO', 'LBR', 'NGA', 'SIE', 'TOG']",[],[],Strychnos barteri,547059-1,Species,Strychnos barteri,547059-1
+339,547063-1,['SRL'],[],[],Strychnos benthamii,547063-1,Species,Strychnos benthamii,547063-1
+340,547068-1,"['BZN', 'BZL', 'BZC']",[],[],Strychnos bicolor,547068-1,Species,Strychnos bicolor,547068-1
+341,547069-1,['MDG'],[],[],Strychnos bifurcata,547069-1,Species,Strychnos bifurcata,547069-1
+342,547073-1,"['CMN', 'CAF', 'CON', 'GAB', 'NGA', 'UGA', 'ZAI']",[],[],Strychnos boonei,547073-1,Species,Strychnos boonei,547073-1
+343,547074-1,['BOR'],[],[],Strychnos borneensis,547074-1,Species,Strychnos borneensis,547074-1
+344,547077-1,"['BOL', 'BZN', 'CLM', 'PER', 'VEN']",[],[],Strychnos brachiata,547077-1,Species,Strychnos brachiata,547077-1
+345,247287-2,"['BLZ', 'COS', 'ELS', 'GUA', 'HON', 'MXC', 'MXG', 'MXT', 'MXS', 'NIC', 'PAN']",[],[],Strychnos brachistantha,247287-2,Species,Strychnos brachistantha,247287-2
+346,547081-1,"['AGE', 'BOL', 'BZE', 'BZS', 'BZL', 'BZC', 'PAR', 'URU']",[],[],Strychnos brasiliensis,547081-1,Species,Strychnos brasiliensis,547081-1
+347,547083-1,"['BZN', 'GUY', 'TRT', 'VEN']",[],[],Strychnos bredemeyeri,547083-1,Species,Strychnos bredemeyeri,547083-1
+348,547093-1,"['CAB', 'CMN', 'CAF', 'CON', 'GAB', 'IVO', 'LBR', 'ZAI']",[],[],Strychnos campicola,547093-1,Species,Strychnos campicola,547093-1
+349,547094-1,"['CMN', 'CAF', 'CON', 'GAB', 'IVO', 'LBR', 'NGA', 'ZAI']",[],[],Strychnos camptoneura,547094-1,Species,Strychnos camptoneura,547094-1
+350,547096-1,"['CMN', 'GAB']",[],[],Strychnos canthioides,547096-1,Species,Strychnos canthioides,547096-1
+351,547100-1,"['BZN', 'PER']",[],[],Strychnos castelnaeana,547100-1,Species,Strychnos castelnaeana,547100-1
+352,547102-1,"['CHC', 'CHS', 'CHH', 'TAI', 'THA', 'VIE']",[],[],Strychnos cathayensis,547102-1,Species,Strychnos cathayensis,547102-1
+353,77227431-1,"['CHC', 'CHS', 'CHH', 'TAI', 'THA', 'VIE']",[],[],Strychnos cathayensis var. cathayensis,77227431-1,Variety,Strychnos cathayensis,547102-1
+354,247293-2,['FRG'],[],[],Strychnos cayennensis,247293-2,Species,Strychnos cayennensis,247293-2
+355,247294-2,['BZL'],[],[],Strychnos cerradoensis,247294-2,Species,Strychnos cerradoensis,247294-2
+356,547109-1,"['COS', 'GUA', 'NIC', 'PAN']",[],[],Strychnos chlorantha,547109-1,Species,Strychnos chlorantha,547109-1
+357,547112-1,"['CMN', 'CAF', 'CON', 'IVO']",[],[],Strychnos chromatoxylon,547112-1,Species,Strychnos chromatoxylon,547112-1
+358,547114-1,"['CMN', 'CON', 'GAB', 'NGA']",[],[],Strychnos chrysophylla,547114-1,Species,Strychnos chrysophylla,547114-1
+359,547124-1,"['ANG', 'BOT', 'BUR', 'CPV', 'CON', 'GAB', 'KEN', 'MLW', 'MOZ', 'NAM', 'TVL', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos cocculoides,547124-1,Species,Strychnos cocculoides,547124-1
+360,547125-1,"['BOL', 'BZN', 'BZC', 'CLM', 'ECU', 'FRG', 'GUY', 'PER', 'SUR', 'VEN']",[],[],Strychnos cogens,547125-1,Species,Strychnos cogens,547125-1
+361,247295-2,"['CLM', 'COS', 'PAN', 'PER', 'VEN']",[],[],Strychnos colombiensis,247295-2,Species,Strychnos colombiensis,247295-2
+362,547134-1,"['BEN', 'BKN', 'CMN', 'CAF', 'GAB', 'GUI', 'GNB', 'IVO', 'LBR', 'NGA', 'SEN', 'UGA', 'ZAI']",[],[],Strychnos congolana,547134-1,Species,Strychnos congolana,547134-1
+363,547138-1,[],[],['SRL'],Strychnos coriacea,547138-1,Species,Strychnos coriacea,547138-1
+364,247298-2,"['CLM', 'PAN']",[],[],Strychnos croatii,247298-2,Species,Strychnos croatii,247298-2
+365,547143-1,"['BKN', 'GAB', 'IVO', 'LBR', 'SIE']",[],[],Strychnos cuminodora,547143-1,Species,Strychnos cuminodora,547143-1
+366,547145-1,"['CON', 'GAB', 'ZAI']",[],[],Strychnos cuniculina,547145-1,Species,Strychnos cuniculina,547145-1
+367,547147-1,"['MLY', 'THA']",[],[],Strychnos curtisii,547147-1,Species,Strychnos curtisii,547147-1
+368,931165-1,['VIE'],[],[],Strychnos daclacensis,931165-1,Species,Strychnos daclacensis,931165-1
+369,547149-1,"['ANG', 'CMN', 'CON', 'GAB', 'ZAI']",[],[],Strychnos dale,547149-1,Species,Strychnos dale,547149-1
+370,547150-1,['IND'],[],[],Strychnos dalzellii,547150-1,Species,Strychnos dalzellii,547150-1
+371,77121342-1,['BZL'],[],[],Strychnos dantaensis,77121342-1,Species,Strychnos dantaensis,77121342-1
+372,547151-1,"['BOL', 'BZN', 'BZC', 'CLM', 'COS', 'ECU', 'GUY', 'NIC', 'PAN', 'PER']",[],[],Strychnos darienensis,547151-1,Species,Strychnos darienensis,547151-1
+373,247299-2,['VEN'],[],[],Strychnos davidsei,247299-2,Species,Strychnos davidsei,247299-2
+374,50426037-2,"['CPP', 'KEN', 'NAT', 'MDG', 'MLW', 'MOZ', 'TVL', 'SOM', 'TAN', 'ZAM', 'ZIM']",[],[],Strychnos decussata,50426037-2,Species,Strychnos decussata,50426037-2
+375,547156-1,"['BEN', 'CMN', 'CAF', 'GAB', 'GUI', 'IVO', 'LBR', 'NGA', 'SIE', 'ZAI']",[],[],Strychnos densiflora,547156-1,Species,Strychnos densiflora,547156-1
+376,247300-2,"['BZN', 'GUY', 'VEN']",[],[],Strychnos diaboli,247300-2,Species,Strychnos diaboli,247300-2
+377,547160-1,['VIE'],[],[],Strychnos dinhensis,547160-1,Species,Strychnos dinhensis,547160-1
+378,547161-1,"['IVO', 'LBR']",[],[],Strychnos dinklagei,547161-1,Species,Strychnos dinklagei,547161-1
+379,547162-1,['MDG'],[],[],Strychnos diplotricha,547162-1,Species,Strychnos diplotricha,547162-1
+380,247301-2,"['BZN', 'BZE', 'FRG', 'SUR']",[],[],Strychnos divaricans,247301-2,Species,Strychnos divaricans,247301-2
+381,547167-1,"['CMN', 'CAF', 'CON', 'GAB', 'NGA']",[],[],Strychnos dolichothyrsa,547167-1,Species,Strychnos dolichothyrsa,547167-1
+382,247302-2,['BZN'],[],[],Strychnos duckei,247302-2,Species,Strychnos duckei,247302-2
+383,247303-2,['ECU'],[],[],Strychnos ecuadoriensis,247303-2,Species,Strychnos ecuadoriensis,247303-2
+384,547178-1,['CMN'],[],[],Strychnos elaeocarpa,547178-1,Species,Strychnos elaeocarpa,547178-1
+385,547183-1,"['BOL', 'BZN', 'BZE', 'BZC', 'CLM', 'ECU', 'FRG', 'GUY', 'PAN', 'PER', 'SUR', 'VEN']",[],[],Strychnos erichsonii,547183-1,Species,Strychnos erichsonii,547183-1
+386,247305-2,"['BZN', 'FRG', 'SUR']",[],[],Strychnos eugeniifolia,247305-2,Species,Strychnos eugeniifolia,247305-2
+387,547189-1,"['CON', 'GAB', 'ZAI']",[],[],Strychnos fallax,547189-1,Species,Strychnos fallax,547189-1
+388,247306-2,"['VEN', 'VNA']",[],[],Strychnos fendleri,247306-2,Species,Strychnos fendleri,247306-2
+389,547193-1,"['BOR', 'MLY', 'SUM']",[],[],Strychnos flavescens,547193-1,Species,Strychnos flavescens,547193-1
+390,547195-1,"['ANG', 'BEN', 'CMN', 'CAF', 'CON', 'GAB', 'GHA', 'IVO', 'LBR', 'NGA', 'SIE', 'TOG', 'ZAI']",[],[],Strychnos floribunda,547195-1,Species,Strychnos floribunda,547195-1
+391,247307-2,['BZN'],[],[],Strychnos froesii,247307-2,Species,Strychnos froesii,247307-2
+392,247308-2,"['BZE', 'BZS', 'BZL']",[],[],Strychnos fulvotomentosa,247308-2,Species,Strychnos fulvotomentosa,247308-2
+393,547200-1,"['BOL', 'BZN', 'BZE', 'BZL', 'BZC']",[],[],Strychnos gardneri,547200-1,Species,Strychnos gardneri,547200-1
+394,547204-1,['NAT'],[],[],Strychnos gerrardii,547204-1,Species,Strychnos gerrardii,547204-1
+395,547207-1,"['BZN', 'BZC', 'FRG', 'GUY', 'PER', 'SUR']",[],[],Strychnos glabra,547207-1,Species,Strychnos glabra,547207-1
+396,547209-1,"['CMN', 'NGA']",[],[],Strychnos gnetifolia,547209-1,Species,Strychnos gnetifolia,547209-1
+397,247311-2,['BZC'],[],[],Strychnos goiasensis,247311-2,Species,Strychnos goiasensis,247311-2
+398,547213-1,"['CAB', 'CMN', 'CON', 'ZAM', 'ZAI']",[],[],Strychnos gossweileri,547213-1,Species,Strychnos gossweileri,547213-1
+399,547216-1,"['CUB', 'DOM']",[],[],Strychnos grayi,547216-1,Species,Strychnos grayi,547216-1
+400,547217-1,"['BLZ', 'BZN', 'CLM', 'COS', 'ECU', 'FRG', 'GUA', 'MXG', 'PAN', 'PER', 'VEN']",[],[],Strychnos gubleri,547217-1,Species,Strychnos gubleri,547217-1
+401,547220-1,"['BOL', 'BZN', 'BZL', 'BZC', 'CLM', 'COS', 'ECU', 'FRG', 'GUY', 'PER', 'SUR', 'VEN']",[],[],Strychnos guianensis,547220-1,Species,Strychnos guianensis,547220-1
+402,547225-1,"['ANG', 'CPP', 'ETH', 'KEN', 'NAT', 'MDG', 'MLW', 'MOZ', 'TVL', 'SOM', 'SUD', 'SWZ', 'TAN', 'UGA', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos henningsii,547225-1,Species,Strychnos henningsii,547225-1
+403,547232-1,"['BZN', 'FRG', 'GUY']",[],[],Strychnos hirsuta,547232-1,Species,Strychnos hirsuta,547232-1
+404,547240-1,"['BEN', 'CMN', 'CAF', 'CON', 'EQG', 'GAB', 'GHA', 'IVO', 'LBR', 'NGA', 'SIE', 'ZAI']",[],[],Strychnos icaja,547240-1,Species,Strychnos icaja,547240-1
+405,547242-1,"['BOR', 'CHC', 'CHS', 'CHH', 'JAW', 'MLY', 'PHI', 'SUM', 'THA', 'VIE']",[],[],Strychnos ignatii,547242-1,Species,Strychnos ignatii,547242-1
+406,547244-1,"['ANG', 'BEN', 'BKN', 'BUR', 'CMN', 'CAF', 'CHA', 'CON', 'ERI', 'ETH', 'GHA', 'GUI', 'GNB', 'IVO', 'MLW', 'MLI', 'MOZ', 'NGR', 'NGA', 'RWA', 'SUD', 'TAN', 'TOG', 'UGA', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos innocua,547244-1,Species,Strychnos innocua,547244-1
+407,77226957-1,"['ANG', 'BEN', 'BKN', 'BUR', 'CMN', 'CAF', 'CHA', 'CON', 'ERI', 'ETH', 'GHA', 'GUI', 'GNB', 'IVO', 'MLW', 'MLI', 'MOZ', 'NGR', 'NGA', 'RWA', 'SUD', 'TAN', 'TOG', 'UGA', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos innocua var. innocua,77226957-1,Variety,Strychnos innocua,547244-1
+408,77112473-1,['BZL'],[],[],Strychnos jacarepiensis,77112473-1,Species,Strychnos jacarepiensis,77112473-1
+409,247314-2,"['BZN', 'CLM', 'PER']",[],[],Strychnos javariensis,247314-2,Species,Strychnos javariensis,247314-2
+410,547247-1,"['BZN', 'BZC', 'CLM', 'ECU', 'FRG', 'PER', 'VEN']",[],[],Strychnos jobertiana,547247-1,Species,Strychnos jobertiana,547247-1
+411,547248-1,"['ANG', 'BEN', 'CMN', 'CAF', 'CON', 'GAB', 'GHA', 'GUI', 'GGI', 'IVO', 'LBR', 'NGA', 'SIE', 'TOG', 'UGA', 'ZAI']",[],[],Strychnos johnsonii,547248-1,Species,Strychnos johnsonii,547248-1
+412,547252-1,"['ANG', 'BUR', 'TAN', 'ZAM', 'ZAI']",[],[],Strychnos kasengaensis,547252-1,Species,Strychnos kasengaensis,547252-1
+413,247316-2,['BZN'],[],[],Strychnos krukoffiana,247316-2,Species,Strychnos krukoffiana,247316-2
+414,547261-1,"['CBD', 'PHI', 'THA']",[],[],Strychnos lanata,547261-1,Species,Strychnos lanata,547261-1
+415,547271-1,['NWG'],[],[],Strychnos ledermannii,547271-1,Species,Strychnos ledermannii,547271-1
+416,547272-1,['VIE'],[],[],Strychnos leenhoutsii,547272-1,Species,Strychnos leenhoutsii,547272-1
+417,247318-2,"['CLM', 'PER']",[],[],Strychnos lobelioides,247318-2,Species,Strychnos lobelioides,247318-2
+418,60452498-2,"['CMN', 'CAF', 'CON', 'GAB', 'IVO', 'LBR', 'NGA', 'ZAI']",[],[],Strychnos longicaudata,60452498-2,Species,Strychnos longicaudata,60452498-2
+419,547293-1,"['ANG', 'BUR', 'CAF', 'MLW', 'MOZ', 'RWA', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos lucens,547293-1,Species,Strychnos lucens,547293-1
+420,547295-1,"['JAW', 'LSI', 'MOL', 'NTA', 'QLD', 'THA', 'VIE', 'WAU']",['CHH'],[],Strychnos lucida,547295-1,Species,Strychnos lucida,547295-1
+421,547296-1,['PHI'],[],[],Strychnos luzonensis,547296-1,Species,Strychnos luzonensis,547296-1
+422,547300-1,"['ANG', 'BOT', 'CPV', 'KEN', 'NAT', 'MDG', 'MLW', 'MOZ', 'TVL', 'SOM', 'SWZ', 'TAN', 'ZAM', 'ZIM']",[],[],Strychnos madagascariensis,547300-1,Species,Strychnos madagascariensis,547300-1
+423,547301-1,"['ASS', 'MLY', 'MYA']",[],[],Strychnos maingayi,547301-1,Species,Strychnos maingayi,547301-1
+424,547303-1,"['CMN', 'GAB', 'GHA', 'IVO', 'LBR', 'NGA']",[],[],Strychnos malacoclados,547303-1,Species,Strychnos malacoclados,547303-1
+425,247322-2,['BZN'],[],[],Strychnos malacosperma,247322-2,Species,Strychnos malacosperma,247322-2
+426,547305-1,"['CON', 'GAB', 'ZAI']",[],[],Strychnos malchairii,547305-1,Species,Strychnos malchairii,547305-1
+427,547312-1,"['MOZ', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos matopensis,547312-1,Species,Strychnos matopensis,547312-1
+428,247325-2,"['BOL', 'BZN', 'BZE', 'BZC', 'CLM', 'ECU', 'PER', 'VEN']",[],[],Strychnos mattogrossensis,247325-2,Species,Strychnos mattogrossensis,247325-2
+429,547316-1,"['BZN', 'FRG', 'SUR']",[],[],Strychnos medeola,547316-1,Species,Strychnos medeola,547316-1
+430,547318-1,['NWG'],[],[],Strychnos melanocarpa,547318-1,Species,Strychnos melanocarpa,547318-1
+431,547319-1,"['GUI', 'SIE']",[],[],Strychnos melastomatoides,547319-1,Species,Strychnos melastomatoides,547319-1
+432,547320-1,"['BZN', 'FRG', 'GUY', 'SUR']",[],[],Strychnos melinoniana,547320-1,Species,Strychnos melinoniana,547320-1
+433,547322-1,"['MOZ', 'TAN', 'ZIM']",[],[],Strychnos mellodora,547322-1,Species,Strychnos mellodora,547322-1
+434,547324-1,"['CMN', 'CON', 'GAB', 'NGA', 'ZAI']",[],[],Strychnos memecyloides,547324-1,Species,Strychnos memecyloides,547324-1
+435,547332-1,"['IVO', 'LBR']",[],[],Strychnos millepunctata,547332-1,Species,Strychnos millepunctata,547332-1
+436,547334-1,"['CMN', 'GAB']",[],[],Strychnos mimfiensis,547334-1,Species,Strychnos mimfiensis,547334-1
+437,547339-1,"['BAN', 'BIS', 'BOR', 'CBD', 'IND', 'LSI', 'MLY', 'MOL', 'MYA', 'NWG', 'NCB', 'PHI', 'QLD', 'SCZ', 'SOL', 'SRL', 'SUL', 'SUM', 'THA', 'VIE']",[],[],Strychnos minor,547339-1,Species,Strychnos minor,547339-1
+438,77227499-1,"['BAN', 'BIS', 'BOR', 'CBD', 'IND', 'LSI', 'MLY', 'MOL', 'MYA', 'NWG', 'NCB', 'PHI', 'QLD', 'SCZ', 'SOL', 'SRL', 'SUL', 'SUM', 'THA', 'VIE']",[],[],Strychnos minor var. minor,77227499-1,Variety,Strychnos minor,547339-1
+439,886553-1,"['CBD', 'VIE']",[],[],Strychnos minor var. thorelii,886553-1,Variety,Strychnos minor,547339-1
+440,547340-1,"['ANG', 'CPP', 'COM', 'ETH', 'KEN', 'NAT', 'MDG', 'MLW', 'MOZ', 'TVL', 'SIE', 'SUD', 'SWZ', 'TAN', 'UGA', 'ZAI', 'ZIM']",[],[],Strychnos mitis,547340-1,Species,Strychnos mitis,547340-1
+441,547341-1,"['BOL', 'BZN', 'BZE', 'CLM', 'COS', 'ECU', 'FRG', 'GUY', 'PER', 'SUR', 'VEN']",[],[],Strychnos mitscherlichii,547341-1,Species,Strychnos mitscherlichii,547341-1
+442,77227814-1,"['BOL', 'BZN', 'BZE', 'CLM', 'COS', 'FRG', 'GUY', 'PER', 'SUR', 'VEN']",[],[],Strychnos mitscherlichii var. mitscherlichii,77227814-1,Variety,Strychnos mitscherlichii,547341-1
+443,247328-2,"['BOL', 'BZN', 'CLM', 'ECU']",[],[],Strychnos mitscherlichii var. pubescentior,247328-2,Variety,Strychnos mitscherlichii,547341-1
+444,547342-1,"['CAF', 'CON', 'ZAI']",[],[],Strychnos moandaensis,547342-1,Species,Strychnos moandaensis,547342-1
+445,547349-1,['MDG'],[],[],Strychnos mostueoides,547349-1,Species,Strychnos mostueoides,547349-1
+446,77222168-1,['THA'],[],[],Strychnos myrioneura,77222168-1,Species,Strychnos myrioneura,77222168-1
+447,547356-1,"['MDG', 'MOZ', 'TAN']",[],[],Strychnos myrtoides,547356-1,Species,Strychnos myrtoides,547356-1
+448,77177752-1,"['BZN', 'BZE']",[],[],Strychnos nana,77177752-1,Species,Strychnos nana,77177752-1
+449,547357-1,['AND'],[],[],Strychnos narcondamensis,547357-1,Species,Strychnos narcondamensis,547357-1
+450,547359-1,"['CMN', 'GAB', 'NGA', 'ZAI']",[],[],Strychnos ndengensis,547359-1,Species,Strychnos ndengensis,547359-1
+451,247329-2,['BZN'],[],[],Strychnos neglecta,247329-2,Species,Strychnos neglecta,247329-2
+452,547361-1,"['CMN', 'CON', 'GAB', 'IVO', 'LBR', 'NGA', 'SIE', 'ZAI']",[],[],Strychnos ngouniensis,547361-1,Species,Strychnos ngouniensis,547361-1
+453,285708-2,['NIC'],[],[],Strychnos nicaraguensis,285708-2,Species,Strychnos nicaraguensis,285708-2
+454,547364-1,"['BOL', 'BZN', 'BZE', 'BZS', 'BZL', 'BZC', 'VEN']",[],[],Strychnos nigricans,547364-1,Species,Strychnos nigricans,547364-1
+455,547365-1,"['BEN', 'CMN', 'CAF', 'GHA', 'GUI', 'IVO', 'LBR', 'NGA', 'TOG', 'ZAI']",[],[],Strychnos nigritana,547365-1,Species,Strychnos nigritana,547365-1
+456,547367-1,"['ASS', 'BAN', 'CHC', 'CHS', 'LAO', 'MYA', 'THA', 'VIE']",[],[],Strychnos nitida,547367-1,Species,Strychnos nitida,547367-1
+457,547370-1,"['ASS', 'CBD', 'LAO', 'MYA', 'THA', 'VIE']",['CHS'],[],Strychnos nux-blanda,547370-1,Species,Strychnos nux-blanda,547370-1
+458,547371-1,"['BAN', 'CBD', 'IND', 'LAO', 'MLY', 'MYA', 'SRL', 'THA', 'VIE']","['CHC', 'CHS', 'CUB', 'CHH', 'PHI', 'TAI', 'TRT']",[],Strychnos nux-vomica,547371-1,Species,Strychnos nux-vomica,547371-1
+459,547375-1,"['IVO', 'LBR']",[],[],Strychnos odorata,547375-1,Species,Strychnos odorata,547375-1
+460,247332-2,"['BZN', 'FRG', 'SUR']",[],[],Strychnos oiapocensis,247332-2,Species,Strychnos oiapocensis,247332-2
+461,547378-1,['PHI'],[],[],Strychnos oleifolia,547378-1,Species,Strychnos oleifolia,547378-1
+462,547385-1,"['BOR', 'CBD', 'CHS', 'CHH', 'MLY', 'PHI', 'SUL', 'SUM', 'VIE']",[],[],Strychnos ovata,547385-1,Species,Strychnos ovata,547385-1
+463,247334-2,"['BZN', 'CLM', 'ECU']",[],[],Strychnos pachycarpa,247334-2,Species,Strychnos pachycarpa,247334-2
+464,547390-1,"['BLZ', 'CLM', 'COS', 'ELS', 'GUA', 'HON', 'MXG', 'MXN', 'MXT', 'MXS', 'NIC', 'PAN', 'VEN']",[],[],Strychnos panamensis,547390-1,Species,Strychnos panamensis,547390-1
+465,547392-1,"['KEN', 'MDG', 'MOZ', 'TAN']",[],[],Strychnos panganensis,547392-1,Species,Strychnos panganensis,547392-1
+466,547398-1,"['BOL', 'BZN', 'BZE', 'BZS', 'BZL', 'BZC', 'CLM', 'PAR', 'PER']",[],[],Strychnos parviflora,547398-1,Species,Strychnos parviflora,547398-1
+467,547399-1,"['BOL', 'BZN', 'BZE', 'BZL', 'BZC', 'PAR']",[],[],Strychnos parvifolia,547399-1,Species,Strychnos parvifolia,547399-1
+468,547401-1,"['BLZ', 'BOL', 'BZN', 'BZE', 'BZC', 'CLM', 'COS', 'ECU', 'FRG', 'GUA', 'GUY', 'HON', 'MXT', 'NIC', 'PAN', 'PER', 'SUR', 'VEN']",[],[],Strychnos peckii,547401-1,Species,Strychnos peckii,547401-1
+469,547405-1,"['GAB', 'ZAI']",[],[],Strychnos penninervis,547405-1,Species,Strychnos penninervis,547405-1
+470,547406-1,['MDG'],[],[],Strychnos pentantha,547406-1,Species,Strychnos pentantha,547406-1
+471,547408-1,"['CMN', 'CAF', 'CON', 'GAB', 'GHA', 'NGA', 'ZAI']",[],[],Strychnos phaeotricha,547408-1,Species,Strychnos phaeotricha,547408-1
+472,547415-1,"['BOL', 'BZN', 'CLM', 'PAN', 'PER']",[],[],Strychnos poeppigii,547415-1,Species,Strychnos poeppigii,547415-1
+473,547416-1,"['CBD', 'LAO', 'THA', 'VIE']",[],[],Strychnos polyantha,547416-1,Species,Strychnos polyantha,547416-1
+474,547419-1,['BOR'],[],[],Strychnos polytrichantha,547419-1,Species,Strychnos polytrichantha,547419-1
+475,547420-1,"['BOT', 'BUR', 'CPV', 'IND', 'MDG', 'MLW', 'MOZ', 'MYA', 'TVL', 'RWA', 'SRL', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos potatorum,547420-1,Species,Strychnos potatorum,547420-1
+476,247341-2,['BZN'],[],[],Strychnos progeliana,247341-2,Species,Strychnos progeliana,247341-2
+477,547425-1,"['BOL', 'BZN', 'BZE', 'BZL', 'BZC', 'PAR']",[],[],Strychnos pseudoquina,547425-1,Species,Strychnos pseudoquina,547425-1
+478,547427-1,['QLD'],[],[],Strychnos psilosperma,547427-1,Species,Strychnos psilosperma,547427-1
+479,77119500-1,['PAN'],[],[],Strychnos puberula,77119500-1,Species,Strychnos puberula,77119500-1
+480,547428-1,"['BOR', 'MLY']",[],[],Strychnos pubescens,547428-1,Species,Strychnos pubescens,547428-1
+481,247343-2,['BZL'],[],[],Strychnos pubiflora,247343-2,Species,Strychnos pubiflora,247343-2
+482,547430-1,"['ANG', 'BOT', 'CPV', 'CON', 'MLW', 'NAM', 'TVL', 'TAN', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos pungens,547430-1,Species,Strychnos pungens,547430-1
+483,247344-2,"['BZN', 'BZE', 'CLM', 'ECU', 'PER', 'SUR']",[],[],Strychnos ramentifera,247344-2,Species,Strychnos ramentifera,247344-2
+484,247345-2,"['BZE', 'BZL']",[],[],Strychnos recognita,247345-2,Species,Strychnos recognita,247345-2
+485,547443-1,['GAB'],[],[],Strychnos retinervis,547443-1,Species,Strychnos retinervis,547443-1
+486,547448-1,[],[],['MLY'],Strychnos ridleyi,547448-1,Species,Strychnos ridleyi,547448-1
+487,247347-2,"['BZE', 'BZL']",[],[],Strychnos romeu-belenii,247347-2,Species,Strychnos romeu-belenii,247347-2
+488,547453-1,"['BOL', 'BZN', 'BZC', 'CLM', 'ECU', 'FRG', 'PER', 'VEN']",[],[],Strychnos rondeletioides,547453-1,Species,Strychnos rondeletioides,547453-1
+489,547455-1,"['BOL', 'BZE', 'BZS', 'BZL', 'BZC']",[],[],Strychnos rubiginosa,547455-1,Species,Strychnos rubiginosa,547455-1
+490,547456-1,"['MLY', 'MYA']",[],[],Strychnos rufa,547456-1,Species,Strychnos rufa,547456-1
+491,547458-1,"['AND', 'CBD', 'LAO', 'THA', 'VIE']",[],[],Strychnos rupicola,547458-1,Species,Strychnos rupicola,547458-1
+492,547459-1,"['CMN', 'CAF', 'GAB', 'NGA', 'ZAI']",[],[],Strychnos samba,547459-1,Species,Strychnos samba,547459-1
+493,247349-2,"['BZN', 'BZC', 'CLM', 'PER']",[],[],Strychnos sandwithiana,247349-2,Species,Strychnos sandwithiana,247349-2
+494,547464-1,"['CAB', 'CMN', 'CAF', 'CON', 'GAB', 'KEN', 'TAN', 'ZAI']",[],[],Strychnos scheffleri,547464-1,Species,Strychnos scheffleri,547464-1
+495,247350-2,"['BZN', 'CLM', 'VEN']",[],[],Strychnos schultesiana,247350-2,Species,Strychnos schultesiana,247350-2
+496,247351-2,"['ECU', 'PER']",[],[],Strychnos schunkei,247351-2,Species,Strychnos schunkei,247351-2
+497,247353-2,['BZE'],[],[],Strychnos setosa,247353-2,Species,Strychnos setosa,247353-2
+498,247355-2,"['BZN', 'CLM', 'ECU', 'FRG', 'PER']",[],[],Strychnos solerederi,247355-2,Species,Strychnos solerederi,247355-2
+499,247356-2,"['BOL', 'BZN', 'BZE', 'CLM', 'ECU', 'PER']",[],[],Strychnos solimoesana,247356-2,Species,Strychnos solimoesana,247356-2
+500,931166-1,['VIE'],[],[],Strychnos sonlaensis,931166-1,Species,Strychnos sonlaensis,931166-1
+501,547483-1,"['BEN', 'IVO', 'LBR', 'TOG']",[],[],Strychnos soubrensis,547483-1,Species,Strychnos soubrensis,547483-1
+502,547485-1,"['ANG', 'BEN', 'BOT', 'BKN', 'BUR', 'CMN', 'CPP', 'CPV', 'CAF', 'CHA', 'COM', 'CON', 'ETH', 'GAM', 'GHA', 'GUI', 'GNB', 'IVO', 'KEN', 'NAT', 'MDG', 'MLW', 'MLI', 'MOZ', 'NAM', 'NGR', 'NGA', 'TVL', 'RWA', 'SEN', 'SIE', 'SOM', 'SUD', 'SWZ', 'TAN', 'TOG', 'UGA', 'ZAM', 'ZAI', 'ZIM']","['FLA', 'MAU', 'REU', 'SEY']",[],Strychnos spinosa,547485-1,Species,Strychnos spinosa,547485-1
+503,547487-1,"['BEN', 'CMN', 'GHA', 'GUI', 'GNB', 'IVO', 'LBR', 'NGA', 'SEN', 'SIE']",[],[],Strychnos splendens,547487-1,Species,Strychnos splendens,547487-1
+504,547488-1,"['CMN', 'GAB']",[],[],Strychnos staudtii,547488-1,Species,Strychnos staudtii,547488-1
+505,547493-1,"['BZN', 'CLM', 'PER']",[],[],Strychnos subcordata,547493-1,Species,Strychnos subcordata,547493-1
+506,247358-2,"['COS', 'GUA', 'HON', 'MXG', 'MXT', 'MXS']",[],[],Strychnos tabascana,247358-2,Species,Strychnos tabascana,247358-2
+507,547502-1,"['CMN', 'CAF', 'GAB', 'NGA', 'ZAI']",[],[],Strychnos talbotiae,547502-1,Species,Strychnos talbotiae,547502-1
+508,247359-2,"['BOL', 'BZN', 'CLM', 'ECU', 'PER', 'VEN']",[],[],Strychnos tarapotensis,247359-2,Species,Strychnos tarapotensis,247359-2
+509,547504-1,"['CMN', 'GAB', 'ZAI']",[],[],Strychnos tchibangensis,547504-1,Species,Strychnos tchibangensis,547504-1
+510,547508-1,"['CMN', 'CON', 'GAB']",[],[],Strychnos ternata,547508-1,Species,Strychnos ternata,547508-1
+511,547511-1,['SRL'],[],[],Strychnos tetragona,547511-1,Species,Strychnos tetragona,547511-1
+512,547514-1,"['CBD', 'MLY', 'MYA', 'THA', 'VIE']",[],[],Strychnos thorelii,547514-1,Species,Strychnos thorelii,547514-1
+513,547520-1,"['BZN', 'BZE', 'ECU', 'FRG', 'GUY', 'SUR', 'VEN']",[],[],Strychnos tomentosa,547520-1,Species,Strychnos tomentosa,547520-1
+514,247362-2,['BZL'],[],[],Strychnos torresiana,247362-2,Species,Strychnos torresiana,247362-2
+515,547525-1,"['BOL', 'BZN', 'CLM', 'COS', 'ECU', 'FRG', 'GUY', 'PAN', 'SUR', 'VEN']",[],[],Strychnos toxifera,547525-1,Species,Strychnos toxifera,547525-1
+516,547527-1,"['CMN', 'GAB', 'GGI', 'NGA']",[],[],Strychnos tricalysioides,547527-1,Species,Strychnos tricalysioides,547527-1
+517,547529-1,['SRL'],[],[],Strychnos trichocalyx,547529-1,Species,Strychnos trichocalyx,547529-1
+518,547530-1,['MDG'],[],[],Strychnos trichoneura,547530-1,Species,Strychnos trichoneura,547530-1
+519,77221793-1,"['BOL', 'BZE', 'BZS', 'BZL', 'BZC']",[],[],Strychnos trinervis,77221793-1,Species,Strychnos trinervis,77221793-1
+520,247364-2,"['ECU', 'PER']",[],[],Strychnos tseasnum,247364-2,Species,Strychnos tseasnum,247364-2
+521,547538-1,"['CBD', 'CHS', 'CHH', 'VIE']",[],[],Strychnos umbellata,547538-1,Species,Strychnos umbellata,547538-1
+522,547542-1,"['CMN', 'CAF', 'CON', 'GAB', 'NGA', 'UGA', 'ZAI']",[],[],Strychnos urceolata,547542-1,Species,Strychnos urceolata,547542-1
+523,547543-1,"['BEN', 'BKN', 'BUR', 'CON', 'GHA', 'GUI', 'IVO', 'KEN', 'NAT', 'LBR', 'MDG', 'MOZ', 'NGA', 'TVL', 'RWA', 'SIE', 'SWZ', 'TAN', 'UGA', 'ZAM', 'ZAI', 'ZIM']",[],[],Strychnos usambarensis,547543-1,Species,Strychnos usambarensis,547543-1
+524,547548-1,"['ASS', 'BOR', 'LAO', 'MLY', 'THA', 'VIE']",[],[],Strychnos vanprukii,547548-1,Species,Strychnos vanprukii,547548-1
+525,547549-1,"['CON', 'ZAI']",[],[],Strychnos variabilis,547549-1,Species,Strychnos variabilis,547549-1
+526,547553-1,"['BOR', 'JAW', 'LSI', 'MLY', 'SUM', 'THA']",[],[],Strychnos villosa,547553-1,Species,Strychnos villosa,547553-1
+527,547557-1,['FIJ'],[],[],Strychnos vitiensis,547557-1,Species,Strychnos vitiensis,547557-1
+528,547566-1,"['AND', 'ASS', 'BAN', 'CHC', 'MYA', 'NCB', 'SRL', 'VIE']",[],[],Strychnos wallichiana,547566-1,Species,Strychnos wallichiana,547566-1
+529,547569-1,"['MOZ', 'TAN', 'ZAM', 'ZAI']",[],[],Strychnos xantha,547569-1,Species,Strychnos xantha,547569-1
+530,547572-1,['TAN'],[],[],Strychnos xylophylla,547572-1,Species,Strychnos xylophylla,547572-1
+531,547574-1,"['CMN', 'CON', 'GAB', 'ZAI']",[],[],Strychnos zenkeri,547574-1,Species,Strychnos zenkeri,547574-1
+532,547612-1,"['ANG', 'BEN', 'BKN', 'CMN', 'CAF', 'CON', 'EQG', 'GAB', 'GAM', 'GHA', 'GUI', 'GNB', 'IVO', 'LBR', 'MLI', 'NGA', 'SEN', 'SIE', 'TOG', 'ZAI']",[],[],Usteria guineensis,547612-1,Species,Usteria guineensis,547612-1
