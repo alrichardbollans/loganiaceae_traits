@@ -1,0 +1,7 @@
+GBIF Occurrences for Apocynaceae, Rubiaceae and Celastraceae
+Species
+GBIF.org (01 June 2022) GBIF Occurrence Download https://doi.org/10.15468/dl.sj97kj
+Subspecies
+GBIF.org (01 June 2022) GBIF Occurrence Download https://doi.org/10.15468/dl.8ejg4q
+Varieties
+GBIF.org (01 June 2022) GBIF Occurrence Download https://doi.org/10.15468/dl.pmgjcd
