@@ -10,3 +10,6 @@ pykew
 wikipedia-api
 lxml~=4.8.0
 scikit-learn~=1.0.2
+html5lib
+bs4
+geopandas

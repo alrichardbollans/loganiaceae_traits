@@ -164,6 +164,6 @@ po/*~
 
 
 # Large files (added with "find * -size +100M | cat >> .gitignore")
-/climate_vars/inputs/*
+/logan_climate_vars/inputs/*
 
 .Rproj.user
