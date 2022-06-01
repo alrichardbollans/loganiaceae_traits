@@ -1,0 +1,66 @@
+,Name,Language,Accepted_Name,Accepted_Species,Accepted_Species_ID,Accepted_ID,Accepted_Rank
+0,Antonia ovata,['en'],Antonia ovata,Antonia ovata,545655-1,545655-1,Species
+1,Gardneria angustifolia,['zh'],Gardneria angustifolia,Gardneria angustifolia,546332-1,546332-1,Species
+2,Gardneria lanceolata,['zh'],Gardneria lanceolata,Gardneria lanceolata,546339-1,546339-1,Species
+3,Gardneria multiflora,['zh'],Gardneria multiflora,Gardneria multiflora,546341-1,546341-1,Species
+4,Gardneria nutans,['zh'],Gardneria nutans,Gardneria nutans,546343-1,546343-1,Species
+5,Gardneria ovata,['zh'],Gardneria ovata,Gardneria ovata,546344-1,546344-1,Species
+6,Geniostoma borbonicum,['fr'],Geniostoma borbonicum,Geniostoma borbonicum,546371-1,546371-1,Species
+7,Geniostoma huttonii,['en'],Geniostoma huttonii,Geniostoma huttonii,970839-1,970839-1,Species
+8,Geniostoma macrophyllum,['en'],Geniostoma macrophyllum,Geniostoma macrophyllum,546429-1,546429-1,Species
+9,Geniostoma petiolosum,['en'],Geniostoma petiolosum,Geniostoma petiolosum,546449-1,546449-1,Species
+10,Geniostoma rapense,['en'],Geniostoma rapense,Geniostoma rapense,546458-1,546458-1,Species
+11,Geniostoma rupestre,"['fr', 'zh']",Geniostoma rupestre,Geniostoma rupestre,546462-1,546462-1,Species
+12,Geniostoma rupestre var. ligustrifolium,['en'],Geniostoma rupestre var. ligustrifolium,Geniostoma rupestre,546462-1,953860-1,Variety
+13,Geniostoma stipulare,['en'],Geniostoma stipulare,Geniostoma stipulare,546474-1,546474-1,Species
+14,Geniostoma sykesii,['en'],Geniostoma sykesii,Geniostoma sykesii,897805-1,897805-1,Species
+15,Geniostoma umbellatum,"['en', 'fr']",Geniostoma umbellatum,Geniostoma umbellatum,546477-1,546477-1,Species
+16,Logania albiflora,['en'],Logania albiflora,Logania albiflora,546584-1,546584-1,Species
+17,Mitrasacme polymorpha,['en'],Mitrasacme polymorpha,Mitrasacme polymorpha,546689-1,546689-1,Species
+18,Mitrasacme pygmaea,['zh'],Mitrasacme pygmaea,Mitrasacme pygmaea,546693-1,546693-1,Species
+19,Mitreola pedicellata,['zh'],Mitreola pedicellata,Mitreola pedicellata,546719-1,546719-1,Species
+20,Mitreola petiolata,['zh'],Mitreola petiolata,Mitreola petiolata,546721-1,546721-1,Species
+21,Mitreola petiolatoides,['zh'],Mitreola petiolatoides,Mitreola petiolatoides,546722-1,546722-1,Species
+22,Mitreola reticulata,['zh'],Mitreola reticulata,Mitreola reticulata,546723-1,546723-1,Species
+23,Mitreola sessilifolia,['en'],Mitreola sessilifolia,Mitreola sessilifolia,30219651-2,30219651-2,Species
+24,Neuburgia alata,['en'],Neuburgia alata,Neuburgia alata,546784-1,546784-1,Species
+25,Neuburgia collina,['en'],Neuburgia collina,Neuburgia collina,546786-1,546786-1,Species
+26,Neuburgia macrocarpa,['en'],Neuburgia macrocarpa,Neuburgia macrocarpa,546789-1,546789-1,Species
+27,Neuburgia macroloba,['en'],Neuburgia macroloba,Neuburgia macroloba,546790-1,546790-1,Species
+28,Neuburgia tubiflora,"['en', 'fr']",Neuburgia tubiflora,Neuburgia tubiflora,80481-1,80481-1,Species
+29,Schizacme archeri,['en'],Schizacme archeri,Schizacme archeri,991001-1,991001-1,Species
+30,Spigelia anthelmia,"['en', 'pt']",Spigelia anthelmia,Spigelia anthelmia,318920-2,318920-2,Species
+31,Spigelia gentianoides,['en'],Spigelia gentianoides,Spigelia gentianoides,30333464-2,30333464-2,Species
+32,Spigelia genuflexa,"['en', 'fr']",Spigelia genuflexa,Spigelia genuflexa,77114017-1,77114017-1,Species
+33,Spigelia guianensis,['fr'],Spigelia guianensis,Spigelia guianensis,546940-1,546940-1,Species
+34,Spigelia marilandica,['en'],Spigelia marilandica,Spigelia marilandica,546966-1,546966-1,Species
+35,Spigelia polystachya,['es'],Spigelia polystachya,Spigelia polystachya,546986-1,546986-1,Species
+36,Strychnos angustiflora,['zh'],Strychnos angustiflora,Strychnos angustiflora,547039-1,547039-1,Species
+37,Strychnos axillaris,['zh'],Strychnos axillaris,Strychnos axillaris,547050-1,547050-1,Species
+38,Strychnos brasiliensis,['pt'],Strychnos brasiliensis,Strychnos brasiliensis,547081-1,547081-1,Species
+39,Strychnos camptoneura,"['en', 'fr']",Strychnos camptoneura,Strychnos camptoneura,547094-1,547094-1,Species
+40,Strychnos cathayensis,['zh'],Strychnos cathayensis,Strychnos cathayensis,547102-1,547102-1,Species
+41,Strychnos chromatoxylon,['en'],Strychnos chromatoxylon,Strychnos chromatoxylon,547112-1,547112-1,Species
+42,Strychnos elaeocarpa,"['en', 'fr']",Strychnos elaeocarpa,Strychnos elaeocarpa,547178-1,547178-1,Species
+43,Strychnos guianensis,['fr'],Strychnos guianensis,Strychnos guianensis,547220-1,547220-1,Species
+44,Strychnos icaja,"['en', 'fr']",Strychnos icaja,Strychnos icaja,547240-1,547240-1,Species
+45,Strychnos ignatii,"['es', 'en', 'fr', 'zh']",Strychnos ignatii,Strychnos ignatii,547242-1,547242-1,Species
+46,Strychnos madagascariensis,['en'],Strychnos madagascariensis,Strychnos madagascariensis,547300-1,547300-1,Species
+47,Strychnos mellodora,['en'],Strychnos mellodora,Strychnos mellodora,547322-1,547322-1,Species
+48,Strychnos millepunctata,"['en', 'fr']",Strychnos millepunctata,Strychnos millepunctata,547332-1,547332-1,Species
+49,Strychnos nitida,['zh'],Strychnos nitida,Strychnos nitida,547367-1,547367-1,Species
+50,Strychnos nux-blanda,"['en', 'zh']",Strychnos nux-blanda,Strychnos nux-blanda,547370-1,547370-1,Species
+51,Strychnos nux-vomica,"['es', 'en', 'fr', 'it', 'pt', 'zh']",Strychnos nux-vomica,Strychnos nux-vomica,547371-1,547371-1,Species
+52,Strychnos ovata,['zh'],Strychnos ovata,Strychnos ovata,547385-1,547385-1,Species
+53,Strychnos panamensis,['fr'],Strychnos panamensis,Strychnos panamensis,547390-1,547390-1,Species
+54,Strychnos potatorum,['en'],Strychnos potatorum,Strychnos potatorum,547420-1,547420-1,Species
+55,Strychnos psilosperma,['en'],Strychnos psilosperma,Strychnos psilosperma,547427-1,547427-1,Species
+56,Strychnos pungens,"['es', 'en', 'fr']",Strychnos pungens,Strychnos pungens,547430-1,547430-1,Species
+57,Strychnos spinosa,"['es', 'en', 'fr', 'it', 'pt']",Strychnos spinosa,Strychnos spinosa,547485-1,547485-1,Species
+58,Strychnos staudtii,['en'],Strychnos staudtii,Strychnos staudtii,547488-1,547488-1,Species
+59,Strychnos ternata,['fr'],Strychnos ternata,Strychnos ternata,547508-1,547508-1,Species
+60,Strychnos tetragona,['en'],Strychnos tetragona,Strychnos tetragona,547511-1,547511-1,Species
+61,Strychnos toxifera,"['en', 'fr']",Strychnos toxifera,Strychnos toxifera,547525-1,547525-1,Species
+62,Strychnos umbellata,['zh'],Strychnos umbellata,Strychnos umbellata,547538-1,547538-1,Species
+63,Strychnos usambarensis,"['en', 'fr']",Strychnos usambarensis,Strychnos usambarensis,547543-1,547543-1,Species
+64,Strychnos wallichiana,['zh'],Strychnos wallichiana,Strychnos wallichiana,547566-1,547566-1,Species
