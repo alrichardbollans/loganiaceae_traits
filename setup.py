@@ -16,6 +16,9 @@ setup(
                                     'logan_metabolite_vars', 'medicinal_usage_vars',
                                     'logan_wcsp_distributions',
                                     'logan_wikipedia_vars']),
+    package_data={
+        "": ["outputs/*"]
+    },
     # *strongly* suggested for sharing
     version='0.1',
     license='MIT',
