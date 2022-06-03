@@ -1,7 +1,5 @@
 from setuptools import setup, find_packages
 
-# To install run pip install -e PATH_TO_PACKAGE
-
 setup(
     name='loganiaceaetraits',
     url='https://github.com/alrichardbollans/loganiaceae_traits',
