@@ -9,11 +9,11 @@ setup(
     author_email='38588335+alrichardbollans@users.noreply.github.com',
     # Needed to actually package something
     packages=find_packages(include=['cleaning_logan_plant_occurrences', 'logan_climate_vars', 'logan_common_name_vars',
-                                    'conservation_priorities',
+                                    'logan_conservation_priority',
                                     'getting_logan_malarial_regions',
                                     'logan_poison_vars',
-                                    'manually_collected_data', 'morphological_vars',
-                                    'logan_metabolite_vars', 'medicinal_usage_vars',
+                                    'logan_manually_collected_data', 'logan_morphological_vars',
+                                    'logan_metabolite_vars', 'logan_medicinal_usage_vars',
                                     'logan_wcsp_distributions',
                                     'logan_wikipedia_vars']),
     package_data={
