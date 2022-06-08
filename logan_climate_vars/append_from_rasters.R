@@ -2,7 +2,7 @@ library(terra)
 library(rjson)
 library(dplyr)
 
-configs = rjson::fromJSON(file = '../large_file_storage/my_directories.json')
+configs = rjson::fromJSON(file = '../../apocynaceae_rubiaceae_traits/large_file_storage/my_directories.json')
 source(here::here('helper_functions.R'))
 
 occ_df = read.csv(file.path(configs$plant_occurences,'outputs','logan_final_cleaned_occurrences.csv'))
@@ -10,10 +10,11 @@ occ_df = read.csv(file.path(configs$plant_occurences,'outputs','logan_final_clea
 
 read_rasters <- function(){
   prep_rasters=list()
-  raster_files = list.files(path=file.path('../../apocynaceae_rubiaceae_traits/climate_vars/temp_outputs','prepared rasters'), pattern='*.tiff$')
+  prepped_rasters_folder = file.path('../../apocynaceae_rubiaceae_traits/climate_vars/temp_outputs','prepared rasters')
+  raster_files = list.files(path=prepped_rasters_folder, pattern='*.tiff$')
   for (r in raster_files){
-    
-    prepped_raster = rast(file.path('temp_outputs','prepared rasters',r))
+    print(r)
+    prepped_raster = rast(file.path(prepped_rasters_folder,r))
     summarise_raster(prepped_raster)
     prep_rasters[[length(prep_rasters)+1]]<-prepped_raster
   }
