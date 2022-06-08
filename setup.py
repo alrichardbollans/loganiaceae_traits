@@ -9,7 +9,6 @@ setup(
     packages=find_packages(include=['cleaning_logan_plant_occurrences', 'logan_climate_vars', 'logan_common_name_vars',
                                     'logan_conservation_priority',
                                     'getting_logan_malarial_regions',
-                                    'logan_poison_vars',
                                     'logan_manually_collected_data', 'logan_morphological_vars',
                                     'logan_metabolite_vars', 'logan_medicinal_usage_vars',
                                     'logan_wcsp_distributions',
