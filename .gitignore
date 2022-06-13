@@ -7,8 +7,8 @@
 *.secrets
 *collaborators.txt
 /large_file_storage/*
-#/manually_collected_data/*
-#/manually_collected_data/*
+#/logan_manually_collected_data/*
+#/logan_manually_collected_data/*
 
 ### Pycharm
 .idea/
