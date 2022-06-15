@@ -1,0 +1,15 @@
+Farit Mochamad Afendi, Taketo Okada,, Mami Yamazaki, Aki-Hirai-Morita, Yukiko Nakamura,
+Kensuke Nakamura, Shun Ikeda, Hiroki Takahashi, Md. Altaf-Ul-Amin, Latifah, Darusman, Kazuki
+Saito, Shigehiko Kanaya, “KNApSAcK Family Databases: Integrated Metabolite-Plant Species
+Databases for Multifaceted Plant Research,” Plant Cell Physiol., 53, e1(1-12), (2012). doi:
+10.1093/pcp/pcr165.
+Accessed 01/06/2022
+
+KEGG BRITE Database
+https://www.genome.jp/kegg/brite.html
+Accessed 21/02/2022
+
+Plants of the World Online (2022). Facilitated by the Royal Botanic Gardens, Kew. Published on the
+Internet; http://www.plantsoftheworldonline.org/
+Accessed 15/06/2022
+Search terms: 'alkaloid'
