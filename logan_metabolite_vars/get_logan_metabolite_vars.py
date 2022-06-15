@@ -85,8 +85,8 @@ def get_logan_knapsack_steroid_hits():
 
     steroid_df = output_steroids_from_metabolites(metabolites_to_check, _logan_steroid_output_csv)
 
-    rubs_apoc_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_compound_hits_for_taxa('steroids', rubs_apoc_metas_data, steroid_df, _logan_steroid_hits_knapsack_output_csv,
+    logan_metas_data = pd.read_csv(logan_metabolites_output_csv)
+    get_compound_hits_for_taxa('steroids', logan_metas_data, steroid_df, _logan_steroid_hits_knapsack_output_csv,
                                fams=logan_families_of_int)
 
 
@@ -95,8 +95,8 @@ def get_logan_knapsack_cardenolide_hits():
 
     card_df = output_cardenolides_from_metabolites(metabolites_to_check, _logan_cardenolide_output_csv)
 
-    rubs_apoc_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_compound_hits_for_taxa('cardenolides', rubs_apoc_metas_data, card_df,
+    logan_metas_data = pd.read_csv(logan_metabolites_output_csv)
+    get_compound_hits_for_taxa('cardenolides', logan_metas_data, card_df,
                                _logan_cardenolide_hits_knapsack_output_csv,
                                fams=logan_families_of_int)
 
@@ -134,7 +134,9 @@ def main():
     # # # recheck_taxa(_check_output_csv)
     # summarise_metabolites()
     # get_logan_antibac_metabolite_hits()
-    get_logan_alkaloid_hits()
+    # get_logan_alkaloid_hits()
+    get_logan_knapsack_cardenolide_hits()
+    get_logan_knapsack_steroid_hits()
     #
     # get_steroid_card_hits()
 
