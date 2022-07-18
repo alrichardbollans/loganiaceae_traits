@@ -1,29 +1,90 @@
 ,Accepted_ID,Accepted_Name,Accepted_Species,Accepted_Species_ID,Accepted_Rank,knapsack_snippet,Sources
-0,318920-2,Spigelia anthelmia,Spigelia anthelmia,318920-2,Species,"""['Ryanodine', '9-Hydroxy-10-epi-ryanodine']""",::KNApSAcK
-1,547024-1,Strychnos aculeata,Strychnos aculeata,547024-1,Species,"""['Brucine']""",::KNApSAcK
-2,547031-1,Strychnos afzelii,Strychnos afzelii,547031-1,Species,"""['Caracurine V', 'Dihydronortoxiferine I']""",::KNApSAcK
-3,247278-2,Strychnos amazonica,Strychnos amazonica,247278-2,Species,"""['Dihydronortoxiferine I', 'Macusine B', 'Mavacurine']""",::KNApSAcK
-4,547039-1,Strychnos angustiflora,Strychnos angustiflora,547039-1,Species,"""['Angustine', 'Angustoline']""",::KNApSAcK
-5,247281-2,Strychnos atlantica,Strychnos atlantica,247281-2,Species,"""['Strychnine', 'Brucine N-oxide', 'Diaboline', 'Normacusine B', 'Pseudobrucine']""",::KNApSAcK
-6,547077-1,Strychnos brachiata,Strychnos brachiata,547077-1,Species,"""['11-Methoxydiaboline']""",::KNApSAcK
-7,547081-1,Strychnos brasiliensis,Strychnos brasiliensis,547081-1,Species,"""['Strychnobrasiline']""",::KNApSAcK
-8,247300-2,Strychnos diaboli,Strychnos diaboli,247300-2,Species,"""['Diaboline']""",::KNApSAcK
-9,547162-1,Strychnos diplotricha,Strychnos diplotricha,547162-1,Species,"""['11-Demethoxymyrtoidine', 'Myrtoidine']""",::KNApSAcK
-10,247301-2,Strychnos divaricans,Strychnos divaricans,247301-2,Species,"""['Mavacurine', 'Calebassine', 'C-curarine']""",::KNApSAcK
-11,547167-1,Strychnos dolichothyrsa,Strychnos dolichothyrsa,547167-1,Species,"""['Caracurine V', 'Dihydronortoxiferine I']""",::KNApSAcK
-12,247307-2,Strychnos froesii,Strychnos froesii,247307-2,Species,"""['C-curarine', 'Toxiferine I']""",::KNApSAcK
-13,547213-1,Strychnos gossweileri,Strychnos gossweileri,547213-1,Species,"""['2,7-Dihydroxyapogeissoschizine']""",::KNApSAcK
-14,547220-1,Strychnos guianensis,Strychnos guianensis,547220-1,Species,"""['Macusine B', 'Mavacurine', ""5',6'-Dehydroguiachrysine"", 'C-Profluorocurine', 'Fluorocurine', 'Guiachrysine', 'Guiaflavine']""",::KNApSAcK
-15,547240-1,Strychnos icaja,Strychnos icaja,547240-1,Species,"""['Pseudostrychnine', 'Genostrychnine', 'Protostrychnine', 'Strychnogucine C', 'Strychnohexamine', 'Strychnogucine A', 'Strychnogucine B', '4-Hydroxystrychnine']""",::KNApSAcK
-16,547242-1,Strychnos ignatii,Strychnos ignatii,547242-1,Species,"""['Brucine', 'Strychnine', '16-Methoxystrychnine']""",::KNApSAcK
-17,547295-1,Strychnos lucida,Strychnos lucida,547295-1,Species,"""['Brucine', 'Strychnine', 'Brucine N-oxide', 'Diaboline', 'Normacusine B', 'Pseudobrucine', '11-Methoxydiaboline', 'Pseudostrychnine', 'Adenosine', 'alpha-Colubrine', 'beta-Colubrine']""",::KNApSAcK
-18,547322-1,Strychnos mellodora,Strychnos mellodora,547322-1,Species,"""['Strictosidine', 'Desoxycordifoline', 'Melinonine F']""",::KNApSAcK
-19,547356-1,Strychnos myrtoides,Strychnos myrtoides,547356-1,Species,"""['Strychnobrasiline', '11-Demethoxymyrtoidine', 'Myrtoidine', '12-Hydroxymalagashanine', 'Malagashanine', '12-Hydroxy-19-epimalagashanine']""",::KNApSAcK
-20,547367-1,Strychnos nitida,Strychnos nitida,547367-1,Species,"""['Strychnine']""",::KNApSAcK
-21,547371-1,Strychnos nux-vomica,Strychnos nux-vomica,547371-1,Species,"""['Brucine', 'Mavacurine', 'Strychnine', 'Normacusine B', 'Pseudobrucine', 'Pseudostrychnine', 'Genostrychnine', 'Protostrychnine', '4-Hydroxystrychnine', 'alpha-Colubrine', 'beta-Colubrine', 'Strictosidine', 'Vomicine', 'Cantleyine', 'Strychnochrysine', '3-Methoxyicajine', 'Isobrucine', 'Isobrucine N-oxide', 'Isostrychnine', 'Isostrychnine N-oxide', '4,21-Dehydrogeissoschizine']""",::KNApSAcK
-22,547392-1,Strychnos panganensis,Strychnos panganensis,547392-1,Species,"""['12-Hydroxy-11-methoxydiaboline', '12-Hydroxy-11-methoxy-N-acetylnor-C-fluorocurarimine', '12-Hydroxy-11-methoxynor-C-fluorocurarine', 'N-Deacetylisoretuline', 'N-Deacetylretuline', 'Panganensine R', 'Panganensine S', 'Panganensine X', 'Panganensine Y']""",::KNApSAcK
-23,547485-1,Strychnos spinosa,Strychnos spinosa,547485-1,Species,"""['Strychnine', 'Brucine N-oxide', 'Diaboline', 'Pseudobrucine']""",::KNApSAcK
-24,547525-1,Strychnos toxifera,Strychnos toxifera,547525-1,Species,"""['Caracurine V', 'Macusine B', 'Mavacurine', 'Calebassine', 'Toxiferine I', '10-O-Methylsarpagine', 'iso-Caracurine V']""",::KNApSAcK
-25,547543-1,Strychnos usambarensis,Strychnos usambarensis,547543-1,Species,"""['Usambarensine', 'Usambarine', 'Chrysopentamine', 'Strychnofoline', 'Tetradehydrolongicaudatine Y', ""10'-Hydroxyusambarensine"", 'Isostrychnopentamine', 'Strychnopentamine']""",::KNApSAcK
-26,547548-1,Strychnos vanprukii,Strychnos vanprukii,547548-1,Species,"""['Akagerine']""",::KNApSAcK
-27,547566-1,Strychnos wallichiana,Strychnos wallichiana,547566-1,Species,"""['Brucine N-oxide', 'Pseudobrucine', '4-Hydroxystrychnine']""",::KNApSAcK
+0,547295-1,Strychnos lucida,Strychnos lucida,547295-1,Species,"""['Brucine', 'Strychnine', 'Brucine N-oxide', 'Diaboline', 'Normacusine B', 'Pseudobrucine', '11-Methoxydiaboline', 'Pseudostrychnine', 'Adenosine', 'alpha-Colubrine', 'beta-Colubrine']""",:Manual:KNApSAcK
+1,547425-1,Strychnos pseudoquina,Strychnos pseudoquina,547425-1,Species,,:Manual:
+2,547240-1,Strychnos icaja,Strychnos icaja,547240-1,Species,"""['Pseudostrychnine', 'Genostrychnine', 'Protostrychnine', 'Strychnogucine C', 'Strychnohexamine', 'Strychnogucine A', 'Strychnogucine B', '4-Hydroxystrychnine']""",:Manual:KNApSAcK
+3,547293-1,Strychnos lucens,Strychnos lucens,547293-1,Species,,:Manual:
+4,547430-1,Strychnos pungens,Strychnos pungens,547430-1,Species,,:Manual:
+5,547248-1,Strychnos johnsonii,Strychnos johnsonii,547248-1,Species,,:Manual:
+6,547340-1,Strychnos mitis,Strychnos mitis,547340-1,Species,,:Manual:
+7,547371-1,Strychnos nux-vomica,Strychnos nux-vomica,547371-1,Species,"""['Brucine', 'Mavacurine', 'Strychnine', 'Normacusine B', 'Pseudobrucine', 'Pseudostrychnine', 'Genostrychnine', 'Protostrychnine', '4-Hydroxystrychnine', 'alpha-Colubrine', 'beta-Colubrine', 'Strictosidine', 'Vomicine', 'Cantleyine', 'Strychnochrysine', '3-Methoxyicajine', 'Isobrucine', 'Isobrucine N-oxide', 'Isostrychnine', 'Isostrychnine N-oxide', '4,21-Dehydrogeissoschizine']""",:Manual:KNApSAcK
+8,547420-1,Strychnos potatorum,Strychnos potatorum,547420-1,Species,,:Manual:
+9,547485-1,Strychnos spinosa,Strychnos spinosa,547485-1,Species,"""['Strychnine', 'Brucine N-oxide', 'Diaboline', 'Pseudobrucine']""",:Manual:KNApSAcK
+10,547549-1,Strychnos variabilis,Strychnos variabilis,547549-1,Species,,:Manual:
+11,547242-1,Strychnos ignatii,Strychnos ignatii,547242-1,Species,"""['Brucine', 'Strychnine', '16-Methoxystrychnine']""",:Manual:KNApSAcK
+12,547303-1,Strychnos malacoclados,Strychnos malacoclados,547303-1,Species,,:Manual:
+13,547543-1,Strychnos usambarensis,Strychnos usambarensis,547543-1,Species,"""['Usambarensine', 'Usambarine', 'Chrysopentamine', 'Strychnofoline', 'Tetradehydrolongicaudatine Y', ""10'-Hydroxyusambarensine"", 'Isostrychnopentamine', 'Strychnopentamine']""",:Manual:KNApSAcK
+14,547312-1,Strychnos matopensis,Strychnos matopensis,547312-1,Species,,:Manual:
+15,547342-1,Strychnos moandaensis,Strychnos moandaensis,547342-1,Species,,:Manual:
+16,547566-1,Strychnos wallichiana,Strychnos wallichiana,547566-1,Species,"""['Brucine N-oxide', 'Pseudobrucine', '4-Hydroxystrychnine']""",:Manual:KNApSAcK
+17,547213-1,Strychnos gossweileri,Strychnos gossweileri,547213-1,Species,"""['2,7-Dihydroxyapogeissoschizine']""",:Manual:KNApSAcK
+18,547322-1,Strychnos mellodora,Strychnos mellodora,547322-1,Species,"""['Strictosidine', 'Desoxycordifoline', 'Melinonine F']""",:Manual:KNApSAcK
+19,547225-1,Strychnos henningsii,Strychnos henningsii,547225-1,Species,,:Manual:
+20,547038-1,Strychnos angolensis,Strychnos angolensis,547038-1,Species,,:Manual:
+21,547464-1,Strychnos scheffleri,Strychnos scheffleri,547464-1,Species,,:Manual:
+22,547252-1,Strychnos kasengaensis,Strychnos kasengaensis,547252-1,Species,,:Manual:
+23,547220-1,Strychnos guianensis,Strychnos guianensis,547220-1,Species,"""['Macusine B', 'Mavacurine', ""5',6'-Dehydroguiachrysine"", 'C-Profluorocurine', 'Fluorocurine', 'Guiachrysine', 'Guiaflavine']""",:Manual:KNApSAcK
+24,547356-1,Strychnos myrtoides,Strychnos myrtoides,547356-1,Species,"""['Strychnobrasiline', '11-Demethoxymyrtoidine', 'Myrtoidine', '12-Hydroxymalagashanine', 'Malagashanine', '12-Hydroxy-19-epimalagashanine']""",:Manual:KNApSAcK
+25,547361-1,Strychnos ngouniensis,Strychnos ngouniensis,547361-1,Species,,:Manual:
+26,547392-1,Strychnos panganensis,Strychnos panganensis,547392-1,Species,"""['12-Hydroxy-11-methoxydiaboline', '12-Hydroxy-11-methoxy-N-acetylnor-C-fluorocurarimine', '12-Hydroxy-11-methoxynor-C-fluorocurarine', 'N-Deacetylisoretuline', 'N-Deacetylretuline', 'Panganensine R', 'Panganensine S', 'Panganensine X', 'Panganensine Y']""",:Manual:KNApSAcK
+27,547094-1,Strychnos camptoneura,Strychnos camptoneura,547094-1,Species,,:Manual:
+28,547081-1,Strychnos brasiliensis,Strychnos brasiliensis,547081-1,Species,"""['Strychnobrasiline']""",:Manual:KNApSAcK
+29,247325-2,Strychnos mattogrossensis,Strychnos mattogrossensis,247325-2,Species,,:Manual:
+30,60452498-2,Strychnos longicaudata,Strychnos longicaudata,60452498-2,Species,,:Manual:
+31,547024-1,Strychnos aculeata,Strychnos aculeata,547024-1,Species,"""['Brucine']""",:Manual:KNApSAcK
+32,545655-1,Antonia ovata,Antonia ovata,545655-1,Species,,:Manual:
+33,546341-1,Gardneria multiflora,Gardneria multiflora,546341-1,Species,,:Manual:
+34,546343-1,Gardneria nutans,Gardneria nutans,546343-1,Species,,:Manual:
+35,546344-1,Gardneria ovata,Gardneria ovata,546344-1,Species,,:Manual:
+36,318920-2,Spigelia anthelmia,Spigelia anthelmia,318920-2,Species,"""['Ryanodine', '9-Hydroxy-10-epi-ryanodine']""",:Manual:KNApSAcK
+37,547031-1,Strychnos afzelii,Strychnos afzelii,547031-1,Species,"""['Caracurine V', 'Dihydronortoxiferine I']""",:Manual:KNApSAcK
+38,247278-2,Strychnos amazonica,Strychnos amazonica,247278-2,Species,"""['Dihydronortoxiferine I', 'Macusine B', 'Mavacurine']""",:Manual:KNApSAcK
+39,547039-1,Strychnos angustiflora,Strychnos angustiflora,547039-1,Species,"""['Angustine', 'Angustoline']""",:Manual:KNApSAcK
+40,247281-2,Strychnos atlantica,Strychnos atlantica,247281-2,Species,"""['Strychnine', 'Brucine N-oxide', 'Diaboline', 'Normacusine B', 'Pseudobrucine']""",:Manual:KNApSAcK
+41,247283-2,Strychnos barnhartiana,Strychnos barnhartiana,247283-2,Species,,:Manual:
+42,547074-1,Strychnos borneensis,Strychnos borneensis,547074-1,Species,,:Manual:
+43,547077-1,Strychnos brachiata,Strychnos brachiata,547077-1,Species,"""['11-Methoxydiaboline']""",:Manual:KNApSAcK
+44,547100-1,Strychnos castelnaeana,Strychnos castelnaeana,547100-1,Species,,:Manual:
+45,547102-1,Strychnos cathayensis,Strychnos cathayensis,547102-1,Species,,:Manual:
+46,547109-1,Strychnos chlorantha,Strychnos chlorantha,547109-1,Species,,:Manual:
+47,547114-1,Strychnos chrysophylla,Strychnos chrysophylla,547114-1,Species,,:Manual:
+48,547149-1,Strychnos dale,Strychnos dale,547149-1,Species,,:Manual:
+49,50426037-2,Strychnos decussata,Strychnos decussata,50426037-2,Species,,:Manual:
+50,247300-2,Strychnos diaboli,Strychnos diaboli,247300-2,Species,"""['Diaboline']""",:Manual:KNApSAcK
+51,547161-1,Strychnos dinklagei,Strychnos dinklagei,547161-1,Species,,:Manual:
+52,547162-1,Strychnos diplotricha,Strychnos diplotricha,547162-1,Species,"""['11-Demethoxymyrtoidine', 'Myrtoidine']""",:Manual:KNApSAcK
+53,247301-2,Strychnos divaricans,Strychnos divaricans,247301-2,Species,"""['Mavacurine', 'Calebassine', 'C-curarine']""",:Manual:KNApSAcK
+54,547167-1,Strychnos dolichothyrsa,Strychnos dolichothyrsa,547167-1,Species,"""['Caracurine V', 'Dihydronortoxiferine I']""",:Manual:KNApSAcK
+55,547178-1,Strychnos elaeocarpa,Strychnos elaeocarpa,547178-1,Species,,:Manual:
+56,547183-1,Strychnos erichsonii,Strychnos erichsonii,547183-1,Species,,:Manual:
+57,247306-2,Strychnos fendleri,Strychnos fendleri,247306-2,Species,,:Manual:
+58,547195-1,Strychnos floribunda,Strychnos floribunda,547195-1,Species,,:Manual:
+59,247307-2,Strychnos froesii,Strychnos froesii,247307-2,Species,"""['C-curarine', 'Toxiferine I']""",:Manual:KNApSAcK
+60,547200-1,Strychnos gardneri,Strychnos gardneri,547200-1,Species,,:Manual:
+61,547247-1,Strychnos jobertiana,Strychnos jobertiana,547247-1,Species,,:Manual:
+62,547271-1,Strychnos ledermannii,Strychnos ledermannii,547271-1,Species,,:Manual:
+63,547320-1,Strychnos melinoniana,Strychnos melinoniana,547320-1,Species,,:Manual:
+64,547339-1,Strychnos minor,Strychnos minor,547339-1,Species,,:Manual:
+65,547341-1,Strychnos mitscherlichii,Strychnos mitscherlichii,547341-1,Species,,:Manual:
+66,547349-1,Strychnos mostueoides,Strychnos mostueoides,547349-1,Species,,:Manual:
+67,547367-1,Strychnos nitida,Strychnos nitida,547367-1,Species,"""['Strychnine']""",:Manual:KNApSAcK
+68,547370-1,Strychnos nux-blanda,Strychnos nux-blanda,547370-1,Species,,:Manual:
+69,547375-1,Strychnos odorata,Strychnos odorata,547375-1,Species,,:Manual:
+70,547385-1,Strychnos ovata,Strychnos ovata,547385-1,Species,,:Manual:
+71,547390-1,Strychnos panamensis,Strychnos panamensis,547390-1,Species,,:Manual:
+72,547399-1,Strychnos parvifolia,Strychnos parvifolia,547399-1,Species,,:Manual:
+73,547427-1,Strychnos psilosperma,Strychnos psilosperma,547427-1,Species,,:Manual:
+74,547453-1,Strychnos rondeletioides,Strychnos rondeletioides,547453-1,Species,,:Manual:
+75,547455-1,Strychnos rubiginosa,Strychnos rubiginosa,547455-1,Species,,:Manual:
+76,547459-1,Strychnos samba,Strychnos samba,547459-1,Species,,:Manual:
+77,247355-2,Strychnos solerederi,Strychnos solerederi,247355-2,Species,,:Manual:
+78,547483-1,Strychnos soubrensis,Strychnos soubrensis,547483-1,Species,,:Manual:
+79,547487-1,Strychnos splendens,Strychnos splendens,547487-1,Species,,:Manual:
+80,547488-1,Strychnos staudtii,Strychnos staudtii,547488-1,Species,,:Manual:
+81,547493-1,Strychnos subcordata,Strychnos subcordata,547493-1,Species,,:Manual:
+82,247358-2,Strychnos tabascana,Strychnos tabascana,247358-2,Species,,:Manual:
+83,547504-1,Strychnos tchibangensis,Strychnos tchibangensis,547504-1,Species,,:Manual:
+84,547525-1,Strychnos toxifera,Strychnos toxifera,547525-1,Species,"""['Caracurine V', 'Macusine B', 'Mavacurine', 'Calebassine', 'Toxiferine I', '10-O-Methylsarpagine', 'iso-Caracurine V']""",:Manual:KNApSAcK
+85,77221793-1,Strychnos trinervis,Strychnos trinervis,77221793-1,Species,,:Manual:
+86,547538-1,Strychnos umbellata,Strychnos umbellata,547538-1,Species,,:Manual:
+87,547548-1,Strychnos vanprukii,Strychnos vanprukii,547548-1,Species,"""['Akagerine']""",:Manual:KNApSAcK
+88,547569-1,Strychnos xantha,Strychnos xantha,547569-1,Species,,:Manual:
