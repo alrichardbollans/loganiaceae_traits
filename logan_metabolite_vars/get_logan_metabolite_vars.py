@@ -119,6 +119,7 @@ def get_steroid_card_hits():
     get_logan_knapsack_steroid_hits()
     get_logan_knapsack_cardenolide_hits()
 
+    # TODO: Need manual data for steroids and cardenolides
     manual_steroid_hits = pd.read_csv(logan_steroid_hits_manual_output_csv)
     knapsack_steroid_hits = pd.read_csv(_logan_steroid_hits_knapsack_output_csv)
 
@@ -131,14 +132,12 @@ def get_steroid_card_hits():
 
 
 def main():
-    # # # recheck_taxa(_check_output_csv)
+
     # summarise_metabolites()
-    # get_logan_antibac_metabolite_hits()
-    # get_logan_alkaloid_hits()
-    get_logan_knapsack_cardenolide_hits()
-    get_logan_knapsack_steroid_hits()
+    get_logan_antibac_metabolite_hits()
+    get_logan_alkaloid_hits()
     #
-    # get_steroid_card_hits()
+    get_steroid_card_hits()
 
 
 if __name__ == '__main__':
