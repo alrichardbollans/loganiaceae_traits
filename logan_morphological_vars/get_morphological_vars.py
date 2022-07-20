@@ -10,15 +10,15 @@ _hairs_powo_search_temp_output_accepted_csv = os.path.join(temp_outputs_path, 'h
 
 ### Outputs
 output_path = resource_filename(__name__, 'outputs')
-spines_output_csv = os.path.join(output_path, 'spines_hits.csv')
-no_spines_output_csv = os.path.join(output_path, 'no_spines_hits.csv')
+logan_spines_output_csv = os.path.join(output_path, 'spines_hits.csv')
+logan_no_spines_output_csv = os.path.join(output_path, 'no_spines_hits.csv')
 
-hairy_output_csv = os.path.join(output_path, 'hairy_hits.csv')
-non_coloured_latex_output_csv = os.path.join(output_path, 'non_coloured_latex.csv')
-coloured_latex_output_csv = os.path.join(output_path, 'coloured_latex.csv')
-left_corollas_latex_output_csv = os.path.join(output_path, 'left_corollas.csv')
-right_corollas_latex_output_csv = os.path.join(output_path, 'right_corollas.csv')
-habits_output_csv = os.path.join(output_path, 'habits.csv')
+logan_hairy_output_csv = os.path.join(output_path, 'hairy_hits.csv')
+logan_non_coloured_latex_output_csv = os.path.join(output_path, 'non_coloured_latex.csv')
+logan_coloured_latex_output_csv = os.path.join(output_path, 'coloured_latex.csv')
+logan_left_corollas_latex_output_csv = os.path.join(output_path, 'left_corollas.csv')
+logan_right_corollas_latex_output_csv = os.path.join(output_path, 'right_corollas.csv')
+logan_habits_output_csv = os.path.join(output_path, 'habits.csv')
 
 logan_family_list = ['Loganiaceae']
 
@@ -56,7 +56,7 @@ def output_compiled_data():
 
     try_spine_hits = pd.read_csv(try_spine_temp_output_accepted_csv)
     all_spine_dfs = [try_spine_hits, powo_presence_spine_hits]
-    compile_hits(all_spine_dfs, spines_output_csv)
+    compile_hits(all_spine_dfs, logan_spines_output_csv)
 
     taxa_with_spines = []
     for d in all_spine_dfs:
@@ -70,18 +70,18 @@ def output_compiled_data():
     powo_absence_spine_hits = powo_absence_spine_hits[~powo_absence_spine_hits["Accepted_Name"].isin(taxa_with_spines)]
     try_no_spine_hits = try_no_spine_hits[~try_no_spine_hits["Accepted_Name"].isin(taxa_with_spines)]
 
-    compile_hits([powo_absence_spine_hits, try_no_spine_hits], no_spines_output_csv)
+    compile_hits([powo_absence_spine_hits, try_no_spine_hits], logan_no_spines_output_csv)
 
     # Hairs
     powo_hair_hits = pd.read_csv(_hairs_powo_search_temp_output_accepted_csv)
     try_hair_hits = pd.read_csv(try_hair_temp_output_accepted_csv)
 
     all_hair_hits = [powo_hair_hits, try_hair_hits]
-    compile_hits(all_hair_hits, hairy_output_csv)
+    compile_hits(all_hair_hits, logan_hairy_output_csv)
 
     # Habit
     habits = pd.read_csv(manual_habit_data_output)
-    habits.to_csv(habits_output_csv)
+    habits.to_csv(logan_habits_output_csv)
 
 
 def main():
