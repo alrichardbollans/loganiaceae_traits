@@ -124,7 +124,12 @@ def main():
     trait_df.reset_index(inplace=True, drop=True)
 
     out_df = encode_features(trait_df)
+    # Ensure all tested samples are labelled
+    problem_df = out_df[(out_df['Activity_Antimalarial'].isna() & ~out_df['Given_Activities'].isna())]
 
+    if len(problem_df.index) > 0:
+        print(problem_df)
+        raise ValueError
     out_df.to_csv(logan_encoded_traits_csv)
 
 
