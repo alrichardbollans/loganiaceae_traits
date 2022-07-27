@@ -114,6 +114,8 @@ def encode_features(df: pd.DataFrame) -> pd.DataFrame:
     encode_activity(df)
     replace_yes_no_in_column(df, 'History_Antimalarial')
     replace_yes_no_in_column(df, 'History_Fever')
+    replace_yes_no_in_column(df, 'Cardenolides')
+    replace_yes_no_in_column(df, 'Steroids')
 
     return df
 
