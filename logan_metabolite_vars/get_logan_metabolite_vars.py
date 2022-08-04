@@ -12,7 +12,8 @@ from cleaning import compile_hits
 
 # from logan_manually_collected_data import logan_steroid_hits_manual_output_csv, \
 #     logan_cardenolide_hits_manual_output_csv, logan_alk_hits_manual_output_csv
-from logan_manually_collected_data import logan_alk_hits_manual_output_csv
+from logan_manually_collected_data import logan_alk_hits_manual_output_csv, logan_steroid_hits_manual_output_csv, \
+    logan_cardenolide_hits_manual_output_csv
 
 _temp_output_path = resource_filename(__name__, 'temp_outputs')
 _logan_steroid_hits_knapsack_output_csv = os.path.join(_temp_output_path, 'logan_steroid_knapsack.csv')
@@ -119,20 +120,28 @@ def get_steroid_card_hits():
     get_logan_knapsack_steroid_hits()
     get_logan_knapsack_cardenolide_hits()
 
-    # TODO: Need manual data for steroids and cardenolides
     manual_steroid_hits = pd.read_csv(logan_steroid_hits_manual_output_csv)
     knapsack_steroid_hits = pd.read_csv(_logan_steroid_hits_knapsack_output_csv)
 
     compile_hits([manual_steroid_hits, knapsack_steroid_hits], logan_steroid_hits_output_csv)
 
+    # Card data is empty, so check and output blank csv
     manual_cardenolide_hits = pd.read_csv(logan_cardenolide_hits_manual_output_csv)
     knapsack_cardenolide_hits = pd.read_csv(_logan_cardenolide_hits_knapsack_output_csv)
-
-    compile_hits([manual_cardenolide_hits, knapsack_cardenolide_hits], logan_cardenolide_hits_output_csv)
+    dfs = [manual_cardenolide_hits, knapsack_cardenolide_hits]
+    dfs_to_use = []
+    for df in dfs:
+        if len(df.index) > 0:
+            dfs_to_use.append(df)
+    if len(dfs_to_use) > 0:
+        compile_hits(dfs_to_use, logan_cardenolide_hits_output_csv)
+    else:
+        out_df = pd.DataFrame(columns=['Accepted_ID', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID',
+                                       'Accepted_Rank', 'Sources'])
+        out_df.to_csv(logan_cardenolide_hits_output_csv)
 
 
 def main():
-
     # summarise_metabolites()
     get_logan_antibac_metabolite_hits()
     get_logan_alkaloid_hits()

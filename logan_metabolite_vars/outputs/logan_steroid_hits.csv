@@ -1,2 +1,3 @@
-,Accepted_Name,Accepted_Species,Accepted_Species_ID,Accepted_ID,Accepted_Rank,knapsack_snippet,Sources
-0,Strychnos potatorum,Strychnos potatorum,547420-1,547420-1,Species,"""['beta-Sitosterol', 'Stigmasterol']""",KNApSAcK
+,Accepted_ID,Accepted_Name,Accepted_Species,Accepted_Species_ID,Accepted_Rank,knapsack_snippet,Sources
+0,547371-1,Strychnos nux-vomica,Strychnos nux-vomica,547371-1,Species,,:Manual:
+1,547420-1,Strychnos potatorum,Strychnos potatorum,547420-1,Species,"""['beta-Sitosterol', 'Stigmasterol']""",::KNApSAcK
