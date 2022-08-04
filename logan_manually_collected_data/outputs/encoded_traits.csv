@@ -16,11 +16,11 @@
 14,Gardneria multiflora,,Gardneria,multiflora,Yes,31/32/33,1.0,MIA [31]; bisindole [32],MIA [31]; bisindole [32]; oxindole [33],,,,,,,,,,,,,,,,,,,Loganiaceae,Gardneria multiflora,Gardneria multiflora,546341-1,546341-1,Species
 15,Gardneria nutans,,Gardneria,nutans,Yes,31/35,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Gardneria nutans,Gardneria nutans,546343-1,546343-1,Species
 16,Gardneria ovata,,Gardneria,ovata,Yes,30/34,1.0,MIA [30]; bisindole [34],MIA; oxindole; glycosidated MIA [30]; bisindole [34],Glycosidated alkaloids and non-glycosidated alkaloids [30]. Unusual bisindole structure,,,,,,,,,,,,,,,,,,Loganiaceae,Gardneria ovata,Gardneria ovata,546344-1,546344-1,Species
-17,Geniostoma borbonicum,Sp. listed (1/51),Geniostoma,borbonicum,,,,,,,,,,,Yes,0.0,Inactive [2],,"IC50 > 50 μg/ml (DCM B + L, 3D7 & W2)",2,,,,,,,,Loganiaceae,Geniostoma borbonicum,Geniostoma borbonicum,546371-1,546371-1,Species
-18,Geniostoma angustifolium,,Geniostoma,angustifolium,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma angustifolium,Geniostoma angustifolium,546360-1,546360-1,Species
-19,Geniostoma antherotrichum,,Geniostoma,antherotrichum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma antherotrichum,Geniostoma antherotrichum,546361-1,546361-1,Species
-20,Geniostoma balansanum,,Geniostoma,balansanum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma balansanum,Geniostoma balansanum,546368-1,546368-1,Species
-21,Geniostoma biseriale,,Geniostoma,biseriale,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma biseriale,Geniostoma biseriale,546370-1,546370-1,Species
+17,Geniostoma angustifolium,,Geniostoma,angustifolium,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma angustifolium,Geniostoma angustifolium,546360-1,546360-1,Species
+18,Geniostoma antherotrichum,,Geniostoma,antherotrichum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma antherotrichum,Geniostoma antherotrichum,546361-1,546361-1,Species
+19,Geniostoma balansanum,,Geniostoma,balansanum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma balansanum,Geniostoma balansanum,546368-1,546368-1,Species
+20,Geniostoma biseriale,,Geniostoma,biseriale,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma biseriale,Geniostoma biseriale,546370-1,546370-1,Species
+21,Geniostoma borbonicum,Sp. listed (1/51),Geniostoma,borbonicum,,,,,,,,,,,Yes,0.0,Inactive [2],,"IC50 > 50 μg/ml (DCM B + L, 3D7 & W2)",2,,,,,,,,Loganiaceae,Geniostoma borbonicum,Geniostoma borbonicum,546371-1,546371-1,Species
 22,Geniostoma calcicola,,Geniostoma,calcicola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma calcicola,Geniostoma calcicola,546375-1,546375-1,Species
 23,Geniostoma celastrineum,,Geniostoma,celastrineum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma celastrineum,Geniostoma celastrineum,546377-1,546377-1,Species
 24,Geniostoma clavatum,,Geniostoma,clavatum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Geniostoma clavatum,Geniostoma clavatum,546379-1,546379-1,Species
@@ -290,207 +290,207 @@
 288,Spigelia valenzuelae,,Spigelia,valenzuelae,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Spigelia valenzuelae,Spigelia valenzuelae,242241-2,242241-2,Species
 289,Spigelia vestita,,Spigelia,vestita,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Spigelia vestita,Spigelia vestita,242243-2,242243-2,Species
 290,Spigelia xochiquetzalliana,,Spigelia,xochiquetzalliana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Spigelia xochiquetzalliana,Spigelia xochiquetzalliana,77162351-1,77162351-1,Species
-291,Strychnos icaja,,Strychnos,icaja,Yes,"37, 51",1.0,MIA; bisindole [37]; trisindole [51],Indole; MIA; Peptide; bisindole [37] trisindole [51],Interesting MIA structure with a large macrocycle (see icajine for example). One bisindole is linked by 8-membered ring (containing both indole N atoms) [51],1.0,3,,,Yes,1.0,Active [7] Weak [17],"Yes [7, 10, 15, 16, 37]","IC50  = 0.69 μg/ml ± 0.25 (MeOH R, 3D7) 0.42 μg/ml ± 0.22 (MeOH R, W2) 0.84 ± 0.05 (CH2Cl2 R, 3D7) 0.61 ± 0.35 μg/ml (CH2Cl2 R, W2) [7] 0.617 μM [0.411 μg/mL](Strychnogucine B, FCA 20) 0.529 μM [0.353 μg/mL](Strychnogucine B, FCB1-R) 0.085 μM [0.057 μg/mL] (Strychnogucine B, W2) [10] 0.551 μg/mL (18-hydroxyisosungucine, R, FCA 20) 0.091 μg/mL (18-hydroxyisosungucine, R, W2) [15] 0.41 μg/mL (strychnogucine B, R, FCA 20) 6.428 μg/mL (strychnogucine B, R, W2) 0.34 μg/mL (strychnogucine B, R, F32) 0.13 μg/mL (strychnogucine B, R, PFB) [16] ""moderately active"" (Strychnohexamine, R) [17] IC50 = 0.286 & 0.303 μg/mL (EtOAc R, FCA 20 & W2) [37]","7, 10, 15, 16, 17, 37",,,,,,,,Loganiaceae,Strychnos icaja,Strychnos icaja,547240-1,547240-1,Species
-292,Strychnos wallichiana,,Strychnos,wallichiana,Yes,56/63,1.0,MIA,MIA,strychnine and brucine,1.0,12,,,Yes,0.0,Active,Yes,"IC50 = 12.0 ± 2.5 μg/mL (MeOH, MRC-2)",12,,,,,,,,Loganiaceae,Strychnos wallichiana,Strychnos wallichiana,547566-1,547566-1,Species
-293,Strychnos mitis,,Strychnos,mitis,Yes,13,1.0,,,,1.0,13,,,Yes,1.0,Active [13] Inactive [3],Yes [13],"IC50 = >30 μg/mL (EtOAc S) [3] 37%,81%,94% in vivo supression 200,400,600 mg/kg/day (aqueous extraction L, P. berghei) [13]","3,13",,,,,,,,Loganiaceae,Strychnos mitis,Strychnos mitis,547340-1,547340-1,Species
-294,Strychnos potatorum,,Strychnos,potatorum,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,1.0,24,,,Yes,1.0,Inactive [3] Active [39],,"IC50 = >30 μg/mL (EtOAc S) [3] IC50 = 0.05 & 0.12 & 0.22 [ 0.118 & 0.266 & 0.492 μM] (ochrolifuanine A, FCA 20 & FCB1-R & W2) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos potatorum,Strychnos potatorum,547420-1,547420-1,Species
-295,Strychnos aculeata,,Strychnos,aculeata,Yes,76,1.0,MIA,MIA,,1.0,26,,,Yes,0.0,Inactive [3],,"IC50 >30 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos aculeata,Strychnos aculeata,547024-1,547024-1,Species
-296,Strychnos diplotricha,,Strychnos,diplotricha,Yes,42,1.0,MIA,MIA,,1.0,42,,,,,,,,,,,,,,,,Loganiaceae,Strychnos diplotricha,Strychnos diplotricha,547162-1,547162-1,Species
-297,Strychnos innocua,,Strychnos,innocua,,,,,,,1.0,43,,,Yes,0.0,"Inactive [3, 37]",Yes [37],IC50 = >30 μg/mL (EtOAc S) [3] IC50 > 40 μg/mL [37],"3, 37",,,,,,,,Loganiaceae,Strychnos innocua,Strychnos innocua,547244-1,547244-1,Species
-298,Strychnos nux-blanda,,Strychnos,nux-blanda,Yes,77,1.0,Pyrrole,pyrrole,pyrrole/indolizidine skeleton. Aromatic so calling it pyrrole,1.0,77,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nux-blanda,Strychnos nux-blanda,547370-1,547370-1,Species
-299,Strychnos lucida,,Strychnos,lucida,Yes,"KN, 40",1.0,MIA,MIA,,1.0,"22, 94",,,Yes,1.0,"Active [22, 40]",,">80% Inhibition at 1000 μg/mL (W) [22] IC50 = 0.39 μg/mL (fraction F4 W, 3D7) [40]","22, 40 ",,,,,,,,Loganiaceae,Strychnos lucida,Strychnos lucida,547295-1,547295-1,Species
-300,Strychnos henningsii,,Strychnos,henningsii,Yes,37,1.0,MIA,MIA; peptide,Icajine-type MIA,1.0,"3, 20, 23, 100, 107",,,Yes,0.0,"Weak [3, 25]",Yes [25],"IC50 = 15.9 ± 3.0 μg/mL (EtOAc L), >30 μg/mL (EtOAc S) [3] 73.39 ± 9.75 μg/mL (Aqeuous, B, ENT 30) 67.16 ± 8.70 μg/mL (Aqeuous, B, NF 54) 190.0 ± 16.85 μg/mL (MeOH, B, ENT 30) 157.91 ± 10.03 μg/mL (MeOH, B, NF 54) [25]","3, 25",,,,,,,,Loganiaceae,Strychnos henningsii,Strychnos henningsii,547225-1,547225-1,Species
-301,Strychnos spinosa,,Strychnos,spinosa,Yes,80,1.0,MIA,MIA,,1.0,"3, 28, 43, 97, 106",,,Yes,1.0,"Weak [28] Inactive [3, 37] Active [5]","Yes [28, 37]","IC50 = >30 μg/mL (EtOAc S) [3] IC50 = 15.6 ± 3.8 μg/mL (CH2Cl2 L, 3D7), > 100 μg/mL (CH3OH L, 3D7),> 100 μg/mL (H2O L, 3D7), 8.9 ± 2.1 μg/mL (CH2Cl2 L, W2) [5] 21.8 ± 6.7 μg/mL (EtOH, B, FcB1) [28] IC50 > 80 μg/mL (EtOH B, FCA 20) [37]","3,5, 28, 37",,,,,,,,Loganiaceae,Strychnos spinosa,Strychnos spinosa,547485-1,547485-1,Species
-302,Strychnos pseudoquina,,Strychnos,pseudoquina,Yes,"4, 71",1.0,MIA,MIA,,1.0,"4, 71, 101",1.0,71,Yes,1.0,Active [21],,"10% inhibition at 1000 mg/kg, mice, (EtOH B, P. berghei NK-65) [4] 56% inhibition at 1000 mg/kg, mice, (P. berghei) [21]","4, 21",,,,,,,,Loganiaceae,Strychnos pseudoquina,Strychnos pseudoquina,547425-1,547425-1,Species
-303,Strychnos lucens,,Strychnos,lucens,Yes,39,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc L),3,,,,,,,,Loganiaceae,Strychnos lucens,Strychnos lucens,547293-1,547293-1,Species
-304,Strychnos phaeotricha,,Strychnos,phaeotricha,,,,,,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc L),3,,,,,,,,Loganiaceae,Strychnos phaeotricha,Strychnos phaeotricha,547408-1,547408-1,Species
-305,Strychnos ignatii,,Strychnos,ignatii,Yes,47,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc Se),3,,,,,,,,Loganiaceae,Strychnos ignatii,Strychnos ignatii,547242-1,547242-1,Species
-306,Strychnos mellodora,,Strychnos,mellodora,Yes,KN/53,1.0,indole [KN]; MIA,MIA; glycosides,glucoindoles; indole is melinonine F,,,,,Yes,0.0,Weak [3],,"IC50 = 13.4 μg/mL (EtOAc L), 29.5 μg/mL (MeOH L), 14.5 ± 1.5 μg/mL (EtOAc S), >30 μg/mL (MeOH S), 11.2 ± 3.6 μg/mL (EtOAc R), 25.4 ± 11.0 μg/mL (MeOH R)",3,,,,,,,,Loganiaceae,Strychnos mellodora,Strychnos mellodora,547322-1,547322-1,Species
-307,Strychnos cocculoides,,Strychnos,cocculoides,,,,,,,,,,,Yes,0.0,Weak [3],,"IC50 = 20.0 ± 11.9 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos cocculoides,Strychnos cocculoides,547124-1,547124-1,Species
-308,Strychnos scheffleri,,Strychnos,scheffleri,Yes,46,1.0,MIA,indole; ,icajine-type MIA,,,,,Yes,0.0,Weak [3],,"IC50 = 21.2 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos scheffleri,Strychnos scheffleri,547464-1,547464-1,Species
-309,Strychnos brasiliensis,,Strychnos,brasiliensis,Yes,"76, 85",1.0,MIA,MIA,,1.0,101,,,Yes,0.0,Inactive [3],,IC50 > 30 μg/mL (EtOAc S),3,,,,,,,,Loganiaceae,Strychnos brasiliensis,Strychnos brasiliensis,547081-1,547081-1,Species
-310,Strychnos myrtoides,,Strychnos,myrtoides,Yes,38,1.0,MIA, indole; monoterpenoid; pyrrolidine,icajine-type MIA,1.0,98,,,Yes,0.0,Inactive,No,"IC50 = 57.60 ± 5.50 μg/mL (Crude alkaloid extract, FCM 29) 73.08 ± 2.93 μg/mL (Strychnobrasiline, FCM 29) 69.12 ± 3.39 μg/mL (Malagashanine, FCM 29)",8,,,,,,,,Loganiaceae,Strychnos myrtoides,Strychnos myrtoides,547356-1,547356-1,Species
-311,Strychnos moandaensis,,Strychnos,moandaensis,Yes,9,1.0,bisindole,bisindole; zwitterionic,,,,,,Yes,1.0,Weak,Yes,"IC50 = 11.2 μM (Moandaensine, FCA 20) [7.72 μg/mL] 9.2 μM (Moandaensine, W2) [6.34 μg/mL]",9,,,,,,,,Loganiaceae,Strychnos moandaensis,Strychnos moandaensis,547342-1,547342-1,Species
-312,Strychnos memecyloides,,Strychnos,memecyloides,,,,,,,,,,,Yes,0.0,Weak [37],Yes,"IC50 = 13.489 μg/mL (EtOH L, FCA 20) [37]",37,,,,,,,,Loganiaceae,Strychnos memecyloides,Strychnos memecyloides,547324-1,547324-1,Species
-313,Strychnos guianensis,,Strychnos,guianensis,Yes,"KN, 37",1.0,MIA [KN]; bisindole [KN/37],MIA [KN]; bisindole; quarternary; beta carboline [KN/37],,,,,,Yes,1.0,,Yes,"IC50 =3.694 & 4.561μg/mL (guianensine, FCA 20 & W2)",37,,,,,,,,Loganiaceae,Strychnos guianensis,Strychnos guianensis,547220-1,547220-1,Species
-314,Strychnos camptoneura,,Strychnos,camptoneura,Yes,55,1.0,,,,1.0,102,1.0,102,Yes,0.0,,Yes,"IC50 = ca. 50 μg/mL (EtOH R, FCA 20)",37,,,,,,,,Loganiaceae,Strychnos camptoneura,Strychnos camptoneura,547094-1,547094-1,Species
-315,Strychnos mattogrossensis,,Strychnos,mattogrossensis,Yes,79,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [37],Yes,"IC50 > 30 μg/mL (EtOH R, FCA 20)",37,,,,,,,,Loganiaceae,Strychnos mattogrossensis,Strychnos mattogrossensis,247325-2,247325-2,Species
-316,Strychnos matopensis,,Strychnos,matopensis,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,Active [39],,"IC50 = 0.32 & 0.92 & 0.07 μg/mL [0.54 & 1.54 & 0.122 μM] (16-methoxyisomatopensine, FCA 20 & FCB1-R& W2) ",39,,,,,,,,Loganiaceae,Strychnos matopensis,Strychnos matopensis,547312-1,547312-1,Species
-317,Strychnos kasengaensis,,Strychnos,kasengaensis,Yes,"39, 72",1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,Weak [39],,"IC50 = 2.81 & 1.3 & 2.03 μg/mL [4.58 & 2.12 & 3.31 μM](16,17-dehydroisostrychnobiline, FCA 20 & FCB1-R & W2)",39,,,,,,,,Loganiaceae,Strychnos kasengaensis,Strychnos kasengaensis,547252-1,547252-1,Species
-318,Strychnos ngouniensis,,Strychnos,ngouniensis,Yes,39,1.0,MIA,MIA; quarternary,,,,,,Yes,1.0,Weak [39],,"IC50 = 2.19 & 4.57 & 4.43 μg/mL [7.8 & 16.3 & 15.8 μM] (epingouniensine, FCA 20 & FCB1-R & W2)",39,,,,,,,,Loganiaceae,Strychnos ngouniensis,Strychnos ngouniensis,547361-1,547361-1,Species
-319,Strychnos panganensis,,Strychnos,panganensis,Yes,39/81,1.0,MIA [81]; bisindole,MIA [81]; bisindole,,,,,,Yes,1.0,Weak [39],,"IC50 = 5.62 & 3.03 & >11.5 μg/mL [9.77 & 5.27 & >20 μM] (S-panganensine, FCA 20 & FCB1-R & W2) ",39,,,,,,,,Loganiaceae,Strychnos panganensis,Strychnos panganensis,547392-1,547392-1,Species
-320,Strychnos malacoclados,,Strychnos,malacoclados,Yes,41,1.0,bisindole; MIA,bisindole; MIA,,,,,,Yes,1.0,Active [41],,"IC50 = 0.388 & 0.326 (longicaudatine, 3D7 & W2)",41,,,,,,,,Loganiaceae,Strychnos malacoclados,Strychnos malacoclados,547303-1,547303-1,Species
-321,Strychnos nux-vomica,,Strychnos,nux-vomica,Yes,19,1.0,bisindole; MIA,bisindole; MIA,,1.0,"95, 105",1.0,"19, 96",Yes,1.0,Active [19] Inactive [3],Yes [19],"IC50 = >30 μg/mL (EtOAc S) [3] 4.9 ± 1.0 μg/mL (strychnochrysine, B, 3D7) 6.0 ± 2.4 μg/mL (strychnochrysine, B, W2) [19]","3, 19",,,,,,1.0,108.0,Loganiaceae,Strychnos nux-vomica,Strychnos nux-vomica,547371-1,547371-1,Species
-322,Strychnos variabilis,,Strychnos,variabilis,Yes,58,1.0,MIA,MIA,,,,,,Yes,1.0,Active [3] Weak [37],Yes [37],"IC50 = >30 μg/mL (EtOAc S), >30 μg/mL (MeOH S), 2.5 ± 0.2 μg/mL (EtOAc R), 2.3 ± 0.5 μg/mL (MeOH R) [3] IC50 = 17.702 (EtOH B, FCA20) [37]","3, 37",,,,,,,,Loganiaceae,Strychnos variabilis,Strychnos variabilis,547549-1,547549-1,Species
-323,Strychnos gossweileri,,Strychnos,gossweileri,Yes,37,1.0,quinoline [37]; MIA [62],quinoline; quinolizidine [37] / MIA [62],,,,,,Yes,0.0,Weak [3],Yes [37],"IC50 = 12.4 ± 4.1 μg/mL (EtOAc R), >30 μg/mL (MeOH R) [3] IC50 = 43.5 (EtOH R, FCA 20) [37]","3, 37",,,,,,,,Loganiaceae,Strychnos gossweileri,Strychnos gossweileri,547213-1,547213-1,Species
-324,Strychnos angolensis,,Strychnos,angolensis,Yes,39,1.0,pyridine; MIA,pyridine; indole; indolizidine; quinolizidine,,,,,,Yes,0.0,"Weak [3,37] Inactive [39]",Yes [37],"IC50 = 17.0 ± 7.6 μg/mL (EtOAc R) [3] IC50 = 29.9 & 20.9 μg/mL (Etoh L & R, FCA 20) [37] Inactive (3 alkaloids tested) [39]","3, 37, 39",,,,,,,,Loganiaceae,Strychnos angolensis,Strychnos angolensis,547038-1,547038-1,Species
-325,Strychnos pungens,,Strychnos,pungens,Yes,39,1.0,Pyridine; MIA,pyridine; indole; quinolizidine,,,,,,Yes,0.0,"Inactive [3, 39]",,"IC50 = >30 μg/mL (EtOAc L), >30 μg/mL (EtOAc S) ,>30 μg/mL (EtOAc R) [3] Inactive (3 compounds tested) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos pungens,Strychnos pungens,547430-1,547430-1,Species
-326,Strychnos johnsonii,,Strychnos,johnsonii,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,"Weak [3, 39]",,"IC50 = >30 μg/mL (EtOAc L), 16.4 ± 1.8 μg/mL (EtOAc S) ,>30 μg/mL (EtOAc R) [3] IC50 = 5.70 & 7.7 & 2.15 [12.6 & 17.0 & 4.75 μM] (janussine B, FCA 20 & FCB1-R & W2) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos johnsonii,Strychnos johnsonii,547248-1,547248-1,Species
-327,Strychnos longicaudata,,Strychnos,longicaudata,Yes,39,1.0,Pyridine; MIA; bisindole,pyridine; indole; MIA; indolizidine; bisindole,,,,,,Yes,1.0,Inactive [37] Active [39],Yes [37],"IC50 > 50 μg/mL (EtOH R, FCA 20 [37] IC50 = 0.56 & 0.32 & 0.32 [ 0.986 & 0.560 & 0.569 μM] (longicaudatine, FCA 20 & FCB1-R & W2) [39]","37, 39",,,,,,,,Loganiaceae,Strychnos longicaudata,Strychnos longicaudata,60452498-2,60452498-2,Species
-328,Strychnos usambarensis,,Strychnos,usambarensis,Yes,37,1.0,Bisindole; MIA,Bisindole; indole; beta-carboline; MIA; pyrrolidine,Most bisindoles appear to be derived from two tryptamine units linked by a single monoterpene skeleton. One bisindole has 2 monoterpene units (one for each indole),1.0,"99, 103",,,Yes,1.0,Active [14],"Yes [6, 11, 14, 18, 37]","IC50 = 0.480 ± 0.014 μg/mL (10′-hydroxyusambarensine base, FCA), 0.655 ± 0.013 μg/mL (usambarensine base, FCA), 0.160 ± 0.016 μg/mL (10′-hydroxyusambarensine base, W2), 0.265 ± 0.023 μg/mL (usambarensine base, W2) [6] 5.5 μM [1.36 μg/mL] (17-O-acetyl,10-hydroxycorynantheol 1,L, 3D7), 11.2 μM [2.77 μg/mL](17-O-acetyl,10-hydroxycorynantheol 1,L, W2) [11] 0.117 μM [0.06 μg/mL] (Strychnopentamine, L, FCA 20) 0.145 μM [0.08 μg/mL] (Strychnopentamine, L, W2) [14] 0.12 ± 0.042 μM [0.07 μg/mL] (Isostrychnopentamine, L, FCA 20) [18] IC50 = 0.457 & 0.039 μg/mL (EtOAc R, FCA 20 & W2) [37]","6, 11, 14, 18, 37",,,,,,,,Loganiaceae,Strychnos usambarensis,Strychnos usambarensis,547543-1,547543-1,Species
-329,Strychnos acuta,,Strychnos,acuta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos acuta,Strychnos acuta,547027-1,547027-1,Species
-330,Strychnos aenea,,Strychnos,aenea,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos aenea,Strychnos aenea,547030-1,547030-1,Species
-331,Strychnos afzelii,,Strychnos,afzelii,Yes,82,1.0,bisindole; MIA,bisindole; MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos afzelii,Strychnos afzelii,547031-1,547031-1,Species
-332,Strychnos alvimiana,,Strychnos,alvimiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos alvimiana,Strychnos alvimiana,247277-2,247277-2,Species
-333,Strychnos amazonica,,Strychnos,amazonica,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos amazonica,Strychnos amazonica,247278-2,247278-2,Species
-334,Strychnos andamanensis,,Strychnos,andamanensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos andamanensis,Strychnos andamanensis,547037-1,547037-1,Species
-335,Strychnos angustiflora,,Strychnos,angustiflora,Yes,"57, 92",1.0,MIA,MIA; pyridine,MIA are angustine type and corynanthe type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos angustiflora,Strychnos angustiflora,547039-1,547039-1,Species
-336,Strychnos araguaensis,,Strychnos,araguaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos araguaensis,Strychnos araguaensis,247279-2,247279-2,Species
-337,Strychnos asperula,,Strychnos,asperula,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos asperula,Strychnos asperula,247280-2,247280-2,Species
-338,Strychnos asterantha,,Strychnos,asterantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos asterantha,Strychnos asterantha,547045-1,547045-1,Species
-339,Strychnos atlantica,,Strychnos,atlantica,Yes,64,1.0,MIA; bisindole,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos atlantica,Strychnos atlantica,247281-2,247281-2,Species
-340,Strychnos axillaris,,Strychnos,axillaris,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos axillaris,Strychnos axillaris,547050-1,547050-1,Species
-341,Strychnos bahiensis,,Strychnos,bahiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bahiensis,Strychnos bahiensis,247282-2,247282-2,Species
-342,Strychnos barnhartiana,,Strychnos,barnhartiana,Yes,87,1.0,indole,beta-carboline,nor-harman,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos barnhartiana,Strychnos barnhartiana,247283-2,247283-2,Species
-343,Strychnos barteri,,Strychnos,barteri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos barteri,Strychnos barteri,547059-1,547059-1,Species
-344,Strychnos benthamii,,Strychnos,benthamii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos benthamii,Strychnos benthamii,547063-1,547063-1,Species
-345,Strychnos bicolor,,Strychnos,bicolor,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bicolor,Strychnos bicolor,547068-1,547068-1,Species
-346,Strychnos bifurcata,,Strychnos,bifurcata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bifurcata,Strychnos bifurcata,547069-1,547069-1,Species
-347,Strychnos boonei,,Strychnos,boonei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos boonei,Strychnos boonei,547073-1,547073-1,Species
-348,Strychnos borneensis,,Strychnos,borneensis,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos borneensis,Strychnos borneensis,547074-1,547074-1,Species
-349,Strychnos brachiata,,Strychnos,brachiata,Yes,KN,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos brachiata,Strychnos brachiata,547077-1,547077-1,Species
-350,Strychnos brachistantha,,Strychnos,brachistantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos brachistantha,Strychnos brachistantha,247287-2,247287-2,Species
-351,Strychnos bredemeyeri,,Strychnos,bredemeyeri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bredemeyeri,Strychnos bredemeyeri,547083-1,547083-1,Species
-352,Strychnos campicola,,Strychnos,campicola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos campicola,Strychnos campicola,547093-1,547093-1,Species
-353,Strychnos canthioides,,Strychnos,canthioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos canthioides,Strychnos canthioides,547096-1,547096-1,Species
-354,Strychnos castelnaeana,,Strychnos,castelnaeana,Yes,48,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos castelnaeana,Strychnos castelnaeana,547100-1,547100-1,Species
-355,Strychnos cathayensis,,Strychnos,cathayensis,Yes,88,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cathayensis,Strychnos cathayensis,547102-1,547102-1,Species
-356,Strychnos cayennensis,,Strychnos,cayennensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cayennensis,Strychnos cayennensis,247293-2,247293-2,Species
-357,Strychnos cerradoensis,,Strychnos,cerradoensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cerradoensis,Strychnos cerradoensis,247294-2,247294-2,Species
-358,Strychnos chlorantha,,Strychnos,chlorantha,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chlorantha,Strychnos chlorantha,547109-1,547109-1,Species
-359,Strychnos chromatoxylon,,Strychnos,chromatoxylon,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chromatoxylon,Strychnos chromatoxylon,547112-1,547112-1,Species
-360,Strychnos chrysophylla,,Strychnos,chrysophylla,Yes,78,1.0,bisindole,bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chrysophylla,Strychnos chrysophylla,547114-1,547114-1,Species
-361,Strychnos cogens,,Strychnos,cogens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cogens,Strychnos cogens,547125-1,547125-1,Species
-362,Strychnos colombiensis,,Strychnos,colombiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos colombiensis,Strychnos colombiensis,247295-2,247295-2,Species
-363,Strychnos congolana,,Strychnos,congolana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos congolana,Strychnos congolana,547134-1,547134-1,Species
-364,Strychnos coriacea,,Strychnos,coriacea,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos coriacea,Strychnos coriacea,547138-1,547138-1,Species
-365,Strychnos croatii,,Strychnos,croatii,,,,,,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos croatii,Strychnos croatii,247298-2,247298-2,Species
-366,Strychnos cuminodora,,Strychnos,cuminodora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cuminodora,Strychnos cuminodora,547143-1,547143-1,Species
-367,Strychnos cuniculina,,Strychnos,cuniculina,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cuniculina,Strychnos cuniculina,547145-1,547145-1,Species
-368,Strychnos curtisii,,Strychnos,curtisii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos curtisii,Strychnos curtisii,547147-1,547147-1,Species
-369,Strychnos daclacensis,,Strychnos,daclacensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos daclacensis,Strychnos daclacensis,931165-1,931165-1,Species
-370,Strychnos dale,,Strychnos,dale,Yes,"69,75",1.0,bisindole [69]; MIA [75],bisindole [69]; MIA [75],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dale,Strychnos dale,547149-1,547149-1,Species
-371,Strychnos dalzellii,,Strychnos,dalzellii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dalzellii,Strychnos dalzellii,547150-1,547150-1,Species
-372,Strychnos dantaensis,,Strychnos,dantaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dantaensis,Strychnos dantaensis,77121342-1,77121342-1,Species
-373,Strychnos darienensis,,Strychnos,darienensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos darienensis,Strychnos darienensis,547151-1,547151-1,Species
-374,Strychnos davidsei,,Strychnos,davidsei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos davidsei,Strychnos davidsei,247299-2,247299-2,Species
-375,Strychnos decussata,,Strychnos,decussata,Yes,"61, 75",1.0,MIA [61]; MIA; bisindole [75],MIA glycoside [61]; MIA; bisindole [75],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos decussata,Strychnos decussata,50426037-2,50426037-2,Species
-376,Strychnos densiflora,,Strychnos,densiflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos densiflora,Strychnos densiflora,547156-1,547156-1,Species
-377,Strychnos diaboli,,Strychnos,diaboli,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos diaboli,Strychnos diaboli,247300-2,247300-2,Species
-378,Strychnos dinhensis,,Strychnos,dinhensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dinhensis,Strychnos dinhensis,547160-1,547160-1,Species
-379,Strychnos dinklagei,,Strychnos,dinklagei,Yes,"89, 90, 91",1.0,MIA [89/90]; pyridine [90]; bisindole [91],MIA [89/90]; pyridine [90]; bisindole [91],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dinklagei,Strychnos dinklagei,547161-1,547161-1,Species
-380,Strychnos divaricans,,Strychnos,divaricans,Yes,"68, 73",1.0,MIA [68]; bisindole [73],MIA [68]; bisindole [73],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos divaricans,Strychnos divaricans,247301-2,247301-2,Species
-381,Strychnos dolichothyrsa,,Strychnos,dolichothyrsa,Yes,54,1.0,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dolichothyrsa,Strychnos dolichothyrsa,547167-1,547167-1,Species
-382,Strychnos duckei,,Strychnos,duckei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos duckei,Strychnos duckei,247302-2,247302-2,Species
-383,Strychnos ecuadoriensis,,Strychnos,ecuadoriensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ecuadoriensis,Strychnos ecuadoriensis,247303-2,247303-2,Species
-384,Strychnos elaeocarpa,,Strychnos,elaeocarpa,Yes,75,1.0,MIA; bisindole,MIA; bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos elaeocarpa,Strychnos elaeocarpa,547178-1,547178-1,Species
-385,Strychnos erichsonii,,Strychnos,erichsonii,Yes,49,1.0,MIA,MIA,first vobasine-type alkaloid from Loganiaceae,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos erichsonii,Strychnos erichsonii,547183-1,547183-1,Species
-386,Strychnos eugeniifolia,,Strychnos,eugeniifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos eugeniifolia,Strychnos eugeniifolia,247305-2,247305-2,Species
-387,Strychnos fallax,,Strychnos,fallax,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fallax,Strychnos fallax,547189-1,547189-1,Species
-388,Strychnos fendleri,,Strychnos,fendleri,Yes,76,1.0,MIA,MIA,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fendleri,Strychnos fendleri,247306-2,247306-2,Species
-389,Strychnos flavescens,,Strychnos,flavescens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos flavescens,Strychnos flavescens,547193-1,547193-1,Species
-390,Strychnos floribunda,,Strychnos,floribunda,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos floribunda,Strychnos floribunda,547195-1,547195-1,Species
-391,Strychnos froesii,,Strychnos,froesii,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos froesii,Strychnos froesii,247307-2,247307-2,Species
-392,Strychnos fulvotomentosa,,Strychnos,fulvotomentosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fulvotomentosa,Strychnos fulvotomentosa,247308-2,247308-2,Species
-393,Strychnos gardneri,,Strychnos,gardneri,Yes,44,1.0,unclear,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gardneri,Strychnos gardneri,547200-1,547200-1,Species
-394,Strychnos gerrardii,,Strychnos,gerrardii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gerrardii,Strychnos gerrardii,547204-1,547204-1,Species
-395,Strychnos glabra,,Strychnos,glabra,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos glabra,Strychnos glabra,547207-1,547207-1,Species
-396,Strychnos gnetifolia,,Strychnos,gnetifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gnetifolia,Strychnos gnetifolia,547209-1,547209-1,Species
-397,Strychnos goiasensis,,Strychnos,goiasensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos goiasensis,Strychnos goiasensis,247311-2,247311-2,Species
-398,Strychnos grayi,,Strychnos,grayi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos grayi,Strychnos grayi,547216-1,547216-1,Species
-399,Strychnos gubleri,,Strychnos,gubleri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gubleri,Strychnos gubleri,547217-1,547217-1,Species
-400,Strychnos hirsuta,,Strychnos,hirsuta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos hirsuta,Strychnos hirsuta,547232-1,547232-1,Species
-401,Strychnos jacarepiensis,,Strychnos,jacarepiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos jacarepiensis,Strychnos jacarepiensis,77112473-1,77112473-1,Species
-402,Strychnos javariensis,,Strychnos,javariensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos javariensis,Strychnos javariensis,247314-2,247314-2,Species
-403,Strychnos jobertiana,,Strychnos,jobertiana,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos jobertiana,Strychnos jobertiana,547247-1,547247-1,Species
-404,Strychnos krukoffiana,,Strychnos,krukoffiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos krukoffiana,Strychnos krukoffiana,247316-2,247316-2,Species
-405,Strychnos lanata,,Strychnos,lanata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos lanata,Strychnos lanata,547261-1,547261-1,Species
-406,Strychnos ledermannii,,Strychnos,ledermannii,Yes,"57, 83",1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ledermannii,Strychnos ledermannii,547271-1,547271-1,Species
-407,Strychnos leenhoutsii,,Strychnos,leenhoutsii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos leenhoutsii,Strychnos leenhoutsii,547272-1,547272-1,Species
-408,Strychnos lobelioides,,Strychnos,lobelioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos lobelioides,Strychnos lobelioides,247318-2,247318-2,Species
-409,Strychnos luzonensis,,Strychnos,luzonensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos luzonensis,Strychnos luzonensis,547296-1,547296-1,Species
-410,Strychnos madagascariensis,,Strychnos,madagascariensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos madagascariensis,Strychnos madagascariensis,547300-1,547300-1,Species
-411,Strychnos maingayi,,Strychnos,maingayi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos maingayi,Strychnos maingayi,547301-1,547301-1,Species
-412,Strychnos malacosperma,,Strychnos,malacosperma,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos malacosperma,Strychnos malacosperma,247322-2,247322-2,Species
-413,Strychnos malchairii,,Strychnos,malchairii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos malchairii,Strychnos malchairii,547305-1,547305-1,Species
-414,Strychnos medeola,,Strychnos,medeola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos medeola,Strychnos medeola,547316-1,547316-1,Species
-415,Strychnos melanocarpa,,Strychnos,melanocarpa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melanocarpa,Strychnos melanocarpa,547318-1,547318-1,Species
-416,Strychnos melastomatoides,,Strychnos,melastomatoides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melastomatoides,Strychnos melastomatoides,547319-1,547319-1,Species
-417,Strychnos melinoniana,,Strychnos,melinoniana,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melinoniana,Strychnos melinoniana,547320-1,547320-1,Species
-418,Strychnos millepunctata,,Strychnos,millepunctata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos millepunctata,Strychnos millepunctata,547332-1,547332-1,Species
-419,Strychnos mimfiensis,,Strychnos,mimfiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mimfiensis,Strychnos mimfiensis,547334-1,547334-1,Species
-420,Strychnos minor,,Strychnos,minor,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos minor,Strychnos minor,547339-1,547339-1,Species
-421,Strychnos mitscherlichii,,Strychnos,mitscherlichii,Yes,44,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mitscherlichii,Strychnos mitscherlichii,547341-1,547341-1,Species
-422,Strychnos mostueoides,,Strychnos,mostueoides,Yes,42,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mostueoides,Strychnos mostueoides,547349-1,547349-1,Species
-423,Strychnos myrioneura,,Strychnos,myrioneura,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos myrioneura,Strychnos myrioneura,77222168-1,77222168-1,Species
-424,Strychnos nana,,Strychnos,nana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nana,Strychnos nana,77177752-1,77177752-1,Species
-425,Strychnos narcondamensis,,Strychnos,narcondamensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos narcondamensis,Strychnos narcondamensis,547357-1,547357-1,Species
-426,Strychnos ndengensis,,Strychnos,ndengensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ndengensis,Strychnos ndengensis,547359-1,547359-1,Species
-427,Strychnos neglecta,,Strychnos,neglecta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos neglecta,Strychnos neglecta,247329-2,247329-2,Species
-428,Strychnos nicaraguensis,,Strychnos,nicaraguensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nicaraguensis,Strychnos nicaraguensis,285708-2,285708-2,Species
-429,Strychnos nigricans,,Strychnos,nigricans,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nigricans,Strychnos nigricans,547364-1,547364-1,Species
-430,Strychnos nigritana,,Strychnos,nigritana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nigritana,Strychnos nigritana,547365-1,547365-1,Species
-431,Strychnos nitida,,Strychnos,nitida,Yes,"59, 84",1.0,MIA; indole,MIA; indole; piperidine; glucoindoles (MIAs),non MIA indoles are pyridocarbazoles. ADD AS NEW CATEGORY IF OU SEE MORE,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nitida,Strychnos nitida,547367-1,547367-1,Species
-432,Strychnos odorata,,Strychnos,odorata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos odorata,Strychnos odorata,547375-1,547375-1,Species
-433,Strychnos oiapocensis,,Strychnos,oiapocensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos oiapocensis,Strychnos oiapocensis,247332-2,247332-2,Species
-434,Strychnos oleifolia,,Strychnos,oleifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos oleifolia,Strychnos oleifolia,547378-1,547378-1,Species
-435,Strychnos ovata,,Strychnos,ovata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ovata,Strychnos ovata,547385-1,547385-1,Species
-436,Strychnos pachycarpa,,Strychnos,pachycarpa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pachycarpa,Strychnos pachycarpa,247334-2,247334-2,Species
-437,Strychnos panamensis,,Strychnos,panamensis,Yes,45/68,1.0,MIA,MIA,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos panamensis,Strychnos panamensis,547390-1,547390-1,Species
-438,Strychnos parviflora,,Strychnos,parviflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos parviflora,Strychnos parviflora,547398-1,547398-1,Species
-439,Strychnos parvifolia,,Strychnos,parvifolia,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos parvifolia,Strychnos parvifolia,547399-1,547399-1,Species
-440,Strychnos peckii,,Strychnos,peckii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos peckii,Strychnos peckii,547401-1,547401-1,Species
-441,Strychnos penninervis,,Strychnos,penninervis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos penninervis,Strychnos penninervis,547405-1,547405-1,Species
-442,Strychnos pentantha,,Strychnos,pentantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pentantha,Strychnos pentantha,547406-1,547406-1,Species
-443,Strychnos poeppigii,,Strychnos,poeppigii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos poeppigii,Strychnos poeppigii,547415-1,547415-1,Species
-444,Strychnos polyantha,,Strychnos,polyantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos polyantha,Strychnos polyantha,547416-1,547416-1,Species
-445,Strychnos polytrichantha,,Strychnos,polytrichantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos polytrichantha,Strychnos polytrichantha,547419-1,547419-1,Species
-446,Strychnos progeliana,,Strychnos,progeliana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos progeliana,Strychnos progeliana,247341-2,247341-2,Species
-447,Strychnos psilosperma,,Strychnos,psilosperma,Yes,86,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos psilosperma,Strychnos psilosperma,547427-1,547427-1,Species
-448,Strychnos puberula,,Strychnos,puberula,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos puberula,Strychnos puberula,77119500-1,77119500-1,Species
-449,Strychnos pubescens,,Strychnos,pubescens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pubescens,Strychnos pubescens,547428-1,547428-1,Species
-450,Strychnos pubiflora,,Strychnos,pubiflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pubiflora,Strychnos pubiflora,247343-2,247343-2,Species
-451,Strychnos ramentifera,,Strychnos,ramentifera,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ramentifera,Strychnos ramentifera,247344-2,247344-2,Species
-452,Strychnos recognita,,Strychnos,recognita,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos recognita,Strychnos recognita,247345-2,247345-2,Species
-453,Strychnos retinervis,,Strychnos,retinervis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos retinervis,Strychnos retinervis,547443-1,547443-1,Species
-454,Strychnos ridleyi,,Strychnos,ridleyi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ridleyi,Strychnos ridleyi,547448-1,547448-1,Species
-455,Strychnos romeu-belenii,,Strychnos,romeu-belenii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos romeu-belenii,Strychnos romeu-belenii,247347-2,247347-2,Species
-456,Strychnos rondeletioides,,Strychnos,rondeletioides,Yes,68,1.0,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rondeletioides,Strychnos rondeletioides,547453-1,547453-1,Species
-457,Strychnos rubiginosa,,Strychnos,rubiginosa,Yes,52,1.0,MIA,indole; quinolizidine,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rubiginosa,Strychnos rubiginosa,547455-1,547455-1,Species
-458,Strychnos rufa,,Strychnos,rufa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rufa,Strychnos rufa,547456-1,547456-1,Species
-459,Strychnos rupicola,,Strychnos,rupicola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rupicola,Strychnos rupicola,547458-1,547458-1,Species
-460,Strychnos samba,,Strychnos,samba,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos samba,Strychnos samba,547459-1,547459-1,Species
-461,Strychnos sandwithiana,,Strychnos,sandwithiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos sandwithiana,Strychnos sandwithiana,247349-2,247349-2,Species
-462,Strychnos schultesiana,,Strychnos,schultesiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos schultesiana,Strychnos schultesiana,247350-2,247350-2,Species
-463,Strychnos schunkei,,Strychnos,schunkei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos schunkei,Strychnos schunkei,247351-2,247351-2,Species
-464,Strychnos setosa,,Strychnos,setosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos setosa,Strychnos setosa,247353-2,247353-2,Species
-465,Strychnos solerederi,,Strychnos,solerederi,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos solerederi,Strychnos solerederi,247355-2,247355-2,Species
-466,Strychnos solimoesana,,Strychnos,solimoesana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos solimoesana,Strychnos solimoesana,247356-2,247356-2,Species
-467,Strychnos sonlaensis,,Strychnos,sonlaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos sonlaensis,Strychnos sonlaensis,931166-1,931166-1,Species
-468,Strychnos soubrensis,,Strychnos,soubrensis,Yes,"66, 76",1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos soubrensis,Strychnos soubrensis,547483-1,547483-1,Species
-469,Strychnos splendens,,Strychnos,splendens,Yes,67,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos splendens,Strychnos splendens,547487-1,547487-1,Species
-470,Strychnos staudtii,,Strychnos,staudtii,Yes,"39, 50",1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos staudtii,Strychnos staudtii,547488-1,547488-1,Species
-471,Strychnos subcordata,,Strychnos,subcordata,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos subcordata,Strychnos subcordata,547493-1,547493-1,Species
-472,Strychnos tabascana,,Strychnos,tabascana,Yes,76,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tabascana,Strychnos tabascana,247358-2,247358-2,Species
-473,Strychnos talbotiae,,Strychnos,talbotiae,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos talbotiae,Strychnos talbotiae,547502-1,547502-1,Species
-474,Strychnos tarapotensis,,Strychnos,tarapotensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tarapotensis,Strychnos tarapotensis,247359-2,247359-2,Species
-475,Strychnos tchibangensis,,Strychnos,tchibangensis,Yes,70,1.0,bisindole,bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tchibangensis,Strychnos tchibangensis,547504-1,547504-1,Species
-476,Strychnos ternata,,Strychnos,ternata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ternata,Strychnos ternata,547508-1,547508-1,Species
-477,Strychnos tetragona,,Strychnos,tetragona,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tetragona,Strychnos tetragona,547511-1,547511-1,Species
-478,Strychnos thorelii,,Strychnos,thorelii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos thorelii,Strychnos thorelii,547514-1,547514-1,Species
-479,Strychnos tomentosa,,Strychnos,tomentosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tomentosa,Strychnos tomentosa,547520-1,547520-1,Species
-480,Strychnos torresiana,,Strychnos,torresiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos torresiana,Strychnos torresiana,247362-2,247362-2,Species
-481,Strychnos toxifera,,Strychnos,toxifera,Yes,65,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos toxifera,Strychnos toxifera,547525-1,547525-1,Species
-482,Strychnos tricalysioides,,Strychnos,tricalysioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tricalysioides,Strychnos tricalysioides,547527-1,547527-1,Species
-483,Strychnos trichocalyx,,Strychnos,trichocalyx,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trichocalyx,Strychnos trichocalyx,547529-1,547529-1,Species
-484,Strychnos trichoneura,,Strychnos,trichoneura,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trichoneura,Strychnos trichoneura,547530-1,547530-1,Species
-485,Strychnos trinervis,,Strychnos,trinervis,Yes,74,1.0,MIA; bisindole,MIA; bisindole,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trinervis,Strychnos trinervis,77221793-1,77221793-1,Species
-486,Strychnos tseasnum,,Strychnos,tseasnum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tseasnum,Strychnos tseasnum,247364-2,247364-2,Species
-487,Strychnos umbellata,,Strychnos,umbellata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos umbellata,Strychnos umbellata,547538-1,547538-1,Species
-488,Strychnos urceolata,,Strychnos,urceolata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos urceolata,Strychnos urceolata,547542-1,547542-1,Species
-489,Strychnos vanprukii,,Strychnos,vanprukii,Yes,"57, 60",1.0,MIA ,MIA; pyridine [57] beta carboline; glucoindole [60],MIA are angustine type [57] ,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos vanprukii,Strychnos vanprukii,547548-1,547548-1,Species
-490,Strychnos villosa,,Strychnos,villosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos villosa,Strychnos villosa,547553-1,547553-1,Species
-491,Strychnos vitiensis,,Strychnos,vitiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos vitiensis,Strychnos vitiensis,547557-1,547557-1,Species
+291,Strychnos aculeata,,Strychnos,aculeata,Yes,76,1.0,MIA,MIA,,1.0,26,,,Yes,0.0,Inactive [3],,"IC50 >30 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos aculeata,Strychnos aculeata,547024-1,547024-1,Species
+292,Strychnos acuta,,Strychnos,acuta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos acuta,Strychnos acuta,547027-1,547027-1,Species
+293,Strychnos aenea,,Strychnos,aenea,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos aenea,Strychnos aenea,547030-1,547030-1,Species
+294,Strychnos afzelii,,Strychnos,afzelii,Yes,82,1.0,bisindole; MIA,bisindole; MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos afzelii,Strychnos afzelii,547031-1,547031-1,Species
+295,Strychnos alvimiana,,Strychnos,alvimiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos alvimiana,Strychnos alvimiana,247277-2,247277-2,Species
+296,Strychnos amazonica,,Strychnos,amazonica,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos amazonica,Strychnos amazonica,247278-2,247278-2,Species
+297,Strychnos andamanensis,,Strychnos,andamanensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos andamanensis,Strychnos andamanensis,547037-1,547037-1,Species
+298,Strychnos angolensis,,Strychnos,angolensis,Yes,39,1.0,pyridine; MIA,pyridine; indole; indolizidine; quinolizidine,,,,,,Yes,0.0,"Weak [3,37] Inactive [39]",Yes [37],"IC50 = 17.0 ± 7.6 μg/mL (EtOAc R) [3] IC50 = 29.9 & 20.9 μg/mL (Etoh L & R, FCA 20) [37] Inactive (3 alkaloids tested) [39]","3, 37, 39",,,,,,,,Loganiaceae,Strychnos angolensis,Strychnos angolensis,547038-1,547038-1,Species
+299,Strychnos angustiflora,,Strychnos,angustiflora,Yes,"57, 92",1.0,MIA,MIA; pyridine,MIA are angustine type and corynanthe type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos angustiflora,Strychnos angustiflora,547039-1,547039-1,Species
+300,Strychnos araguaensis,,Strychnos,araguaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos araguaensis,Strychnos araguaensis,247279-2,247279-2,Species
+301,Strychnos asperula,,Strychnos,asperula,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos asperula,Strychnos asperula,247280-2,247280-2,Species
+302,Strychnos asterantha,,Strychnos,asterantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos asterantha,Strychnos asterantha,547045-1,547045-1,Species
+303,Strychnos atlantica,,Strychnos,atlantica,Yes,64,1.0,MIA; bisindole,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos atlantica,Strychnos atlantica,247281-2,247281-2,Species
+304,Strychnos axillaris,,Strychnos,axillaris,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos axillaris,Strychnos axillaris,547050-1,547050-1,Species
+305,Strychnos bahiensis,,Strychnos,bahiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bahiensis,Strychnos bahiensis,247282-2,247282-2,Species
+306,Strychnos barnhartiana,,Strychnos,barnhartiana,Yes,87,1.0,indole,beta-carboline,nor-harman,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos barnhartiana,Strychnos barnhartiana,247283-2,247283-2,Species
+307,Strychnos barteri,,Strychnos,barteri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos barteri,Strychnos barteri,547059-1,547059-1,Species
+308,Strychnos benthamii,,Strychnos,benthamii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos benthamii,Strychnos benthamii,547063-1,547063-1,Species
+309,Strychnos bicolor,,Strychnos,bicolor,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bicolor,Strychnos bicolor,547068-1,547068-1,Species
+310,Strychnos bifurcata,,Strychnos,bifurcata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bifurcata,Strychnos bifurcata,547069-1,547069-1,Species
+311,Strychnos boonei,,Strychnos,boonei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos boonei,Strychnos boonei,547073-1,547073-1,Species
+312,Strychnos borneensis,,Strychnos,borneensis,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos borneensis,Strychnos borneensis,547074-1,547074-1,Species
+313,Strychnos brachiata,,Strychnos,brachiata,Yes,KN,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos brachiata,Strychnos brachiata,547077-1,547077-1,Species
+314,Strychnos brachistantha,,Strychnos,brachistantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos brachistantha,Strychnos brachistantha,247287-2,247287-2,Species
+315,Strychnos brasiliensis,,Strychnos,brasiliensis,Yes,"76, 85",1.0,MIA,MIA,,1.0,101,,,Yes,0.0,Inactive [3],,IC50 > 30 μg/mL (EtOAc S),3,,,,,,,,Loganiaceae,Strychnos brasiliensis,Strychnos brasiliensis,547081-1,547081-1,Species
+316,Strychnos bredemeyeri,,Strychnos,bredemeyeri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos bredemeyeri,Strychnos bredemeyeri,547083-1,547083-1,Species
+317,Strychnos campicola,,Strychnos,campicola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos campicola,Strychnos campicola,547093-1,547093-1,Species
+318,Strychnos camptoneura,,Strychnos,camptoneura,Yes,55,1.0,,,,1.0,102,1.0,102,Yes,0.0,,Yes,"IC50 = ca. 50 μg/mL (EtOH R, FCA 20)",37,,,,,,,,Loganiaceae,Strychnos camptoneura,Strychnos camptoneura,547094-1,547094-1,Species
+319,Strychnos canthioides,,Strychnos,canthioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos canthioides,Strychnos canthioides,547096-1,547096-1,Species
+320,Strychnos castelnaeana,,Strychnos,castelnaeana,Yes,48,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos castelnaeana,Strychnos castelnaeana,547100-1,547100-1,Species
+321,Strychnos cathayensis,,Strychnos,cathayensis,Yes,88,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cathayensis,Strychnos cathayensis,547102-1,547102-1,Species
+322,Strychnos cayennensis,,Strychnos,cayennensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cayennensis,Strychnos cayennensis,247293-2,247293-2,Species
+323,Strychnos cerradoensis,,Strychnos,cerradoensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cerradoensis,Strychnos cerradoensis,247294-2,247294-2,Species
+324,Strychnos chlorantha,,Strychnos,chlorantha,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chlorantha,Strychnos chlorantha,547109-1,547109-1,Species
+325,Strychnos chromatoxylon,,Strychnos,chromatoxylon,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chromatoxylon,Strychnos chromatoxylon,547112-1,547112-1,Species
+326,Strychnos chrysophylla,,Strychnos,chrysophylla,Yes,78,1.0,bisindole,bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos chrysophylla,Strychnos chrysophylla,547114-1,547114-1,Species
+327,Strychnos cocculoides,,Strychnos,cocculoides,,,,,,,,,,,Yes,0.0,Weak [3],,"IC50 = 20.0 ± 11.9 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos cocculoides,Strychnos cocculoides,547124-1,547124-1,Species
+328,Strychnos cogens,,Strychnos,cogens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cogens,Strychnos cogens,547125-1,547125-1,Species
+329,Strychnos colombiensis,,Strychnos,colombiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos colombiensis,Strychnos colombiensis,247295-2,247295-2,Species
+330,Strychnos congolana,,Strychnos,congolana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos congolana,Strychnos congolana,547134-1,547134-1,Species
+331,Strychnos coriacea,,Strychnos,coriacea,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos coriacea,Strychnos coriacea,547138-1,547138-1,Species
+332,Strychnos croatii,,Strychnos,croatii,,,,,,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos croatii,Strychnos croatii,247298-2,247298-2,Species
+333,Strychnos cuminodora,,Strychnos,cuminodora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cuminodora,Strychnos cuminodora,547143-1,547143-1,Species
+334,Strychnos cuniculina,,Strychnos,cuniculina,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos cuniculina,Strychnos cuniculina,547145-1,547145-1,Species
+335,Strychnos curtisii,,Strychnos,curtisii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos curtisii,Strychnos curtisii,547147-1,547147-1,Species
+336,Strychnos daclacensis,,Strychnos,daclacensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos daclacensis,Strychnos daclacensis,931165-1,931165-1,Species
+337,Strychnos dale,,Strychnos,dale,Yes,"69,75",1.0,bisindole [69]; MIA [75],bisindole [69]; MIA [75],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dale,Strychnos dale,547149-1,547149-1,Species
+338,Strychnos dalzellii,,Strychnos,dalzellii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dalzellii,Strychnos dalzellii,547150-1,547150-1,Species
+339,Strychnos dantaensis,,Strychnos,dantaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dantaensis,Strychnos dantaensis,77121342-1,77121342-1,Species
+340,Strychnos darienensis,,Strychnos,darienensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos darienensis,Strychnos darienensis,547151-1,547151-1,Species
+341,Strychnos davidsei,,Strychnos,davidsei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos davidsei,Strychnos davidsei,247299-2,247299-2,Species
+342,Strychnos decussata,,Strychnos,decussata,Yes,"61, 75",1.0,MIA [61]; MIA; bisindole [75],MIA glycoside [61]; MIA; bisindole [75],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos decussata,Strychnos decussata,50426037-2,50426037-2,Species
+343,Strychnos densiflora,,Strychnos,densiflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos densiflora,Strychnos densiflora,547156-1,547156-1,Species
+344,Strychnos diaboli,,Strychnos,diaboli,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos diaboli,Strychnos diaboli,247300-2,247300-2,Species
+345,Strychnos dinhensis,,Strychnos,dinhensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dinhensis,Strychnos dinhensis,547160-1,547160-1,Species
+346,Strychnos dinklagei,,Strychnos,dinklagei,Yes,"89, 90, 91",1.0,MIA [89/90]; pyridine [90]; bisindole [91],MIA [89/90]; pyridine [90]; bisindole [91],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dinklagei,Strychnos dinklagei,547161-1,547161-1,Species
+347,Strychnos diplotricha,,Strychnos,diplotricha,Yes,42,1.0,MIA,MIA,,1.0,42,,,,,,,,,,,,,,,,Loganiaceae,Strychnos diplotricha,Strychnos diplotricha,547162-1,547162-1,Species
+348,Strychnos divaricans,,Strychnos,divaricans,Yes,"68, 73",1.0,MIA [68]; bisindole [73],MIA [68]; bisindole [73],,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos divaricans,Strychnos divaricans,247301-2,247301-2,Species
+349,Strychnos dolichothyrsa,,Strychnos,dolichothyrsa,Yes,54,1.0,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos dolichothyrsa,Strychnos dolichothyrsa,547167-1,547167-1,Species
+350,Strychnos duckei,,Strychnos,duckei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos duckei,Strychnos duckei,247302-2,247302-2,Species
+351,Strychnos ecuadoriensis,,Strychnos,ecuadoriensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ecuadoriensis,Strychnos ecuadoriensis,247303-2,247303-2,Species
+352,Strychnos elaeocarpa,,Strychnos,elaeocarpa,Yes,75,1.0,MIA; bisindole,MIA; bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos elaeocarpa,Strychnos elaeocarpa,547178-1,547178-1,Species
+353,Strychnos erichsonii,,Strychnos,erichsonii,Yes,49,1.0,MIA,MIA,first vobasine-type alkaloid from Loganiaceae,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos erichsonii,Strychnos erichsonii,547183-1,547183-1,Species
+354,Strychnos eugeniifolia,,Strychnos,eugeniifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos eugeniifolia,Strychnos eugeniifolia,247305-2,247305-2,Species
+355,Strychnos fallax,,Strychnos,fallax,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fallax,Strychnos fallax,547189-1,547189-1,Species
+356,Strychnos fendleri,,Strychnos,fendleri,Yes,76,1.0,MIA,MIA,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fendleri,Strychnos fendleri,247306-2,247306-2,Species
+357,Strychnos flavescens,,Strychnos,flavescens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos flavescens,Strychnos flavescens,547193-1,547193-1,Species
+358,Strychnos floribunda,,Strychnos,floribunda,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos floribunda,Strychnos floribunda,547195-1,547195-1,Species
+359,Strychnos froesii,,Strychnos,froesii,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos froesii,Strychnos froesii,247307-2,247307-2,Species
+360,Strychnos fulvotomentosa,,Strychnos,fulvotomentosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos fulvotomentosa,Strychnos fulvotomentosa,247308-2,247308-2,Species
+361,Strychnos gardneri,,Strychnos,gardneri,Yes,44,1.0,unclear,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gardneri,Strychnos gardneri,547200-1,547200-1,Species
+362,Strychnos gerrardii,,Strychnos,gerrardii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gerrardii,Strychnos gerrardii,547204-1,547204-1,Species
+363,Strychnos glabra,,Strychnos,glabra,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos glabra,Strychnos glabra,547207-1,547207-1,Species
+364,Strychnos gnetifolia,,Strychnos,gnetifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gnetifolia,Strychnos gnetifolia,547209-1,547209-1,Species
+365,Strychnos goiasensis,,Strychnos,goiasensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos goiasensis,Strychnos goiasensis,247311-2,247311-2,Species
+366,Strychnos gossweileri,,Strychnos,gossweileri,Yes,37,1.0,quinoline [37]; MIA [62],quinoline; quinolizidine [37] / MIA [62],,,,,,Yes,0.0,Weak [3],Yes [37],"IC50 = 12.4 ± 4.1 μg/mL (EtOAc R), >30 μg/mL (MeOH R) [3] IC50 = 43.5 (EtOH R, FCA 20) [37]","3, 37",,,,,,,,Loganiaceae,Strychnos gossweileri,Strychnos gossweileri,547213-1,547213-1,Species
+367,Strychnos grayi,,Strychnos,grayi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos grayi,Strychnos grayi,547216-1,547216-1,Species
+368,Strychnos gubleri,,Strychnos,gubleri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos gubleri,Strychnos gubleri,547217-1,547217-1,Species
+369,Strychnos guianensis,,Strychnos,guianensis,Yes,"KN, 37",1.0,MIA [KN]; bisindole [KN/37],MIA [KN]; bisindole; quarternary; beta carboline [KN/37],,,,,,Yes,1.0,,Yes,"IC50 =3.694 & 4.561μg/mL (guianensine, FCA 20 & W2)",37,,,,,,,,Loganiaceae,Strychnos guianensis,Strychnos guianensis,547220-1,547220-1,Species
+370,Strychnos henningsii,,Strychnos,henningsii,Yes,37,1.0,MIA,MIA; peptide,Icajine-type MIA,1.0,"3, 20, 23, 100, 107",,,Yes,0.0,"Weak [3, 25]",Yes [25],"IC50 = 15.9 ± 3.0 μg/mL (EtOAc L), >30 μg/mL (EtOAc S) [3] 73.39 ± 9.75 μg/mL (Aqeuous, B, ENT 30) 67.16 ± 8.70 μg/mL (Aqeuous, B, NF 54) 190.0 ± 16.85 μg/mL (MeOH, B, ENT 30) 157.91 ± 10.03 μg/mL (MeOH, B, NF 54) [25]","3, 25",,,,,,,,Loganiaceae,Strychnos henningsii,Strychnos henningsii,547225-1,547225-1,Species
+371,Strychnos hirsuta,,Strychnos,hirsuta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos hirsuta,Strychnos hirsuta,547232-1,547232-1,Species
+372,Strychnos icaja,,Strychnos,icaja,Yes,"37, 51",1.0,MIA; bisindole [37]; trisindole [51],Indole; MIA; Peptide; bisindole [37] trisindole [51],Interesting MIA structure with a large macrocycle (see icajine for example). One bisindole is linked by 8-membered ring (containing both indole N atoms) [51],1.0,3,,,Yes,1.0,Active [7] Weak [17],"Yes [7, 10, 15, 16, 37]","IC50  = 0.69 μg/ml ± 0.25 (MeOH R, 3D7) 0.42 μg/ml ± 0.22 (MeOH R, W2) 0.84 ± 0.05 (CH2Cl2 R, 3D7) 0.61 ± 0.35 μg/ml (CH2Cl2 R, W2) [7] 0.617 μM [0.411 μg/mL](Strychnogucine B, FCA 20) 0.529 μM [0.353 μg/mL](Strychnogucine B, FCB1-R) 0.085 μM [0.057 μg/mL] (Strychnogucine B, W2) [10] 0.551 μg/mL (18-hydroxyisosungucine, R, FCA 20) 0.091 μg/mL (18-hydroxyisosungucine, R, W2) [15] 0.41 μg/mL (strychnogucine B, R, FCA 20) 6.428 μg/mL (strychnogucine B, R, W2) 0.34 μg/mL (strychnogucine B, R, F32) 0.13 μg/mL (strychnogucine B, R, PFB) [16] ""moderately active"" (Strychnohexamine, R) [17] IC50 = 0.286 & 0.303 μg/mL (EtOAc R, FCA 20 & W2) [37]","7, 10, 15, 16, 17, 37",,,,,,,,Loganiaceae,Strychnos icaja,Strychnos icaja,547240-1,547240-1,Species
+373,Strychnos ignatii,,Strychnos,ignatii,Yes,47,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc Se),3,,,,,,,,Loganiaceae,Strychnos ignatii,Strychnos ignatii,547242-1,547242-1,Species
+374,Strychnos innocua,,Strychnos,innocua,,,,,,,1.0,43,,,Yes,0.0,"Inactive [3, 37]",Yes [37],IC50 = >30 μg/mL (EtOAc S) [3] IC50 > 40 μg/mL [37],"3, 37",,,,,,,,Loganiaceae,Strychnos innocua,Strychnos innocua,547244-1,547244-1,Species
+375,Strychnos jacarepiensis,,Strychnos,jacarepiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos jacarepiensis,Strychnos jacarepiensis,77112473-1,77112473-1,Species
+376,Strychnos javariensis,,Strychnos,javariensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos javariensis,Strychnos javariensis,247314-2,247314-2,Species
+377,Strychnos jobertiana,,Strychnos,jobertiana,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos jobertiana,Strychnos jobertiana,547247-1,547247-1,Species
+378,Strychnos johnsonii,,Strychnos,johnsonii,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,"Weak [3, 39]",,"IC50 = >30 μg/mL (EtOAc L), 16.4 ± 1.8 μg/mL (EtOAc S) ,>30 μg/mL (EtOAc R) [3] IC50 = 5.70 & 7.7 & 2.15 [12.6 & 17.0 & 4.75 μM] (janussine B, FCA 20 & FCB1-R & W2) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos johnsonii,Strychnos johnsonii,547248-1,547248-1,Species
+379,Strychnos kasengaensis,,Strychnos,kasengaensis,Yes,"39, 72",1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,Weak [39],,"IC50 = 2.81 & 1.3 & 2.03 μg/mL [4.58 & 2.12 & 3.31 μM](16,17-dehydroisostrychnobiline, FCA 20 & FCB1-R & W2)",39,,,,,,,,Loganiaceae,Strychnos kasengaensis,Strychnos kasengaensis,547252-1,547252-1,Species
+380,Strychnos krukoffiana,,Strychnos,krukoffiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos krukoffiana,Strychnos krukoffiana,247316-2,247316-2,Species
+381,Strychnos lanata,,Strychnos,lanata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos lanata,Strychnos lanata,547261-1,547261-1,Species
+382,Strychnos ledermannii,,Strychnos,ledermannii,Yes,"57, 83",1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ledermannii,Strychnos ledermannii,547271-1,547271-1,Species
+383,Strychnos leenhoutsii,,Strychnos,leenhoutsii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos leenhoutsii,Strychnos leenhoutsii,547272-1,547272-1,Species
+384,Strychnos lobelioides,,Strychnos,lobelioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos lobelioides,Strychnos lobelioides,247318-2,247318-2,Species
+385,Strychnos longicaudata,,Strychnos,longicaudata,Yes,39,1.0,Pyridine; MIA; bisindole,pyridine; indole; MIA; indolizidine; bisindole,,,,,,Yes,1.0,Inactive [37] Active [39],Yes [37],"IC50 > 50 μg/mL (EtOH R, FCA 20 [37] IC50 = 0.56 & 0.32 & 0.32 [ 0.986 & 0.560 & 0.569 μM] (longicaudatine, FCA 20 & FCB1-R & W2) [39]","37, 39",,,,,,,,Loganiaceae,Strychnos longicaudata,Strychnos longicaudata,60452498-2,60452498-2,Species
+386,Strychnos lucens,,Strychnos,lucens,Yes,39,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc L),3,,,,,,,,Loganiaceae,Strychnos lucens,Strychnos lucens,547293-1,547293-1,Species
+387,Strychnos lucida,,Strychnos,lucida,Yes,"KN, 40",1.0,MIA,MIA,,1.0,"22, 94",,,Yes,1.0,"Active [22, 40]",,">80% Inhibition at 1000 μg/mL (W) [22] IC50 = 0.39 μg/mL (fraction F4 W, 3D7) [40]","22, 40 ",,,,,,,,Loganiaceae,Strychnos lucida,Strychnos lucida,547295-1,547295-1,Species
+388,Strychnos luzonensis,,Strychnos,luzonensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos luzonensis,Strychnos luzonensis,547296-1,547296-1,Species
+389,Strychnos madagascariensis,,Strychnos,madagascariensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos madagascariensis,Strychnos madagascariensis,547300-1,547300-1,Species
+390,Strychnos maingayi,,Strychnos,maingayi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos maingayi,Strychnos maingayi,547301-1,547301-1,Species
+391,Strychnos malacoclados,,Strychnos,malacoclados,Yes,41,1.0,bisindole; MIA,bisindole; MIA,,,,,,Yes,1.0,Active [41],,"IC50 = 0.388 & 0.326 (longicaudatine, 3D7 & W2)",41,,,,,,,,Loganiaceae,Strychnos malacoclados,Strychnos malacoclados,547303-1,547303-1,Species
+392,Strychnos malacosperma,,Strychnos,malacosperma,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos malacosperma,Strychnos malacosperma,247322-2,247322-2,Species
+393,Strychnos malchairii,,Strychnos,malchairii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos malchairii,Strychnos malchairii,547305-1,547305-1,Species
+394,Strychnos matopensis,,Strychnos,matopensis,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,,,,,Yes,1.0,Active [39],,"IC50 = 0.32 & 0.92 & 0.07 μg/mL [0.54 & 1.54 & 0.122 μM] (16-methoxyisomatopensine, FCA 20 & FCB1-R& W2) ",39,,,,,,,,Loganiaceae,Strychnos matopensis,Strychnos matopensis,547312-1,547312-1,Species
+395,Strychnos mattogrossensis,,Strychnos,mattogrossensis,Yes,79,1.0,MIA,MIA,,,,,,Yes,0.0,Inactive [37],Yes,"IC50 > 30 μg/mL (EtOH R, FCA 20)",37,,,,,,,,Loganiaceae,Strychnos mattogrossensis,Strychnos mattogrossensis,247325-2,247325-2,Species
+396,Strychnos medeola,,Strychnos,medeola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos medeola,Strychnos medeola,547316-1,547316-1,Species
+397,Strychnos melanocarpa,,Strychnos,melanocarpa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melanocarpa,Strychnos melanocarpa,547318-1,547318-1,Species
+398,Strychnos melastomatoides,,Strychnos,melastomatoides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melastomatoides,Strychnos melastomatoides,547319-1,547319-1,Species
+399,Strychnos melinoniana,,Strychnos,melinoniana,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos melinoniana,Strychnos melinoniana,547320-1,547320-1,Species
+400,Strychnos mellodora,,Strychnos,mellodora,Yes,KN/53,1.0,indole [KN]; MIA,MIA; glycosides,glucoindoles; indole is melinonine F,,,,,Yes,0.0,Weak [3],,"IC50 = 13.4 μg/mL (EtOAc L), 29.5 μg/mL (MeOH L), 14.5 ± 1.5 μg/mL (EtOAc S), >30 μg/mL (MeOH S), 11.2 ± 3.6 μg/mL (EtOAc R), 25.4 ± 11.0 μg/mL (MeOH R)",3,,,,,,,,Loganiaceae,Strychnos mellodora,Strychnos mellodora,547322-1,547322-1,Species
+401,Strychnos memecyloides,,Strychnos,memecyloides,,,,,,,,,,,Yes,0.0,Weak [37],Yes,"IC50 = 13.489 μg/mL (EtOH L, FCA 20) [37]",37,,,,,,,,Loganiaceae,Strychnos memecyloides,Strychnos memecyloides,547324-1,547324-1,Species
+402,Strychnos millepunctata,,Strychnos,millepunctata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos millepunctata,Strychnos millepunctata,547332-1,547332-1,Species
+403,Strychnos mimfiensis,,Strychnos,mimfiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mimfiensis,Strychnos mimfiensis,547334-1,547334-1,Species
+404,Strychnos minor,,Strychnos,minor,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos minor,Strychnos minor,547339-1,547339-1,Species
+405,Strychnos mitis,,Strychnos,mitis,Yes,13,1.0,,,,1.0,13,,,Yes,1.0,Active [13] Inactive [3],Yes [13],"IC50 = >30 μg/mL (EtOAc S) [3] 37%,81%,94% in vivo supression 200,400,600 mg/kg/day (aqueous extraction L, P. berghei) [13]","3,13",,,,,,,,Loganiaceae,Strychnos mitis,Strychnos mitis,547340-1,547340-1,Species
+406,Strychnos mitscherlichii,,Strychnos,mitscherlichii,Yes,44,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mitscherlichii,Strychnos mitscherlichii,547341-1,547341-1,Species
+407,Strychnos moandaensis,,Strychnos,moandaensis,Yes,9,1.0,bisindole,bisindole; zwitterionic,,,,,,Yes,1.0,Weak,Yes,"IC50 = 11.2 μM (Moandaensine, FCA 20) [7.72 μg/mL] 9.2 μM (Moandaensine, W2) [6.34 μg/mL]",9,,,,,,,,Loganiaceae,Strychnos moandaensis,Strychnos moandaensis,547342-1,547342-1,Species
+408,Strychnos mostueoides,,Strychnos,mostueoides,Yes,42,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos mostueoides,Strychnos mostueoides,547349-1,547349-1,Species
+409,Strychnos myrioneura,,Strychnos,myrioneura,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos myrioneura,Strychnos myrioneura,77222168-1,77222168-1,Species
+410,Strychnos myrtoides,,Strychnos,myrtoides,Yes,38,1.0,MIA, indole; monoterpenoid; pyrrolidine,icajine-type MIA,1.0,98,,,Yes,0.0,Inactive,No,"IC50 = 57.60 ± 5.50 μg/mL (Crude alkaloid extract, FCM 29) 73.08 ± 2.93 μg/mL (Strychnobrasiline, FCM 29) 69.12 ± 3.39 μg/mL (Malagashanine, FCM 29)",8,,,,,,,,Loganiaceae,Strychnos myrtoides,Strychnos myrtoides,547356-1,547356-1,Species
+411,Strychnos nana,,Strychnos,nana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nana,Strychnos nana,77177752-1,77177752-1,Species
+412,Strychnos narcondamensis,,Strychnos,narcondamensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos narcondamensis,Strychnos narcondamensis,547357-1,547357-1,Species
+413,Strychnos ndengensis,,Strychnos,ndengensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ndengensis,Strychnos ndengensis,547359-1,547359-1,Species
+414,Strychnos neglecta,,Strychnos,neglecta,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos neglecta,Strychnos neglecta,247329-2,247329-2,Species
+415,Strychnos ngouniensis,,Strychnos,ngouniensis,Yes,39,1.0,MIA,MIA; quarternary,,,,,,Yes,1.0,Weak [39],,"IC50 = 2.19 & 4.57 & 4.43 μg/mL [7.8 & 16.3 & 15.8 μM] (epingouniensine, FCA 20 & FCB1-R & W2)",39,,,,,,,,Loganiaceae,Strychnos ngouniensis,Strychnos ngouniensis,547361-1,547361-1,Species
+416,Strychnos nicaraguensis,,Strychnos,nicaraguensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nicaraguensis,Strychnos nicaraguensis,285708-2,285708-2,Species
+417,Strychnos nigricans,,Strychnos,nigricans,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nigricans,Strychnos nigricans,547364-1,547364-1,Species
+418,Strychnos nigritana,,Strychnos,nigritana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nigritana,Strychnos nigritana,547365-1,547365-1,Species
+419,Strychnos nitida,,Strychnos,nitida,Yes,"59, 84",1.0,MIA; indole,MIA; indole; piperidine; glucoindoles (MIAs),non MIA indoles are pyridocarbazoles. ADD AS NEW CATEGORY IF OU SEE MORE,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nitida,Strychnos nitida,547367-1,547367-1,Species
+420,Strychnos nux-blanda,,Strychnos,nux-blanda,Yes,77,1.0,Pyrrole,pyrrole,pyrrole/indolizidine skeleton. Aromatic so calling it pyrrole,1.0,77,,,,,,,,,,,,,,,,Loganiaceae,Strychnos nux-blanda,Strychnos nux-blanda,547370-1,547370-1,Species
+421,Strychnos nux-vomica,,Strychnos,nux-vomica,Yes,19,1.0,bisindole; MIA,bisindole; MIA,,1.0,"95, 105",1.0,"19, 96",Yes,1.0,Active [19] Inactive [3],Yes [19],"IC50 = >30 μg/mL (EtOAc S) [3] 4.9 ± 1.0 μg/mL (strychnochrysine, B, 3D7) 6.0 ± 2.4 μg/mL (strychnochrysine, B, W2) [19]","3, 19",,,,,,1.0,108.0,Loganiaceae,Strychnos nux-vomica,Strychnos nux-vomica,547371-1,547371-1,Species
+422,Strychnos odorata,,Strychnos,odorata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos odorata,Strychnos odorata,547375-1,547375-1,Species
+423,Strychnos oiapocensis,,Strychnos,oiapocensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos oiapocensis,Strychnos oiapocensis,247332-2,247332-2,Species
+424,Strychnos oleifolia,,Strychnos,oleifolia,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos oleifolia,Strychnos oleifolia,547378-1,547378-1,Species
+425,Strychnos ovata,,Strychnos,ovata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ovata,Strychnos ovata,547385-1,547385-1,Species
+426,Strychnos pachycarpa,,Strychnos,pachycarpa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pachycarpa,Strychnos pachycarpa,247334-2,247334-2,Species
+427,Strychnos panamensis,,Strychnos,panamensis,Yes,45/68,1.0,MIA,MIA,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos panamensis,Strychnos panamensis,547390-1,547390-1,Species
+428,Strychnos panganensis,,Strychnos,panganensis,Yes,39/81,1.0,MIA [81]; bisindole,MIA [81]; bisindole,,,,,,Yes,1.0,Weak [39],,"IC50 = 5.62 & 3.03 & >11.5 μg/mL [9.77 & 5.27 & >20 μM] (S-panganensine, FCA 20 & FCB1-R & W2) ",39,,,,,,,,Loganiaceae,Strychnos panganensis,Strychnos panganensis,547392-1,547392-1,Species
+429,Strychnos parviflora,,Strychnos,parviflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos parviflora,Strychnos parviflora,547398-1,547398-1,Species
+430,Strychnos parvifolia,,Strychnos,parvifolia,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos parvifolia,Strychnos parvifolia,547399-1,547399-1,Species
+431,Strychnos peckii,,Strychnos,peckii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos peckii,Strychnos peckii,547401-1,547401-1,Species
+432,Strychnos penninervis,,Strychnos,penninervis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos penninervis,Strychnos penninervis,547405-1,547405-1,Species
+433,Strychnos pentantha,,Strychnos,pentantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pentantha,Strychnos pentantha,547406-1,547406-1,Species
+434,Strychnos phaeotricha,,Strychnos,phaeotricha,,,,,,,,,,,Yes,0.0,Inactive [3],,IC50 = >30 μg/mL (EtOAc L),3,,,,,,,,Loganiaceae,Strychnos phaeotricha,Strychnos phaeotricha,547408-1,547408-1,Species
+435,Strychnos poeppigii,,Strychnos,poeppigii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos poeppigii,Strychnos poeppigii,547415-1,547415-1,Species
+436,Strychnos polyantha,,Strychnos,polyantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos polyantha,Strychnos polyantha,547416-1,547416-1,Species
+437,Strychnos polytrichantha,,Strychnos,polytrichantha,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos polytrichantha,Strychnos polytrichantha,547419-1,547419-1,Species
+438,Strychnos potatorum,,Strychnos,potatorum,Yes,39,1.0,MIA; bisindole,MIA; bisindole,,1.0,24,,,Yes,1.0,Inactive [3] Active [39],,"IC50 = >30 μg/mL (EtOAc S) [3] IC50 = 0.05 & 0.12 & 0.22 [ 0.118 & 0.266 & 0.492 μM] (ochrolifuanine A, FCA 20 & FCB1-R & W2) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos potatorum,Strychnos potatorum,547420-1,547420-1,Species
+439,Strychnos progeliana,,Strychnos,progeliana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos progeliana,Strychnos progeliana,247341-2,247341-2,Species
+440,Strychnos pseudoquina,,Strychnos,pseudoquina,Yes,"4, 71",1.0,MIA,MIA,,1.0,"4, 71, 101",1.0,71,Yes,1.0,Active [21],,"10% inhibition at 1000 mg/kg, mice, (EtOH B, P. berghei NK-65) [4] 56% inhibition at 1000 mg/kg, mice, (P. berghei) [21]","4, 21",,,,,,,,Loganiaceae,Strychnos pseudoquina,Strychnos pseudoquina,547425-1,547425-1,Species
+441,Strychnos psilosperma,,Strychnos,psilosperma,Yes,86,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos psilosperma,Strychnos psilosperma,547427-1,547427-1,Species
+442,Strychnos puberula,,Strychnos,puberula,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos puberula,Strychnos puberula,77119500-1,77119500-1,Species
+443,Strychnos pubescens,,Strychnos,pubescens,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pubescens,Strychnos pubescens,547428-1,547428-1,Species
+444,Strychnos pubiflora,,Strychnos,pubiflora,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos pubiflora,Strychnos pubiflora,247343-2,247343-2,Species
+445,Strychnos pungens,,Strychnos,pungens,Yes,39,1.0,Pyridine; MIA,pyridine; indole; quinolizidine,,,,,,Yes,0.0,"Inactive [3, 39]",,"IC50 = >30 μg/mL (EtOAc L), >30 μg/mL (EtOAc S) ,>30 μg/mL (EtOAc R) [3] Inactive (3 compounds tested) [39]","3, 39",,,,,,,,Loganiaceae,Strychnos pungens,Strychnos pungens,547430-1,547430-1,Species
+446,Strychnos ramentifera,,Strychnos,ramentifera,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ramentifera,Strychnos ramentifera,247344-2,247344-2,Species
+447,Strychnos recognita,,Strychnos,recognita,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos recognita,Strychnos recognita,247345-2,247345-2,Species
+448,Strychnos retinervis,,Strychnos,retinervis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos retinervis,Strychnos retinervis,547443-1,547443-1,Species
+449,Strychnos ridleyi,,Strychnos,ridleyi,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ridleyi,Strychnos ridleyi,547448-1,547448-1,Species
+450,Strychnos romeu-belenii,,Strychnos,romeu-belenii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos romeu-belenii,Strychnos romeu-belenii,247347-2,247347-2,Species
+451,Strychnos rondeletioides,,Strychnos,rondeletioides,Yes,68,1.0,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rondeletioides,Strychnos rondeletioides,547453-1,547453-1,Species
+452,Strychnos rubiginosa,,Strychnos,rubiginosa,Yes,52,1.0,MIA,indole; quinolizidine,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rubiginosa,Strychnos rubiginosa,547455-1,547455-1,Species
+453,Strychnos rufa,,Strychnos,rufa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rufa,Strychnos rufa,547456-1,547456-1,Species
+454,Strychnos rupicola,,Strychnos,rupicola,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos rupicola,Strychnos rupicola,547458-1,547458-1,Species
+455,Strychnos samba,,Strychnos,samba,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos samba,Strychnos samba,547459-1,547459-1,Species
+456,Strychnos sandwithiana,,Strychnos,sandwithiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos sandwithiana,Strychnos sandwithiana,247349-2,247349-2,Species
+457,Strychnos scheffleri,,Strychnos,scheffleri,Yes,46,1.0,MIA,indole; ,icajine-type MIA,,,,,Yes,0.0,Weak [3],,"IC50 = 21.2 μg/mL (EtOAc L), >30 μg/mL (EtOAc S)",3,,,,,,,,Loganiaceae,Strychnos scheffleri,Strychnos scheffleri,547464-1,547464-1,Species
+458,Strychnos schultesiana,,Strychnos,schultesiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos schultesiana,Strychnos schultesiana,247350-2,247350-2,Species
+459,Strychnos schunkei,,Strychnos,schunkei,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos schunkei,Strychnos schunkei,247351-2,247351-2,Species
+460,Strychnos setosa,,Strychnos,setosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos setosa,Strychnos setosa,247353-2,247353-2,Species
+461,Strychnos solerederi,,Strychnos,solerederi,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos solerederi,Strychnos solerederi,247355-2,247355-2,Species
+462,Strychnos solimoesana,,Strychnos,solimoesana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos solimoesana,Strychnos solimoesana,247356-2,247356-2,Species
+463,Strychnos sonlaensis,,Strychnos,sonlaensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos sonlaensis,Strychnos sonlaensis,931166-1,931166-1,Species
+464,Strychnos soubrensis,,Strychnos,soubrensis,Yes,"66, 76",1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos soubrensis,Strychnos soubrensis,547483-1,547483-1,Species
+465,Strychnos spinosa,,Strychnos,spinosa,Yes,80,1.0,MIA,MIA,,1.0,"3, 28, 43, 97, 106",,,Yes,1.0,"Weak [28] Inactive [3, 37] Active [5]","Yes [28, 37]","IC50 = >30 μg/mL (EtOAc S) [3] IC50 = 15.6 ± 3.8 μg/mL (CH2Cl2 L, 3D7), > 100 μg/mL (CH3OH L, 3D7),> 100 μg/mL (H2O L, 3D7), 8.9 ± 2.1 μg/mL (CH2Cl2 L, W2) [5] 21.8 ± 6.7 μg/mL (EtOH, B, FcB1) [28] IC50 > 80 μg/mL (EtOH B, FCA 20) [37]","3,5, 28, 37",,,,,,,,Loganiaceae,Strychnos spinosa,Strychnos spinosa,547485-1,547485-1,Species
+466,Strychnos splendens,,Strychnos,splendens,Yes,67,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos splendens,Strychnos splendens,547487-1,547487-1,Species
+467,Strychnos staudtii,,Strychnos,staudtii,Yes,"39, 50",1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos staudtii,Strychnos staudtii,547488-1,547488-1,Species
+468,Strychnos subcordata,,Strychnos,subcordata,Yes,68,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos subcordata,Strychnos subcordata,547493-1,547493-1,Species
+469,Strychnos tabascana,,Strychnos,tabascana,Yes,76,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tabascana,Strychnos tabascana,247358-2,247358-2,Species
+470,Strychnos talbotiae,,Strychnos,talbotiae,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos talbotiae,Strychnos talbotiae,547502-1,547502-1,Species
+471,Strychnos tarapotensis,,Strychnos,tarapotensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tarapotensis,Strychnos tarapotensis,247359-2,247359-2,Species
+472,Strychnos tchibangensis,,Strychnos,tchibangensis,Yes,70,1.0,bisindole,bisindole,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tchibangensis,Strychnos tchibangensis,547504-1,547504-1,Species
+473,Strychnos ternata,,Strychnos,ternata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos ternata,Strychnos ternata,547508-1,547508-1,Species
+474,Strychnos tetragona,,Strychnos,tetragona,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tetragona,Strychnos tetragona,547511-1,547511-1,Species
+475,Strychnos thorelii,,Strychnos,thorelii,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos thorelii,Strychnos thorelii,547514-1,547514-1,Species
+476,Strychnos tomentosa,,Strychnos,tomentosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tomentosa,Strychnos tomentosa,547520-1,547520-1,Species
+477,Strychnos torresiana,,Strychnos,torresiana,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos torresiana,Strychnos torresiana,247362-2,247362-2,Species
+478,Strychnos toxifera,,Strychnos,toxifera,Yes,65,1.0,MIA,MIA,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos toxifera,Strychnos toxifera,547525-1,547525-1,Species
+479,Strychnos tricalysioides,,Strychnos,tricalysioides,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tricalysioides,Strychnos tricalysioides,547527-1,547527-1,Species
+480,Strychnos trichocalyx,,Strychnos,trichocalyx,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trichocalyx,Strychnos trichocalyx,547529-1,547529-1,Species
+481,Strychnos trichoneura,,Strychnos,trichoneura,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trichoneura,Strychnos trichoneura,547530-1,547530-1,Species
+482,Strychnos trinervis,,Strychnos,trinervis,Yes,74,1.0,MIA; bisindole,MIA; bisindole,,1.0,101,,,,,,,,,,,,,,,,Loganiaceae,Strychnos trinervis,Strychnos trinervis,77221793-1,77221793-1,Species
+483,Strychnos tseasnum,,Strychnos,tseasnum,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos tseasnum,Strychnos tseasnum,247364-2,247364-2,Species
+484,Strychnos umbellata,,Strychnos,umbellata,Yes,57,1.0,MIA,MIA; pyridine,MIA are angustine type,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos umbellata,Strychnos umbellata,547538-1,547538-1,Species
+485,Strychnos urceolata,,Strychnos,urceolata,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos urceolata,Strychnos urceolata,547542-1,547542-1,Species
+486,Strychnos usambarensis,,Strychnos,usambarensis,Yes,37,1.0,Bisindole; MIA,Bisindole; indole; beta-carboline; MIA; pyrrolidine,Most bisindoles appear to be derived from two tryptamine units linked by a single monoterpene skeleton. One bisindole has 2 monoterpene units (one for each indole),1.0,"99, 103",,,Yes,1.0,Active [14],"Yes [6, 11, 14, 18, 37]","IC50 = 0.480 ± 0.014 μg/mL (10′-hydroxyusambarensine base, FCA), 0.655 ± 0.013 μg/mL (usambarensine base, FCA), 0.160 ± 0.016 μg/mL (10′-hydroxyusambarensine base, W2), 0.265 ± 0.023 μg/mL (usambarensine base, W2) [6] 5.5 μM [1.36 μg/mL] (17-O-acetyl,10-hydroxycorynantheol 1,L, 3D7), 11.2 μM [2.77 μg/mL](17-O-acetyl,10-hydroxycorynantheol 1,L, W2) [11] 0.117 μM [0.06 μg/mL] (Strychnopentamine, L, FCA 20) 0.145 μM [0.08 μg/mL] (Strychnopentamine, L, W2) [14] 0.12 ± 0.042 μM [0.07 μg/mL] (Isostrychnopentamine, L, FCA 20) [18] IC50 = 0.457 & 0.039 μg/mL (EtOAc R, FCA 20 & W2) [37]","6, 11, 14, 18, 37",,,,,,,,Loganiaceae,Strychnos usambarensis,Strychnos usambarensis,547543-1,547543-1,Species
+487,Strychnos vanprukii,,Strychnos,vanprukii,Yes,"57, 60",1.0,MIA ,MIA; pyridine [57] beta carboline; glucoindole [60],MIA are angustine type [57] ,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos vanprukii,Strychnos vanprukii,547548-1,547548-1,Species
+488,Strychnos variabilis,,Strychnos,variabilis,Yes,58,1.0,MIA,MIA,,,,,,Yes,1.0,Active [3] Weak [37],Yes [37],"IC50 = >30 μg/mL (EtOAc S), >30 μg/mL (MeOH S), 2.5 ± 0.2 μg/mL (EtOAc R), 2.3 ± 0.5 μg/mL (MeOH R) [3] IC50 = 17.702 (EtOH B, FCA20) [37]","3, 37",,,,,,,,Loganiaceae,Strychnos variabilis,Strychnos variabilis,547549-1,547549-1,Species
+489,Strychnos villosa,,Strychnos,villosa,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos villosa,Strychnos villosa,547553-1,547553-1,Species
+490,Strychnos vitiensis,,Strychnos,vitiensis,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos vitiensis,Strychnos vitiensis,547557-1,547557-1,Species
+491,Strychnos wallichiana,,Strychnos,wallichiana,Yes,56/63,1.0,MIA,MIA,strychnine and brucine,1.0,12,,,Yes,0.0,Active,Yes,"IC50 = 12.0 ± 2.5 μg/mL (MeOH, MRC-2)",12,,,,,,,,Loganiaceae,Strychnos wallichiana,Strychnos wallichiana,547566-1,547566-1,Species
 492,Strychnos xantha,,Strychnos,xantha,Yes,39,1.0,MIA,MIA; quinolizidine,geissoschizol,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos xantha,Strychnos xantha,547569-1,547569-1,Species
 493,Strychnos xylophylla,,Strychnos,xylophylla,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos xylophylla,Strychnos xylophylla,547572-1,547572-1,Species
 494,Strychnos zenkeri,,Strychnos,zenkeri,,,,,,,,,,,,,,,,,,,,,,,,Loganiaceae,Strychnos zenkeri,Strychnos zenkeri,547574-1,547574-1,Species
