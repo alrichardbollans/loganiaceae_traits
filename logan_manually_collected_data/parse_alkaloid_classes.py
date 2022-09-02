@@ -5,7 +5,7 @@ import pandas as pd
 
 from logan_manually_collected_data import logan_trait_parsing_output_path, logan_encoded_traits_csv
 
-parsed_alkaloid_classes_csv = os.path.join(logan_trait_parsing_output_path, 'parsed_alkaloid_classes.csv')
+logan_parsed_alkaloid_classes_csv = os.path.join(logan_trait_parsing_output_path, 'parsed_alkaloid_classes.csv')
 
 
 def remove_whitespace_at_beginning_and_end(value: str):
@@ -66,7 +66,7 @@ def parse_alkaloid_data():
     encoded = OHE_alks(input_alks)
     alk_cols_to_use = [c for c in encoded.columns.tolist() if 'alk_' in c]
     encoded = encoded[['Accepted_Name', 'Genus', 'Accepted_ID'] + alk_cols_to_use]
-    encoded.to_csv(parsed_alkaloid_classes_csv)
+    encoded.to_csv(logan_parsed_alkaloid_classes_csv)
     encoded.describe().to_csv(os.path.join(logan_trait_parsing_output_path, 'alks summary.csv'))
 
     cols = [x for x in encoded.columns.tolist() if 'alk_' in x]
