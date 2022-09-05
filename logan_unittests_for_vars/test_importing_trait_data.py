@@ -5,7 +5,7 @@ from automatchnames import get_genus_from_full_name
 
 from logan_manually_collected_data import clean_activities, ordinal_encode, clean_alkaloids, logan_encoded_traits_csv, \
     logan_accepted_trait_csv
-from unittests import imported_and_encoded_data
+from logan_unittests_for_vars import imported_and_encoded_data
 
 
 class MyTestCase(unittest.TestCase):

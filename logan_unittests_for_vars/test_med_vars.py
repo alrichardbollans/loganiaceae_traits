@@ -3,7 +3,7 @@ import unittest
 import pandas as pd
 
 from logan_medicinal_usage_vars import output_logan_medicinal_csv, output_logan_malarial_csv
-from unittests import confirming_hits
+from unit_test_methods import confirming_hits
 
 
 class MyTestCase(unittest.TestCase):
