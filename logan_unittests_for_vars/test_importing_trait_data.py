@@ -1,6 +1,7 @@
 import unittest
 
 import numpy as np
+import pandas as pd
 from automatchnames import get_genus_from_full_name
 
 from logan_manually_collected_data import clean_activities, ordinal_encode, clean_alkaloids, logan_encoded_traits_csv, \
@@ -16,6 +17,11 @@ class MyTestCase(unittest.TestCase):
         t.type_of_test(logan_encoded_traits_csv)
 
         t.activities(logan_accepted_trait_csv)
+
+        # Test all has family
+        trait_df = pd.read_csv(logan_encoded_traits_csv)
+
+        self.assertEqual(trait_df['Family'].unique().tolist(), ['Loganiaceae'])
 
     def test_genera_from_acc_names(self):
         self.assertEqual(get_genus_from_full_name('Danais'), 'Danais')
