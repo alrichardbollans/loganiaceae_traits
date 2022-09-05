@@ -3,10 +3,19 @@ import unittest
 import numpy as np
 from automatchnames import get_genus_from_full_name
 
-from logan_manually_collected_data import clean_activities, ordinal_encode, clean_alkaloids
+from logan_manually_collected_data import clean_activities, ordinal_encode, clean_alkaloids, logan_encoded_traits_csv, \
+    logan_accepted_trait_csv
+from unittests import imported_and_encoded_data
 
 
-class Test(unittest.TestCase):
+class MyTestCase(unittest.TestCase):
+
+    def test_data(self):
+        t = imported_and_encoded_data()
+
+        t.type_of_test(logan_encoded_traits_csv)
+
+        t.activities(logan_accepted_trait_csv)
 
     def test_genera_from_acc_names(self):
         self.assertEqual(get_genus_from_full_name('Danais'), 'Danais')

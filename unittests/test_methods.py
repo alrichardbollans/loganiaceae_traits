@@ -2,24 +2,29 @@ import unittest
 
 import pandas as pd
 
+# TODO: Add these to mining trait package?
+class imported_and_encoded_data(unittest.TestCase):
+    def type_of_test(self, csv_file:str):
+        trait_df = pd.read_csv(csv_file)
+        trait_df = trait_df[~trait_df['Activity_Antimalarial'].isna()]
 
-class confirming_hits(unittest.TestCase):
-    def confirm_hit(self, taxa: str, output_hits: pd.DataFrame):
+        vitro_names = ['Vitro', 'Vivo,Vitro', 'Vitro,Vivo']
+        vitro_df = trait_df[trait_df['Type_of_Test'].isin(vitro_names)]
 
-        self.assertIn(taxa, output_hits['Accepted_Name'].values.tolist())
+        vivo_names = ['Vivo', 'Vivo,Vitro', 'Vitro,Vivo']
+        vivo_df = trait_df[trait_df['Type_of_Test'].isin(vivo_names)]
 
-    def confirm_no_hit(self, taxa: str, output_hits: pd.DataFrame):
+        self.assertGreaterEqual((len(vivo_df.index) + len(vitro_df.index)), len(trait_df.index))
 
-        self.assertNotIn(taxa, output_hits['Accepted_Name'].values.tolist())
+        mice_df = trait_df[trait_df['Given_Activities'].str.contains('mice')]
+        vitro_mice = mice_df[mice_df['Type_of_Test'] == 'Vitro']
 
-    def confirm_powo_hit(self, taxa: str, output_hits: pd.DataFrame):
+        # If 'mice' in activties, probably should be vivo
+        try:
+            self.assertEqual(len(vitro_mice.index), 0)
+        except:
+            print(vitro_mice['Given_Activities'])
 
-        self.assertIn('POWO', output_hits[output_hits['Accepted_Name'] == taxa]['Sources'].values[0])
-
-    def confirm_knapsack_hit(self, taxa: str, output_hits: pd.DataFrame, alkaloids=None):
-
-        self.assertIn('KNApSAcK', output_hits[output_hits['Accepted_Name'] == taxa]['Sources'].values[0])
-
-        if alkaloids is not None:
-            for alk in alkaloids:
-                self.assertIn(alk, output_hits[output_hits['Accepted_Name'] == taxa]['knapsack_snippet'].values[0])
+    def activities(self, raw_file:str):
+        trait_df = pd.read_csv(raw_file)
+        self.assertEqual(len(trait_df[trait_df['Activity_Antimalarial'] == 'Weak'].index), 0)

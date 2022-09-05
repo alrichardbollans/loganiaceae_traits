@@ -1,9 +1,10 @@
 import unittest
 
 import pandas as pd
+from unit_test_methods import confirming_hits
 
 from logan_metabolite_vars import logan_alkaloid_hits_output_csv
-from unittests import confirming_hits
+
 
 
 class MyTestCase(unittest.TestCase):
