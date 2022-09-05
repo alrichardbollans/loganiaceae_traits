@@ -142,6 +142,7 @@ def get_steroid_card_hits():
 
 
 def main():
+    get_logan_metabolites()
     # summarise_metabolites()
     get_logan_antibac_metabolite_hits()
     get_logan_alkaloid_hits()
