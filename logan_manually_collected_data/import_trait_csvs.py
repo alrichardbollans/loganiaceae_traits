@@ -41,13 +41,15 @@ NEW_HEADINGS = [
     "Given_Activities",
     "Ref_Activity",
     "General_notes",
-    "MPNS_Sources",
+    "MPNS_notes",
     "Details",
     "Cardenolides",
     "Cardenolides_Ref",
     "Steroids",
     "Steroids_Ref"
 ]
+if any('source' in x.lower() for x in NEW_HEADINGS):
+    raise ValueError('Unwanted Source included in columns')
 logan_accepted_trait_csv = os.path.join(logan_trait_parsing_output_path, "logan_accepted_traits.csv")
 ACCEPTED_NAME_COLUMN = "Accepted_Name"
 class Family:

@@ -144,6 +144,10 @@ def main():
     if len(problem_df.index) > 0:
         print(problem_df)
         raise ValueError
+
+    # Add source info
+    out_df['Source'] = 'Manual'
+
     out_df.to_csv(logan_encoded_traits_csv)
 
 
