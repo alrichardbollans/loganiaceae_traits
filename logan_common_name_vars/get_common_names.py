@@ -6,7 +6,7 @@ from urllib.error import HTTPError
 
 import pandas as pd
 from automatchnames import get_accepted_info_from_names_in_column, clean_urn_ids, get_accepted_info_from_ids_in_column
-from cleaning import compile_hits, generic_prepare_data, get_tempout_csv
+from cleaning import compile_hits, generic_prepare_data, get_tempout_csv, output_summary_of_hit_csv, single_source_col
 from common_name_vars import wiersema_temp_output_accepted
 from pkg_resources import resource_filename
 from poison_vars import cornell_poison_file, CPCS_poison_file, UCANR_toxic_file, UCANR_nontoxic_file, tppt_toxic_file
@@ -30,7 +30,8 @@ _wiki_common_names_temp_output_csv = os.path.join(_temp_outputs_path, 'wiki_comm
 _powo_common_names_temp_output_csv = os.path.join(_temp_outputs_path, 'powo_common_name_hits.csv')
 
 # Standardised versions
-_spp_ppa_common_names_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'spp_ppa_common_names_accepted.csv')
+_spp_common_names_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'spp_common_names_accepted.csv')
+_ppa_common_names_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'ppa_common_names_accepted.csv')
 _wiki_common_names_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'wiki_common_name_hits_accepted.csv')
 _powo_common_names_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'powo_common_name_hits_accepted.csv')
 _cleaned_USDA_accepted_csv = os.path.join(_temp_outputs_path, 'USDA Plants Database_cleaned_accepted.csv')
@@ -59,27 +60,27 @@ def prepare_usda_common_names(families_of_interest=None):
     return accepted_usda_df
 
 
-def prepare_common_names_spp_ppa() -> pd.DataFrame:
+def prepare_common_names_spp_ppa():
     species_profile = pd.read_csv(_species_profile_csv, sep='\t', header=None)
 
-    species_profile['Source'] = 'SpeciesProfileVernacular'
+    species_profile[single_source_col] = 'SpeciesProfileVernacular'
     species_profile['SPP_Snippet'] = species_profile[1] + ":" + species_profile[2]
     species_profile['ID'] = species_profile[0].apply(clean_urn_ids)
     species_profile.drop(columns=[0, 1, 2, 3], inplace=True)
+    spp = get_accepted_info_from_ids_in_column(species_profile, 'ID')
+    spp.to_csv(_spp_common_names_temp_output_accepted_csv)
 
     ppa_africa = pd.read_csv(_ppa_africa_csv, sep='\t', header=None)
-    ppa_africa['Source'] = 'PPAfrica-botswana-commonnames'
+    ppa_africa[single_source_col] = 'PPAfrica-botswana-commonnames'
     ppa_africa['PPA_Snippet'] = ppa_africa[3] + ":" + ppa_africa[2]
     ppa_africa['ID'] = ppa_africa[0].apply(clean_urn_ids)
     ppa_africa.drop(columns=[0, 1, 2, 3, 4], inplace=True)
 
-    merged = pd.merge(ppa_africa, species_profile, on="ID", how="outer")
+    ppa = get_accepted_info_from_ids_in_column(ppa_africa, 'ID')
 
-    with_accepted_info = get_accepted_info_from_ids_in_column(merged, 'ID')
+    ppa.to_csv(_ppa_common_names_temp_output_accepted_csv)
 
-    with_accepted_info.to_csv(_spp_ppa_common_names_temp_output_accepted_csv)
-
-    return with_accepted_info
+    return spp, ppa
 
 
 def prepare_MPNS_common_names(families_of_interest: List[str] = None) -> pd.DataFrame:
@@ -279,16 +280,21 @@ def main():
     wiersema_hits = pd.read_csv(wiersema_temp_output_accepted, index_col=0)
 
     usda_hits = pd.read_csv(_cleaned_USDA_accepted_csv)
-    spp_ppa_df = pd.read_csv(_spp_ppa_common_names_temp_output_accepted_csv)
+    spp_df = pd.read_csv(_spp_common_names_temp_output_accepted_csv)
+    ppa_df = pd.read_csv(_ppa_common_names_temp_output_accepted_csv)
     powo_hits = pd.read_csv(_powo_common_names_temp_output_accepted_csv)
     wiki_hits = pd.read_csv(_wiki_common_names_temp_output_accepted_csv)
     mpns_hits = pd.read_csv(_cleaned_MPNS_accepted_csv)
 
-    all_dfs = [mpns_hits, usda_hits, powo_hits, wiki_hits, spp_ppa_df, cornell_hits, cpcs_hits, cpcs_toxic_hits,
+    all_dfs = [mpns_hits, usda_hits, powo_hits, wiki_hits, spp_df, ppa_df, cornell_hits, cpcs_hits, cpcs_toxic_hits,
                ucantoxic_hits, ucannontoxic_hits, duke_hits, tppt_hits, wiersema_hits]
     # Some dfs are empty and don't have accepted info as a result
     dfs_to_use = [df for df in all_dfs if (len(df.index) > 0)]
     compile_hits(dfs_to_use, output_logan_common_names_csv)
+
+    output_summary_of_hit_csv(
+        output_logan_common_names_csv,
+        os.path.join(_output_path, 'source_summaries', 'commonname_source_summary'))
 
 
 if __name__ == '__main__':

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from pkg_resources import resource_filename
 
-from cleaning import compile_hits
+from cleaning import compile_hits, output_summary_of_hit_csv
 from automatchnames import get_accepted_info_from_names_in_column
 from powo_searches import search_powo
 
@@ -54,7 +54,8 @@ def prepare_MPNS_hits(families_of_interest=None) -> pd.DataFrame:
     accepted_mpns_df = get_accepted_info_from_names_in_column(mpns_df, 'taxon_name')
 
     accepted_mpns_df = accepted_mpns_df.dropna(subset=['Accepted_Name'])
-    accepted_mpns_df['Source'] = 'MPNS (' + accepted_mpns_df['taxon_name'].astype(str) + ')'
+    accepted_mpns_df['Source'] = 'MPNS'
+    accepted_mpns_df['MPNS_snippet'] = accepted_mpns_df['taxon_name'].astype(str)
 
     accepted_mpns_df.to_csv(_cleaned_MPNS_accepted_csv)
 
@@ -102,12 +103,16 @@ def main():
         os.mkdir(_output_path)
 
     prepare_data()
+
     manual_antimal_hits = pd.read_csv(_manual_hit_antimal_temp_output)
     powo_medicinal_hits = pd.read_csv(_powo_search_medicinal_temp_output_accepted_csv)
     mpns_medicinal_hits = pd.read_csv(_cleaned_MPNS_accepted_csv)
 
     compile_hits([powo_medicinal_hits, mpns_medicinal_hits,manual_antimal_hits], output_logan_medicinal_csv)
 
+    output_summary_of_hit_csv(
+        output_logan_medicinal_csv,
+        os.path.join(_output_path, 'source_summaries', 'medicinal_source_summary'))
 
     try:
         powo_antimalarial_hits = pd.read_csv(_powo_search_malarial_temp_output_accepted_csv)
@@ -115,6 +120,10 @@ def main():
 
     except FileNotFoundError:
         compile_hits([manual_antimal_hits], output_logan_malarial_csv)
+
+    output_summary_of_hit_csv(
+        output_logan_malarial_csv,
+        os.path.join(_output_path, 'source_summaries', 'malarial_source_summary'))
 
 
 if __name__ == '__main__':
