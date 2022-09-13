@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from automatchnames import remove_whitespace_at_beginning_and_end, get_accepted_info_from_names_in_column
+
 from pkg_resources import resource_filename
 from powo_searches import search_powo
 from taxa_lists import get_all_taxa
@@ -8,7 +8,7 @@ from taxa_lists import get_all_taxa
 from metabolite_searches import get_metabolites_for_taxa, output_alkaloids_from_metabolites, get_compound_hits_for_taxa, \
     get_antibac_metabolite_hits_for_taxa, recheck_taxa, output_steroids_from_metabolites, \
     output_cardenolides_from_metabolites
-from cleaning import compile_hits
+from cleaning import compile_hits, output_summary_of_hit_csv, compiled_sources_col
 
 # from logan_manually_collected_data import logan_steroid_hits_manual_output_csv, \
 #     logan_cardenolide_hits_manual_output_csv, logan_alk_hits_manual_output_csv
@@ -80,6 +80,10 @@ def get_logan_alkaloid_hits():
     except FileNotFoundError:
         compile_hits([manual_alk_hits, knapsack_alk_hits], logan_alkaloid_hits_output_csv)
 
+    output_summary_of_hit_csv(
+        logan_alkaloid_hits_output_csv,
+        os.path.join(_output_path, 'source_summaries', 'alkaloid_source_summary'))
+
 
 def get_logan_knapsack_steroid_hits():
     metabolites_to_check = pd.read_csv(logan_metabolites_output_csv).columns.tolist()
@@ -125,6 +129,10 @@ def get_steroid_card_hits():
 
     compile_hits([manual_steroid_hits, knapsack_steroid_hits], logan_steroid_hits_output_csv)
 
+    output_summary_of_hit_csv(
+        logan_steroid_hits_output_csv,
+        os.path.join(_output_path, 'source_summaries', 'steroid_source_summary'))
+
     # Card data is empty, so check and output blank csv
     manual_cardenolide_hits = pd.read_csv(logan_cardenolide_hits_manual_output_csv)
     knapsack_cardenolide_hits = pd.read_csv(_logan_cardenolide_hits_knapsack_output_csv)
@@ -135,15 +143,20 @@ def get_steroid_card_hits():
             dfs_to_use.append(df)
     if len(dfs_to_use) > 0:
         compile_hits(dfs_to_use, logan_cardenolide_hits_output_csv)
+
     else:
         out_df = pd.DataFrame(columns=['Accepted_ID', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID',
-                                       'Accepted_Rank', 'Sources'])
+                                       'Accepted_Rank', compiled_sources_col])
         out_df.to_csv(logan_cardenolide_hits_output_csv)
+
+    output_summary_of_hit_csv(
+        logan_cardenolide_hits_output_csv,
+        os.path.join(_output_path, 'source_summaries', 'cardenolide_source_summary'))
 
 
 def main():
     get_logan_metabolites()
-    # summarise_metabolites()
+    summarise_metabolites()
     get_logan_antibac_metabolite_hits()
     get_logan_alkaloid_hits()
     #
