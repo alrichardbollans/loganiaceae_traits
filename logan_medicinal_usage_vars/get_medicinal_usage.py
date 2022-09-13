@@ -110,10 +110,6 @@ def main():
 
     compile_hits([powo_medicinal_hits, mpns_medicinal_hits,manual_antimal_hits], output_logan_medicinal_csv)
 
-    output_summary_of_hit_csv(
-        output_logan_medicinal_csv,
-        os.path.join(_output_path, 'source_summaries', 'medicinal_source_summary'))
-
     try:
         powo_antimalarial_hits = pd.read_csv(_powo_search_malarial_temp_output_accepted_csv)
         compile_hits([powo_antimalarial_hits, manual_antimal_hits], output_logan_malarial_csv)
@@ -121,10 +117,20 @@ def main():
     except FileNotFoundError:
         compile_hits([manual_antimal_hits], output_logan_malarial_csv)
 
+    output_source_summaries()
+
+def output_source_summaries():
+    output_summary_of_hit_csv(
+        output_logan_medicinal_csv,
+        os.path.join(_output_path, 'source_summaries', 'medicinal_source_summary'),
+        families=['Loganiaceae'],
+        source_translations={'POWO': 'POWO pages'})
+
     output_summary_of_hit_csv(
         output_logan_malarial_csv,
-        os.path.join(_output_path, 'source_summaries', 'malarial_source_summary'))
-
+        os.path.join(_output_path, 'source_summaries', 'malarial_source_summary'),
+        families=['Loganiaceae'],
+        source_translations={'POWO': 'POWO pages'})
 
 if __name__ == '__main__':
     main()

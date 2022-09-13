@@ -262,6 +262,13 @@ def prepare_data():
     prepare_TPPT_data(families_of_interest=families_of_interest)
 
 
+def output_source_summaries():
+    output_summary_of_hit_csv(
+        output_logan_common_names_csv,
+        os.path.join(_output_path, 'source_summaries', 'commonname_source_summary'),
+        families=['Loganiaceae'], source_translations={'Wiki': 'Wiki (', 'POWO': 'POWO pages'})
+
+
 def main():
     if not os.path.isdir(_temp_outputs_path):
         os.mkdir(_temp_outputs_path)
@@ -292,10 +299,8 @@ def main():
     dfs_to_use = [df for df in all_dfs if (len(df.index) > 0)]
     compile_hits(dfs_to_use, output_logan_common_names_csv)
 
-    output_summary_of_hit_csv(
-        output_logan_common_names_csv,
-        os.path.join(_output_path, 'source_summaries', 'commonname_source_summary'))
+    output_source_summaries()
 
 
 if __name__ == '__main__':
-    main()
+    output_source_summaries()

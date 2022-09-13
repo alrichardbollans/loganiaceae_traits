@@ -80,10 +80,6 @@ def get_logan_alkaloid_hits():
     except FileNotFoundError:
         compile_hits([manual_alk_hits, knapsack_alk_hits], logan_alkaloid_hits_output_csv)
 
-    output_summary_of_hit_csv(
-        logan_alkaloid_hits_output_csv,
-        os.path.join(_output_path, 'source_summaries', 'alkaloid_source_summary'))
-
 
 def get_logan_knapsack_steroid_hits():
     metabolites_to_check = pd.read_csv(logan_metabolites_output_csv).columns.tolist()
@@ -129,9 +125,6 @@ def get_steroid_card_hits():
 
     compile_hits([manual_steroid_hits, knapsack_steroid_hits], logan_steroid_hits_output_csv)
 
-    output_summary_of_hit_csv(
-        logan_steroid_hits_output_csv,
-        os.path.join(_output_path, 'source_summaries', 'steroid_source_summary'))
 
     # Card data is empty, so check and output blank csv
     manual_cardenolide_hits = pd.read_csv(logan_cardenolide_hits_manual_output_csv)
@@ -149,10 +142,23 @@ def get_steroid_card_hits():
                                        'Accepted_Rank', compiled_sources_col])
         out_df.to_csv(logan_cardenolide_hits_output_csv)
 
+
+def output_source_summaries():
+    output_summary_of_hit_csv(
+        logan_steroid_hits_output_csv,
+        os.path.join(_output_path, 'source_summaries', 'steroid_source_summary'),
+        families=['Loganiaceae'])
+
     output_summary_of_hit_csv(
         logan_cardenolide_hits_output_csv,
-        os.path.join(_output_path, 'source_summaries', 'cardenolide_source_summary'))
+        os.path.join(_output_path, 'source_summaries', 'cardenolide_source_summary'),
+        families=['Loganiaceae'])
 
+    output_summary_of_hit_csv(
+        logan_alkaloid_hits_output_csv,
+        os.path.join(_output_path, 'source_summaries', 'alkaloid_source_summary'),
+        families=['Loganiaceae'],
+        source_translations={'POWO': 'POWO pages'})
 
 def main():
     get_logan_metabolites()
@@ -161,6 +167,7 @@ def main():
     get_logan_alkaloid_hits()
     #
     get_steroid_card_hits()
+    output_source_summaries()
 
 
 if __name__ == '__main__':
