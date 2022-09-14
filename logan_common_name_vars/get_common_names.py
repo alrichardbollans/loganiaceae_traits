@@ -266,7 +266,7 @@ def output_source_summaries():
     output_summary_of_hit_csv(
         output_logan_common_names_csv,
         os.path.join(_output_path, 'source_summaries', 'commonname_source_summary'),
-        families=['Loganiaceae'], source_translations={'Wiki': 'Wiki (', 'POWO': 'POWO pages'})
+        families=['Loganiaceae'], source_translations={'Wiki': 'Wiki (', 'POWO': 'POWO pages'}, ranks=['Species'])
 
 
 def main():
@@ -303,4 +303,4 @@ def main():
 
 
 if __name__ == '__main__':
-    output_source_summaries()
+    main()

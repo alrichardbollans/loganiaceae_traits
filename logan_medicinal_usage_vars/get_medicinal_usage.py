@@ -124,13 +124,13 @@ def output_source_summaries():
         output_logan_medicinal_csv,
         os.path.join(_output_path, 'source_summaries', 'medicinal_source_summary'),
         families=['Loganiaceae'],
-        source_translations={'POWO': 'POWO pages'})
+        source_translations={'POWO': 'POWO pages'}, ranks=['Species'])
 
     output_summary_of_hit_csv(
         output_logan_malarial_csv,
         os.path.join(_output_path, 'source_summaries', 'malarial_source_summary'),
         families=['Loganiaceae'],
-        source_translations={'POWO': 'POWO pages'})
+        source_translations={'POWO': 'POWO pages'}, ranks=['Species'])
 
 if __name__ == '__main__':
     main()
