@@ -21,6 +21,7 @@ _cleaned_MPNS_accepted_csv = os.path.join(_temp_outputs_path, 'MPNS Data_accepte
 
 _powo_search_malarial_temp_output_accepted_csv = os.path.join(_temp_outputs_path, 'powo_malarial_accepted.csv')
 _manual_hit_antimal_temp_output = os.path.join(_temp_outputs_path, '_manual_hit_antimal_temp_output.csv')
+_manual_hit_fever_temp_output = os.path.join(_temp_outputs_path, '_manual_hit_fever_temp_output.csv')
 
 ### Outputs
 _output_path = resource_filename(__name__, 'outputs')
@@ -77,13 +78,21 @@ def get_powo_antimalarial_usage():
 
 def get_manual_hits():
     trait_table = pd.read_csv(logan_encoded_traits_csv)
-    antimal_hits = trait_table[trait_table['History_Antimalarial'] == 1]
+    antimal_hits = trait_table[trait_table['Antimalarial_Use'] == 1]
     antimal_hits = antimal_hits[[
-        'History_Antimalarial', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID', 'Accepted_ID',
+        'Antimalarial_Use', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID', 'Accepted_ID',
         'Accepted_Rank',
         'Family']]
     antimal_hits['Source'] = 'Manual'
     antimal_hits.to_csv(_manual_hit_antimal_temp_output)
+
+    fever_hits = trait_table[trait_table['History_Fever'] == 1]
+    fever_hits = fever_hits[[
+        'History_Fever', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID', 'Accepted_ID',
+        'Accepted_Rank',
+        'Family']]
+    fever_hits['Source'] = 'Manual'
+    fever_hits.to_csv(_manual_hit_fever_temp_output)
 
 
 def prepare_data():
@@ -105,10 +114,12 @@ def main():
     prepare_data()
 
     manual_antimal_hits = pd.read_csv(_manual_hit_antimal_temp_output)
+    manual_fever_hits = pd.read_csv(_manual_hit_fever_temp_output)
     powo_medicinal_hits = pd.read_csv(_powo_search_medicinal_temp_output_accepted_csv)
     mpns_medicinal_hits = pd.read_csv(_cleaned_MPNS_accepted_csv)
 
-    compile_hits([powo_medicinal_hits, mpns_medicinal_hits,manual_antimal_hits], output_logan_medicinal_csv)
+    compile_hits([powo_medicinal_hits, mpns_medicinal_hits, manual_antimal_hits, manual_fever_hits],
+                 output_logan_medicinal_csv)
 
     try:
         powo_antimalarial_hits = pd.read_csv(_powo_search_malarial_temp_output_accepted_csv)
@@ -118,6 +129,7 @@ def main():
         compile_hits([manual_antimal_hits], output_logan_malarial_csv)
 
     output_source_summaries()
+
 
 def output_source_summaries():
     output_summary_of_hit_csv(
@@ -131,6 +143,7 @@ def output_source_summaries():
         os.path.join(_output_path, 'source_summaries', 'malarial_source_summary'),
         families=['Loganiaceae'],
         source_translations={'POWO': 'POWO pages'}, ranks=['Species'])
+
 
 if __name__ == '__main__':
     main()
