@@ -7,7 +7,9 @@ from logan_manually_collected_data import logan_trait_parsing_output_path, logan
 
 logan_parsed_alkaloid_classes_csv = os.path.join(logan_trait_parsing_output_path, 'parsed_alkaloid_classes.csv')
 
-_alk_class_column = 'Alkaloid_mainclass'
+_alk_class_columns = ['Alkaloid_mainclass', 'Alkaloid_otherclasses']
+_alk_class_column = 'Alkaloid_classes'
+
 
 def remove_whitespace_at_beginning_and_end(value: str):
     try:
@@ -49,6 +51,8 @@ def OHE_alks(df: pd.DataFrame) -> pd.DataFrame:
 
             return out_list
 
+    df[_alk_class_column] = df[_alk_class_columns].apply(lambda x: ';'.join(x), axis=1)
+
     df[_alk_class_column] = df[_alk_class_column].apply(convert_alks_to_lists)
 
     multilabels = df[_alk_class_column].str.join('|').str.get_dummies()
@@ -61,7 +65,7 @@ def OHE_alks(df: pd.DataFrame) -> pd.DataFrame:
 def parse_alkaloid_data():
     trait_df = pd.read_csv(logan_encoded_traits_csv, index_col=0)
 
-    input_alks = trait_df.dropna(subset=[_alk_class_column])
+    input_alks = trait_df.dropna(subset=_alk_class_columns)
 
     # OHE
     encoded = OHE_alks(input_alks)
