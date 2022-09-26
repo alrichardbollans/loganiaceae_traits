@@ -5,7 +5,7 @@ library(dplyr)
 configs = rjson::fromJSON(file = '../../apocynaceae_rubiaceae_traits/large_file_storage/my_directories.json')
 source(here::here('helper_functions.R'))
 
-occ_df = read.csv(file.path(configs$plant_occurences,'outputs','logan_final_cleaned_occurrences.csv'))
+occ_df = read.csv(file.path(configs$plant_occurrences_linux,'outputs','logan_final_cleaned_occurrences.csv'))
 
 
 read_rasters <- function(){
@@ -49,4 +49,4 @@ for (r in prepared_rasters){
 names(occ_df)[names(occ_df)=="decimalLatitude"] <- "latitude"
 names(occ_df)[names(occ_df)=="decimalLongitude"] <- "longitude"
 
-write.csv(occ_df, paste(configs$large_folders,'occ_climate_vars/logan_occ_with_climate_vars.csv',sep='/'))
+write.csv(occ_df, paste(configs$large_folders_linux,'occ_climate_vars/logan_occ_with_climate_vars.csv',sep='/'))

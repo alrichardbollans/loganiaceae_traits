@@ -3,15 +3,11 @@ import os
 import unittest
 
 import pandas as pd
-from automatchnames import get_accepted_info_from_names_in_column
-from clean_plant_occurrences import read_occurences_and_output_acc_names, \
-    find_whether_occurrences_in_native_or_introduced_regions, get_tdwg_regions_for_occurrences
+from large_file_storage import plant_occurences
 from pkg_resources import resource_filename
 from tqdm import tqdm
 
-from cleaning_logan_plant_occurrences import logan_final_occurrence_output_csv, clean_occurrences_by_tdwg_regions
-from large_file_storage import plant_occurences
-from logan_wcsp_distributions import logan_distributions_csv
+from cleaning_logan_plant_occurrences import logan_final_occurrence_output_csv
 
 input_test_dir = resource_filename(__name__, 'test_inputs')
 test_output_dir = resource_filename(__name__, 'test_outputs')
@@ -112,6 +108,26 @@ class MyTestCase(unittest.TestCase):
     def test_more_with_introduced(self):
         self.assertGreaterEqual(_final_cleaned_output_df.shape[0], _native_cleaned_output_df.shape[0])
 
+    def test_no_duplicates(self):
+        def test_columns(cols):
+
+            duplicates = _final_cleaned_output_df[_final_cleaned_output_df.duplicated(subset=cols)]
+
+            if len(duplicates) > 0:
+                duplicates.head(1000).to_csv(os.path.join(test_output_dir, 'dupsall.csv'))
+            self.assertEqual(len(duplicates), 0)
+            duplicates = _native_cleaned_output_df[_native_cleaned_output_df.duplicated(subset=cols)]
+
+            if len(duplicates) > 0:
+                duplicates.head(1000).to_csv(os.path.join(test_output_dir, 'dupsnative.csv'))
+            self.assertEqual(len(duplicates), 0)
+
+        test_columns(['gbifID'])
+
+        # Autocorrelation
+        test_columns(['Accepted_Name', 'decimalLongitude', 'decimalLatitude'])
+        # Species autocorrelation
+        # test_columns(['Accepted_Species', 'decimalLongitude', 'decimalLatitude'])
 
 if __name__ == '__main__':
     unittest.main()
