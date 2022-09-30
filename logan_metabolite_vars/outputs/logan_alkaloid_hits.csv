@@ -81,10 +81,10 @@
 79,247358-2,Strychnos tabascana,Strychnos tabascana,247358-2,Species,,['Manual']
 80,547504-1,Strychnos tchibangensis,Strychnos tchibangensis,547504-1,Species,,['Manual']
 81,547525-1,Strychnos toxifera,Strychnos toxifera,547525-1,Species,"""['Caracurine V', 'Macusine B', 'Mavacurine', 'Calebassine', 'Toxiferine I', '10-O-Methylsarpagine', 'iso-Caracurine V']""","['Manual', 'KNApSAcK']"
-82,77221793-1,Strychnos trinervis,Strychnos trinervis,77221793-1,Species,,['Manual']
+82,77221793-1,Strychnos trinervis,Strychnos trinervis,77221793-1,Species,"""['Strychnine']""","['Manual', 'KNApSAcK']"
 83,547538-1,Strychnos umbellata,Strychnos umbellata,547538-1,Species,,['Manual']
 84,547543-1,Strychnos usambarensis,Strychnos usambarensis,547543-1,Species,"""['Usambarensine', 'Usambarine', 'Chrysopentamine', 'Strychnofoline', 'Tetradehydrolongicaudatine Y', ""10'-Hydroxyusambarensine"", 'Isostrychnopentamine', 'Strychnopentamine']""","['Manual', 'KNApSAcK']"
 85,547548-1,Strychnos vanprukii,Strychnos vanprukii,547548-1,Species,"""['Akagerine']""","['Manual', 'KNApSAcK']"
 86,547549-1,Strychnos variabilis,Strychnos variabilis,547549-1,Species,,['Manual']
-87,547566-1,Strychnos wallichiana,Strychnos wallichiana,547566-1,Species,"""['Brucine N-oxide', 'Pseudobrucine', '4-Hydroxystrychnine']""","['Manual', 'KNApSAcK']"
+87,547566-1,Strychnos wallichiana,Strychnos wallichiana,547566-1,Species,"""['Strychnine', 'Brucine N-oxide', 'Pseudobrucine', '4-Hydroxystrychnine']""","['Manual', 'KNApSAcK']"
 88,547569-1,Strychnos xantha,Strychnos xantha,547569-1,Species,,['Manual']

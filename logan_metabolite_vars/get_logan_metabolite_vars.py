@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from automatchnames import COL_NAMES
 
 from pkg_resources import resource_filename
 from powo_searches import search_powo
@@ -10,8 +11,6 @@ from metabolite_searches import get_metabolites_for_taxa, output_alkaloids_from_
     output_cardenolides_from_metabolites, get_antimalarial_metabolite_hits_for_taxa
 from cleaning import compile_hits, output_summary_of_hit_csv, compiled_sources_col
 
-# from logan_manually_collected_data import logan_steroid_hits_manual_output_csv, \
-#     logan_cardenolide_hits_manual_output_csv, logan_alk_hits_manual_output_csv
 from logan_manually_collected_data import logan_alk_hits_manual_output_csv, logan_steroid_hits_manual_output_csv, \
     logan_cardenolide_hits_manual_output_csv
 
@@ -24,6 +23,8 @@ _powo_search_alks_temp_output_accepted_csv = os.path.join(_temp_output_path, 'po
 _output_path = resource_filename(__name__, 'outputs')
 
 logan_metabolites_output_csv = os.path.join(_output_path, 'logan_metabolites.csv')
+logan_accepted_metabolites_output_csv = os.path.join(_output_path, 'logan_accepted_metabolites.csv')
+logan_unaccepted_metabolites_output_csv = os.path.join(_output_path, 'logan_unaccepted_metabolites.csv')
 _logan_alks_output_csv = os.path.join(_output_path, 'logan_alkaloids.csv')
 _logan_steroid_output_csv = os.path.join(_output_path, 'logan_steroids.csv')
 _logan_cardenolide_output_csv = os.path.join(_output_path, 'logan_cardenolides.csv')
@@ -40,15 +41,46 @@ logan_families_of_int = ['Loganiaceae']
 
 
 def get_logan_metabolites():
-    data = get_all_taxa(families_of_interest=logan_families_of_int, accepted=True)
+    wcvp_data = get_all_taxa(families_of_interest=logan_families_of_int, ranks=["Species", "Variety", "Subspecies"])
+    accepted_data = wcvp_data[wcvp_data['taxonomic_status'] == 'Accepted']
+    unaccepted_data = wcvp_data[wcvp_data['taxonomic_status'] != 'Accepted']
 
-    ranks_to_use = ["Species", "Variety", "Subspecies"]
+    accepted_metabolites_df = get_metabolites_for_taxa(unaccepted_data["taxon_name"].values,
+                                                       output_csv=logan_unaccepted_metabolites_output_csv)
+    unaccepted_metabolites_df = get_metabolites_for_taxa(accepted_data["taxon_name"].values,
+                                                         output_csv=logan_accepted_metabolites_output_csv)
 
-    taxa = data.loc[data["rank"].isin(ranks_to_use)]
+    # accepted_metabolites_df = pd.read_csv(logan_accepted_metabolites_output_csv, index_col=0)
+    # unaccepted_metabolites_df = pd.read_csv(logan_unaccepted_metabolites_output_csv, index_col=0)
+    # Add new columns
+    out_df = accepted_metabolites_df.copy()
+    lower_cols = [x.lower() for x in out_df.columns]
+    for c in unaccepted_metabolites_df.columns:
+        if c.lower() not in lower_cols:
+            out_df[c] = 0
 
-    taxa_list = taxa["taxon_name"].values
+    for acc_name in unaccepted_metabolites_df['Accepted_Name'].unique():
+        print(acc_name)
+        taxa_df = unaccepted_metabolites_df[unaccepted_metabolites_df['Accepted_Name'] == acc_name]
+        for c in unaccepted_metabolites_df.columns:
 
-    get_metabolites_for_taxa(taxa_list, output_csv=logan_metabolites_output_csv)
+            if c not in ['taxa'] + list(COL_NAMES.values()):
+                x = taxa_df[c].max()
+                if c not in out_df.columns:
+                    # rename c to match out_df
+                    # this is an issue caused by capitals in knapsack data.
+                    # In future best to resolve this by lower casing all strings on import.
+                    c = [x for x in out_df.columns if x.lower() == c.lower()][0]
+
+                if c not in out_df.columns:
+                    print(c)
+                    raise ValueError
+
+                if x == 1:
+                    out_df.loc[out_df['Accepted_Name'] == acc_name, c] = 1
+
+    out_df = out_df.fillna(0)
+    out_df.to_csv(logan_metabolites_output_csv)
 
 
 def get_logan_alkaloid_hits():
@@ -173,7 +205,6 @@ def main():
     get_logan_antibac_metabolite_hits()
     get_logan_antimal_metabolite_hits()
     get_logan_alkaloid_hits()
-    #
     get_steroid_card_hits()
     output_source_summaries()
 
