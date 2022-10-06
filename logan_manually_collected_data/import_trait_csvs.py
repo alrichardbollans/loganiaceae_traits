@@ -19,13 +19,15 @@ if not os.path.isdir(logan_trait_parsing_output_path):
     os.mkdir(logan_trait_parsing_output_path)
 
 NEW_HEADINGS = [
-    "Any_info",
     "Genus",
     "Species",
     "Tested_for_Alkaloids",
     "Ref_Alks",
+    "Alkaloids_test_notes",
     "Alkaloids",
-    "Alkaloid_mainclass",
+    "Alkaloid_classes",
+    "Alkaloid_class_absences",
+    "Alkaloid_mainclass(conal)",
     "Alkaloid_otherclasses",
     "Alkaloid_class_notes",
     "Antimalarial_Use",

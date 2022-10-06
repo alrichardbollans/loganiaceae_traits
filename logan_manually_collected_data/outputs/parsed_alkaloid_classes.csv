@@ -1,84 +1,85 @@
-,Accepted_Name,Genus,Accepted_ID,alk_beta-carboline,alk_bisindole,alk_glucoindole,alk_glucoindoles (mias),alk_glycosidated mia,alk_glycosides,alk_indole,alk_indolizidine,alk_mia,alk_mia glycoside,alk_monoterpenoid,alk_oxindole,alk_peptide,alk_piperidine,alk_pyridine,alk_pyrrole,alk_pyrrolidine,alk_quarternary,alk_quinoline,alk_quinolizidine,alk_trisindole,alk_zwitterionic
-1,Antonia ovata,Antonia,545655-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-14,Gardneria multiflora,Gardneria,546341-1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-15,Gardneria nutans,Gardneria,546343-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,Gardneria ovata,Gardneria,546344-1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-205,Spigelia anthelmia,Spigelia,318920-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-291,Strychnos aculeata,Strychnos,547024-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-294,Strychnos afzelii,Strychnos,547031-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-296,Strychnos amazonica,Strychnos,247278-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-298,Strychnos angolensis,Strychnos,547038-1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
-299,Strychnos angustiflora,Strychnos,547039-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-306,Strychnos barnhartiana,Strychnos,247283-2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,Strychnos borneensis,Strychnos,547074-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-313,Strychnos brachiata,Strychnos,547077-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-315,Strychnos brasiliensis,Strychnos,547081-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-320,Strychnos castelnaeana,Strychnos,547100-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-321,Strychnos cathayensis,Strychnos,547102-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-324,Strychnos chlorantha,Strychnos,547109-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-326,Strychnos chrysophylla,Strychnos,547114-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-337,Strychnos dale,Strychnos,547149-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-342,Strychnos decussata,Strychnos,50426037-2,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-344,Strychnos diaboli,Strychnos,247300-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-346,Strychnos dinklagei,Strychnos,547161-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-347,Strychnos diplotricha,Strychnos,547162-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-348,Strychnos divaricans,Strychnos,247301-2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-352,Strychnos elaeocarpa,Strychnos,547178-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-353,Strychnos erichsonii,Strychnos,547183-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-356,Strychnos fendleri,Strychnos,247306-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-358,Strychnos floribunda,Strychnos,547195-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-359,Strychnos froesii,Strychnos,247307-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-366,Strychnos gossweileri,Strychnos,547213-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
-369,Strychnos guianensis,Strychnos,547220-1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
-370,Strychnos henningsii,Strychnos,547225-1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-372,Strychnos icaja,Strychnos,547240-1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
-373,Strychnos ignatii,Strychnos,547242-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-377,Strychnos jobertiana,Strychnos,547247-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-378,Strychnos johnsonii,Strychnos,547248-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-379,Strychnos kasengaensis,Strychnos,547252-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-382,Strychnos ledermannii,Strychnos,547271-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-385,Strychnos longicaudata,Strychnos,60452498-2,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-386,Strychnos lucens,Strychnos,547293-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-387,Strychnos lucida,Strychnos,547295-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-391,Strychnos malacoclados,Strychnos,547303-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-394,Strychnos matopensis,Strychnos,547312-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-395,Strychnos mattogrossensis,Strychnos,247325-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-399,Strychnos melinoniana,Strychnos,547320-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-400,Strychnos mellodora,Strychnos,547322-1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,Strychnos minor,Strychnos,547339-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-406,Strychnos mitscherlichii,Strychnos,547341-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,Strychnos moandaensis,Strychnos,547342-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-408,Strychnos mostueoides,Strychnos,547349-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-410,Strychnos myrtoides,Strychnos,547356-1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-415,Strychnos ngouniensis,Strychnos,547361-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
-419,Strychnos nitida,Strychnos,547367-1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-420,Strychnos nux-blanda,Strychnos,547370-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-421,Strychnos nux-vomica,Strychnos,547371-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-422,Strychnos odorata,Strychnos,547375-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-425,Strychnos ovata,Strychnos,547385-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-427,Strychnos panamensis,Strychnos,547390-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-428,Strychnos panganensis,Strychnos,547392-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-430,Strychnos parvifolia,Strychnos,547399-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-438,Strychnos potatorum,Strychnos,547420-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-440,Strychnos pseudoquina,Strychnos,547425-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-441,Strychnos psilosperma,Strychnos,547427-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-445,Strychnos pungens,Strychnos,547430-1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
-452,Strychnos rubiginosa,Strychnos,547455-1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-455,Strychnos samba,Strychnos,547459-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-457,Strychnos scheffleri,Strychnos,547464-1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-461,Strychnos solerederi,Strychnos,247355-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-464,Strychnos soubrensis,Strychnos,547483-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-465,Strychnos spinosa,Strychnos,547485-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-466,Strychnos splendens,Strychnos,547487-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-467,Strychnos staudtii,Strychnos,547488-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-468,Strychnos subcordata,Strychnos,547493-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-469,Strychnos tabascana,Strychnos,247358-2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-472,Strychnos tchibangensis,Strychnos,547504-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-478,Strychnos toxifera,Strychnos,547525-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-482,Strychnos trinervis,Strychnos,77221793-1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-484,Strychnos umbellata,Strychnos,547538-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-486,Strychnos usambarensis,Strychnos,547543-1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-487,Strychnos vanprukii,Strychnos,547548-1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-488,Strychnos variabilis,Strychnos,547549-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-491,Strychnos wallichiana,Strychnos,547566-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-492,Strychnos xantha,Strychnos,547569-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+,Genus,Accepted_Name,Accepted_ID,Accepted_Species,Accepted_Species_ID,Accepted_Rank,alk_indole,alk_indolizidine,alk_mia,alk_monoterpene,alk_peptide,alk_piperidine,alk_pyridine,alk_pyrrole,alk_pyrrolidine,alk_quinoline,alk_quinolizidine
+1,Antonia,Antonia ovata,545655-1,Antonia ovata,545655-1,Species,0,0,0,0,0,0,1,0,0,0,0
+14,Gardneria,Gardneria multiflora,546341-1,Gardneria multiflora,546341-1,Species,1,0,1,1,0,0,0,0,0,0,0
+15,Gardneria,Gardneria nutans,546343-1,Gardneria nutans,546343-1,Species,1,0,1,1,0,0,0,0,0,0,0
+16,Gardneria,Gardneria ovata,546344-1,Gardneria ovata,546344-1,Species,1,0,1,1,0,0,0,0,0,0,0
+205,Spigelia,Spigelia anthelmia,318920-2,Spigelia anthelmia,318920-2,Species,0,0,0,0,0,0,0,1,0,0,0
+291,Strychnos,Strychnos aculeata,547024-1,Strychnos aculeata,547024-1,Species,1,0,1,1,0,0,0,0,0,0,0
+294,Strychnos,Strychnos afzelii,547031-1,Strychnos afzelii,547031-1,Species,1,0,1,1,0,0,0,0,0,0,0
+296,Strychnos,Strychnos amazonica,247278-2,Strychnos amazonica,247278-2,Species,1,0,1,1,0,0,0,0,0,0,0
+298,Strychnos,Strychnos angolensis,547038-1,Strychnos angolensis,547038-1,Species,1,1,1,1,0,0,1,0,0,0,1
+299,Strychnos,Strychnos angustiflora,547039-1,Strychnos angustiflora,547039-1,Species,1,0,1,1,0,0,1,0,0,0,0
+303,Strychnos,Strychnos atlantica,247281-2,Strychnos atlantica,247281-2,Species,1,0,1,1,0,0,0,0,0,0,0
+306,Strychnos,Strychnos barnhartiana,247283-2,Strychnos barnhartiana,247283-2,Species,1,0,0,0,0,0,0,0,0,0,0
+312,Strychnos,Strychnos borneensis,547074-1,Strychnos borneensis,547074-1,Species,1,0,1,1,0,0,1,0,0,0,0
+313,Strychnos,Strychnos brachiata,547077-1,Strychnos brachiata,547077-1,Species,1,0,1,1,0,0,0,0,0,0,0
+315,Strychnos,Strychnos brasiliensis,547081-1,Strychnos brasiliensis,547081-1,Species,1,0,1,1,0,0,0,0,0,0,0
+320,Strychnos,Strychnos castelnaeana,547100-1,Strychnos castelnaeana,547100-1,Species,1,0,1,1,0,0,0,0,0,0,0
+321,Strychnos,Strychnos cathayensis,547102-1,Strychnos cathayensis,547102-1,Species,1,0,1,1,0,0,0,0,0,0,0
+324,Strychnos,Strychnos chlorantha,547109-1,Strychnos chlorantha,547109-1,Species,1,0,1,1,0,0,0,0,0,0,0
+326,Strychnos,Strychnos chrysophylla,547114-1,Strychnos chrysophylla,547114-1,Species,1,0,0,0,0,0,0,0,0,0,0
+337,Strychnos,Strychnos dale,547149-1,Strychnos dale,547149-1,Species,1,0,1,1,0,0,0,0,0,0,0
+342,Strychnos,Strychnos decussata,50426037-2,Strychnos decussata,50426037-2,Species,1,0,1,1,0,0,0,0,0,0,0
+344,Strychnos,Strychnos diaboli,247300-2,Strychnos diaboli,247300-2,Species,1,0,1,1,0,0,0,0,0,0,0
+346,Strychnos,Strychnos dinklagei,547161-1,Strychnos dinklagei,547161-1,Species,1,0,1,1,0,0,1,0,0,0,0
+347,Strychnos,Strychnos diplotricha,547162-1,Strychnos diplotricha,547162-1,Species,1,0,1,1,0,0,0,0,0,0,0
+348,Strychnos,Strychnos divaricans,247301-2,Strychnos divaricans,247301-2,Species,1,0,1,1,0,0,0,0,0,0,0
+352,Strychnos,Strychnos elaeocarpa,547178-1,Strychnos elaeocarpa,547178-1,Species,1,0,1,1,0,0,0,0,0,0,0
+353,Strychnos,Strychnos erichsonii,547183-1,Strychnos erichsonii,547183-1,Species,1,0,1,1,0,0,0,0,0,0,0
+356,Strychnos,Strychnos fendleri,247306-2,Strychnos fendleri,247306-2,Species,1,0,1,1,0,0,0,0,0,0,0
+358,Strychnos,Strychnos floribunda,547195-1,Strychnos floribunda,547195-1,Species,1,0,1,1,0,0,1,0,0,0,0
+359,Strychnos,Strychnos froesii,247307-2,Strychnos froesii,247307-2,Species,1,0,1,1,0,0,0,0,0,0,0
+366,Strychnos,Strychnos gossweileri,547213-1,Strychnos gossweileri,547213-1,Species,1,0,1,1,0,0,0,0,0,1,1
+369,Strychnos,Strychnos guianensis,547220-1,Strychnos guianensis,547220-1,Species,1,0,1,1,0,0,0,0,0,0,0
+370,Strychnos,Strychnos henningsii,547225-1,Strychnos henningsii,547225-1,Species,1,0,1,1,1,0,0,0,0,0,0
+372,Strychnos,Strychnos icaja,547240-1,Strychnos icaja,547240-1,Species,1,0,1,1,1,0,0,0,0,0,0
+373,Strychnos,Strychnos ignatii,547242-1,Strychnos ignatii,547242-1,Species,1,0,1,1,0,0,0,0,0,0,0
+377,Strychnos,Strychnos jobertiana,547247-1,Strychnos jobertiana,547247-1,Species,1,0,1,1,0,0,0,0,0,0,0
+378,Strychnos,Strychnos johnsonii,547248-1,Strychnos johnsonii,547248-1,Species,1,0,1,1,0,0,0,0,0,0,0
+379,Strychnos,Strychnos kasengaensis,547252-1,Strychnos kasengaensis,547252-1,Species,1,0,1,1,0,0,0,0,0,0,0
+382,Strychnos,Strychnos ledermannii,547271-1,Strychnos ledermannii,547271-1,Species,1,0,1,1,0,0,1,0,0,0,0
+385,Strychnos,Strychnos longicaudata,60452498-2,Strychnos longicaudata,60452498-2,Species,1,1,1,1,0,0,1,0,0,0,0
+386,Strychnos,Strychnos lucens,547293-1,Strychnos lucens,547293-1,Species,1,0,1,1,0,0,0,0,0,0,0
+387,Strychnos,Strychnos lucida,547295-1,Strychnos lucida,547295-1,Species,1,0,1,1,0,0,0,0,0,0,0
+391,Strychnos,Strychnos malacoclados,547303-1,Strychnos malacoclados,547303-1,Species,1,0,1,1,0,0,0,0,0,0,0
+394,Strychnos,Strychnos matopensis,547312-1,Strychnos matopensis,547312-1,Species,1,0,1,1,0,0,0,0,0,0,0
+395,Strychnos,Strychnos mattogrossensis,247325-2,Strychnos mattogrossensis,247325-2,Species,1,0,1,1,0,0,0,0,0,0,0
+399,Strychnos,Strychnos melinoniana,547320-1,Strychnos melinoniana,547320-1,Species,1,0,1,1,0,0,0,0,0,0,0
+400,Strychnos,Strychnos mellodora,547322-1,Strychnos mellodora,547322-1,Species,1,0,1,1,0,0,0,0,0,0,0
+404,Strychnos,Strychnos minor,547339-1,Strychnos minor,547339-1,Species,1,0,1,1,0,0,1,0,0,0,0
+406,Strychnos,Strychnos mitscherlichii,547341-1,Strychnos mitscherlichii,547341-1,Species,1,0,1,1,0,0,0,0,0,0,0
+407,Strychnos,Strychnos moandaensis,547342-1,Strychnos moandaensis,547342-1,Species,1,0,0,0,0,0,0,0,0,0,0
+408,Strychnos,Strychnos mostueoides,547349-1,Strychnos mostueoides,547349-1,Species,1,0,1,1,0,0,0,0,0,0,0
+410,Strychnos,Strychnos myrtoides,547356-1,Strychnos myrtoides,547356-1,Species,1,0,1,1,0,0,0,0,1,0,0
+415,Strychnos,Strychnos ngouniensis,547361-1,Strychnos ngouniensis,547361-1,Species,1,0,1,1,0,0,0,0,0,0,0
+419,Strychnos,Strychnos nitida,547367-1,Strychnos nitida,547367-1,Species,1,0,1,1,0,1,0,0,0,0,0
+420,Strychnos,Strychnos nux-blanda,547370-1,Strychnos nux-blanda,547370-1,Species,0,0,0,0,0,0,0,1,0,0,0
+421,Strychnos,Strychnos nux-vomica,547371-1,Strychnos nux-vomica,547371-1,Species,1,0,1,1,0,0,0,0,0,0,0
+422,Strychnos,Strychnos odorata,547375-1,Strychnos odorata,547375-1,Species,1,0,1,1,0,0,1,0,0,0,0
+425,Strychnos,Strychnos ovata,547385-1,Strychnos ovata,547385-1,Species,1,0,1,1,0,0,1,0,0,0,0
+427,Strychnos,Strychnos panamensis,547390-1,Strychnos panamensis,547390-1,Species,1,0,1,1,0,0,0,0,0,0,0
+428,Strychnos,Strychnos panganensis,547392-1,Strychnos panganensis,547392-1,Species,1,0,1,1,0,0,0,0,0,0,0
+430,Strychnos,Strychnos parvifolia,547399-1,Strychnos parvifolia,547399-1,Species,1,0,1,1,0,0,0,0,0,0,0
+438,Strychnos,Strychnos potatorum,547420-1,Strychnos potatorum,547420-1,Species,1,0,1,1,0,0,0,0,0,0,0
+440,Strychnos,Strychnos pseudoquina,547425-1,Strychnos pseudoquina,547425-1,Species,1,0,1,1,0,0,0,0,0,0,0
+441,Strychnos,Strychnos psilosperma,547427-1,Strychnos psilosperma,547427-1,Species,1,0,1,1,0,0,0,0,0,0,0
+445,Strychnos,Strychnos pungens,547430-1,Strychnos pungens,547430-1,Species,1,0,1,1,0,0,1,0,0,0,1
+452,Strychnos,Strychnos rubiginosa,547455-1,Strychnos rubiginosa,547455-1,Species,1,0,1,1,0,0,0,0,0,0,1
+455,Strychnos,Strychnos samba,547459-1,Strychnos samba,547459-1,Species,1,0,1,1,0,0,1,0,0,0,0
+457,Strychnos,Strychnos scheffleri,547464-1,Strychnos scheffleri,547464-1,Species,1,0,1,1,0,0,0,0,0,0,0
+461,Strychnos,Strychnos solerederi,247355-2,Strychnos solerederi,247355-2,Species,1,0,1,1,0,0,0,0,0,0,0
+464,Strychnos,Strychnos soubrensis,547483-1,Strychnos soubrensis,547483-1,Species,1,0,1,1,0,0,0,0,0,0,0
+465,Strychnos,Strychnos spinosa,547485-1,Strychnos spinosa,547485-1,Species,1,0,1,1,0,0,0,0,0,0,0
+466,Strychnos,Strychnos splendens,547487-1,Strychnos splendens,547487-1,Species,1,0,1,1,0,0,0,0,0,0,0
+467,Strychnos,Strychnos staudtii,547488-1,Strychnos staudtii,547488-1,Species,1,0,1,1,0,0,0,0,0,0,0
+468,Strychnos,Strychnos subcordata,547493-1,Strychnos subcordata,547493-1,Species,1,0,1,1,0,0,0,0,0,0,0
+469,Strychnos,Strychnos tabascana,247358-2,Strychnos tabascana,247358-2,Species,1,0,1,1,0,0,0,0,0,0,0
+472,Strychnos,Strychnos tchibangensis,547504-1,Strychnos tchibangensis,547504-1,Species,1,0,0,0,0,0,0,0,0,0,0
+478,Strychnos,Strychnos toxifera,547525-1,Strychnos toxifera,547525-1,Species,1,0,1,1,0,0,0,0,0,0,0
+482,Strychnos,Strychnos trinervis,77221793-1,Strychnos trinervis,77221793-1,Species,1,0,1,1,0,0,0,0,0,0,0
+484,Strychnos,Strychnos umbellata,547538-1,Strychnos umbellata,547538-1,Species,1,0,1,1,0,0,1,0,0,0,0
+486,Strychnos,Strychnos usambarensis,547543-1,Strychnos usambarensis,547543-1,Species,1,0,1,1,0,0,0,0,1,0,0
+487,Strychnos,Strychnos vanprukii,547548-1,Strychnos vanprukii,547548-1,Species,1,0,1,1,0,0,1,0,0,0,0
+488,Strychnos,Strychnos variabilis,547549-1,Strychnos variabilis,547549-1,Species,1,0,1,1,0,0,0,0,0,0,0
+491,Strychnos,Strychnos wallichiana,547566-1,Strychnos wallichiana,547566-1,Species,1,0,1,1,0,0,0,0,0,0,0
+492,Strychnos,Strychnos xantha,547569-1,Strychnos xantha,547569-1,Species,1,0,1,1,0,0,0,0,0,0,1
