@@ -38,8 +38,8 @@ _cleaned_USDA_accepted_csv = os.path.join(_temp_outputs_path, 'USDA Plants Datab
 _cleaned_MPNS_accepted_csv = os.path.join(_temp_outputs_path, 'MPNS Data_cleaned_accepted.csv')
 
 ### Outputs
-_output_path = resource_filename(__name__, 'outputs')
-output_logan_common_names_csv = os.path.join(_output_path, 'list_of_plants_with_common_names.csv')
+logan_common_name_output_path = resource_filename(__name__, 'outputs')
+output_logan_common_names_csv = os.path.join(logan_common_name_output_path, 'list_of_plants_with_common_names.csv')
 
 
 def prepare_usda_common_names(families_of_interest=None):
@@ -237,17 +237,17 @@ def prepare_TPPT_data(families_of_interest: List[str] = None):
 
 def prepare_data():
     families_of_interest = ['Loganiaceae']
-    accepted_data = get_all_taxa(families_of_interest=families_of_interest, accepted=True)
+    taxa_data = get_all_taxa(families_of_interest=families_of_interest, accepted=False,
+                             ranks=["Species", "Variety", "Subspecies"])
 
-    ranks_to_use = ["Species", "Variety", "Subspecies"]
-
-    accepted_taxa_df = accepted_data.loc[accepted_data["rank"].isin(ranks_to_use)]
-
-    accepted_taxa = accepted_taxa_df["taxon_name"].values
-    accepted_taxa_ids = accepted_taxa_df["kew_id"].values
+    taxa = taxa_data["taxon_name"].values
 
     # Get lists
-    get_wiki_common_names(accepted_taxa, families_of_interest=families_of_interest)
+    get_wiki_common_names(taxa, families_of_interest=families_of_interest)
+
+    accepted_taxa_df = taxa_data[taxa_data['taxonomic_status'] == 'Accepted']
+    accepted_taxa = accepted_taxa_df["taxon_name"].values
+    accepted_taxa_ids = accepted_taxa_df["kew_id"].values
     get_powo_common_names(accepted_taxa, accepted_taxa_ids, families_of_interest=families_of_interest)
 
     prepare_usda_common_names(families_of_interest=families_of_interest)
@@ -265,15 +265,15 @@ def prepare_data():
 def output_source_summaries():
     output_summary_of_hit_csv(
         output_logan_common_names_csv,
-        os.path.join(_output_path, 'source_summaries', 'commonname_source_summary'),
+        os.path.join(logan_common_name_output_path, 'source_summaries', 'commonname_source_summary'),
         families=['Loganiaceae'], source_translations={'Wiki': 'Wiki (', 'POWO': 'POWO pages'}, ranks=['Species'])
 
 
 def main():
     if not os.path.isdir(_temp_outputs_path):
         os.mkdir(_temp_outputs_path)
-    if not os.path.isdir(_output_path):
-        os.mkdir(_output_path)
+    if not os.path.isdir(logan_common_name_output_path):
+        os.mkdir(logan_common_name_output_path)
 
     prepare_data()
 
