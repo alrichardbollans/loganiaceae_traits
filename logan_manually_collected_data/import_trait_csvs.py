@@ -9,8 +9,6 @@ from pkg_resources import resource_filename
 
 _inputs_path = resource_filename(__name__, 'inputs')
 
-
-
 logan_trait_parsing_output_path = resource_filename(__name__, 'outputs')
 if not os.path.isdir(_inputs_path):
     os.mkdir(_inputs_path)
@@ -25,6 +23,7 @@ NEW_HEADINGS = [
     "Ref_Alks",
     "Alkaloids_test_notes",
     "Alkaloids",
+    "Alk_classes_tested_for",
     "Alkaloid_classes",
     "Alkaloid_class_absences",
     "Alkaloid_mainclass(conal)",
@@ -54,17 +53,20 @@ if any('source' in x.lower() for x in NEW_HEADINGS):
     raise ValueError('Unwanted Source included in columns')
 logan_accepted_trait_csv = os.path.join(logan_trait_parsing_output_path, "logan_accepted_traits.csv")
 ACCEPTED_NAME_COLUMN = "Accepted_Name"
+
+
 class Family:
-    # xlsx files are saved as csv files first
-    def __init__(self, name, tag):
+    def __init__(self, name, tag, unclean_trait_csv):
         self.name = name
         self.tag = tag
-        self.unclean_trait_csv = os.path.join(_inputs_path, tag + "_trait_data.csv")
+        self.unclean_trait_csv = unclean_trait_csv
         self.clean_trait_csv = os.path.join(logan_trait_parsing_output_path, "clean_" + tag + "_trait_data.csv")
         self.species_name_list = os.path.join(logan_trait_parsing_output_path, tag + "_species_names.txt")
 
 
-LOG = Family("Loganiaceae", "log")
+LOG = Family("Loganiaceae", "log",
+             os.path.join(_inputs_path, 'Loganiaceae, alkaloids, steroids and antimalarial activity.xlsx'))
+
 
 def strip_leading_trailing_whitespace(df: pd.DataFrame, column: str) -> pd.DataFrame:
     df[column] = df[column].apply(remove_whitespace_at_beginning_and_end)
@@ -95,7 +97,7 @@ def rename_headings(df: pd.DataFrame):
 
 def do_initial_clean(fam: Family):
     # Load family traits into dataframe
-    trait_df = pd.read_csv(fam.unclean_trait_csv)
+    trait_df = pd.read_excel(fam.unclean_trait_csv, sheet_name='Data')
     rename_headings(trait_df)
 
     # Remove empty genus or species
