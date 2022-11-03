@@ -9,7 +9,7 @@ from taxa_lists import get_all_taxa
 from metabolite_searches import get_metabolites_for_taxa, output_alkaloids_from_metabolites, get_compound_hits_for_taxa, \
     get_antibac_metabolite_hits_for_taxa, recheck_taxa, output_steroids_from_metabolites, \
     output_cardenolides_from_metabolites, get_antimalarial_metabolite_hits_for_taxa, \
-    get_inactive_antimalarial_metabolite_hits_for_taxa
+    get_inactive_antimalarial_metabolite_hits_for_taxa, get_manual_antimalarial_metabolite_hits_for_taxa
 from cleaning import compile_hits, output_summary_of_hit_csv, compiled_sources_col
 
 from logan_manually_collected_data import logan_alk_hits_manual_output_csv, logan_steroid_hits_manual_output_csv, \
@@ -35,7 +35,10 @@ logan_steroid_hits_output_csv = os.path.join(_output_path, 'logan_steroid_hits.c
 logan_cardenolide_hits_output_csv = os.path.join(_output_path, 'logan_cardenolides_hits.csv')
 
 logan_antibac_metabolite_hits_output_csv = os.path.join(_output_path, 'logan_antibac_metabolites_hits.csv')
-logan_antimal_metabolite_hits_output_csv = os.path.join(_output_path, 'logan_antimalarial_metabolites_hits.csv')
+logan_knapsack_antimal_metabolite_hits_output_csv = os.path.join(_output_path,
+                                                                 'logan_knapsack_antimalarial_metabolites_hits.csv')
+logan_manual_antimal_metabolite_hits_output_csv = os.path.join(_output_path,
+                                                               'logan_manual_antimalarial_metabolites_hits.csv')
 logan_inactive_antimal_metabolite_hits_output_csv = os.path.join(_output_path,
                                                                  'logan_inactive_antimalarial_metabolites_hits.csv')
 _check_output_csv = os.path.join(_output_path, 'rechecked_taxa.csv')
@@ -152,10 +155,16 @@ def get_logan_antibac_metabolite_hits():
                                          fams=logan_families_of_int)
 
 
-def get_logan_antimal_metabolite_hits():
+def get_logan_knapsack_antimal_metabolite_hits():
     all_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_antimalarial_metabolite_hits_for_taxa(all_metas_data, logan_antimal_metabolite_hits_output_csv,
+    get_antimalarial_metabolite_hits_for_taxa(all_metas_data, logan_knapsack_antimal_metabolite_hits_output_csv,
                                               fams=logan_families_of_int)
+
+
+def get_logan_manual_antimal_metabolite_hits():
+    all_metas_data = pd.read_csv(logan_metabolites_output_csv)
+    get_manual_antimalarial_metabolite_hits_for_taxa(all_metas_data, logan_manual_antimal_metabolite_hits_output_csv,
+                                                     fams=logan_families_of_int)
 
 
 def get_logan_inactive_antimal_metabolite_hits():
@@ -213,7 +222,8 @@ def main():
     get_logan_metabolites()
     summarise_metabolites()
     get_logan_antibac_metabolite_hits()
-    get_logan_antimal_metabolite_hits()
+    get_logan_knapsack_antimal_metabolite_hits()
+    get_logan_manual_antimal_metabolite_hits()
     get_logan_alkaloid_hits()
     get_steroid_card_hits()
     output_source_summaries()
