@@ -6,13 +6,15 @@ from pkg_resources import resource_filename
 from powo_searches import search_powo
 from taxa_lists import get_all_taxa
 
-from metabolite_searches import get_metabolites_for_taxa, output_alkaloids_from_metabolites, get_compound_hits_for_taxa, \
+from metabolite_searches import get_metabolites_for_taxa, output_alkaloids_from_metabolites, \
+    get_compound_hits_for_taxa, \
     get_antibac_metabolite_hits_for_taxa, recheck_taxa, output_steroids_from_metabolites, \
     output_cardenolides_from_metabolites, get_antimalarial_metabolite_hits_for_taxa, \
     get_inactive_antimalarial_metabolite_hits_for_taxa, get_manual_antimalarial_metabolite_hits_for_taxa
 from cleaning import compile_hits, output_summary_of_hit_csv, compiled_sources_col
 
-from logan_manually_collected_data import logan_alk_hits_manual_output_csv, logan_steroid_hits_manual_output_csv, \
+from logan_manually_collected_data import logan_alk_hits_manual_output_csv, \
+    logan_steroid_hits_manual_output_csv, \
     logan_cardenolide_hits_manual_output_csv
 
 _temp_output_path = resource_filename(__name__, 'temp_outputs')
@@ -47,7 +49,8 @@ logan_families_of_int = ['Loganiaceae']
 
 
 def get_logan_metabolites():
-    wcvp_data = get_all_taxa(families_of_interest=logan_families_of_int, ranks=["Species", "Variety", "Subspecies"])
+    wcvp_data = get_all_taxa(families_of_interest=logan_families_of_int,
+                             ranks=["Species", "Variety", "Subspecies"])
     accepted_data = wcvp_data[wcvp_data['taxonomic_status'] == 'Accepted']
     unaccepted_data = wcvp_data[wcvp_data['taxonomic_status'] != 'Accepted']
 
@@ -126,7 +129,8 @@ def get_logan_knapsack_steroid_hits():
     steroid_df = output_steroids_from_metabolites(metabolites_to_check, _logan_steroid_output_csv)
 
     logan_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_compound_hits_for_taxa('steroids', logan_metas_data, steroid_df, _logan_steroid_hits_knapsack_output_csv,
+    get_compound_hits_for_taxa('steroids', logan_metas_data, steroid_df,
+                               _logan_steroid_hits_knapsack_output_csv,
                                fams=logan_families_of_int)
 
 
@@ -157,13 +161,15 @@ def get_logan_antibac_metabolite_hits():
 
 def get_logan_knapsack_antimal_metabolite_hits():
     all_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_antimalarial_metabolite_hits_for_taxa(all_metas_data, logan_knapsack_antimal_metabolite_hits_output_csv,
+    get_antimalarial_metabolite_hits_for_taxa(all_metas_data,
+                                              logan_knapsack_antimal_metabolite_hits_output_csv,
                                               fams=logan_families_of_int)
 
 
 def get_logan_manual_antimal_metabolite_hits():
     all_metas_data = pd.read_csv(logan_metabolites_output_csv)
-    get_manual_antimalarial_metabolite_hits_for_taxa(all_metas_data, logan_manual_antimal_metabolite_hits_output_csv,
+    get_manual_antimalarial_metabolite_hits_for_taxa(all_metas_data,
+                                                     logan_manual_antimal_metabolite_hits_output_csv,
                                                      fams=logan_families_of_int)
 
 
@@ -195,22 +201,13 @@ def get_steroid_card_hits():
         compile_hits(dfs_to_use, logan_cardenolide_hits_output_csv)
 
     else:
-        out_df = pd.DataFrame(columns=['Accepted_ID', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID',
-                                       'Accepted_Rank', compiled_sources_col])
+        out_df = pd.DataFrame(
+            columns=['Accepted_ID', 'Accepted_Name', 'Accepted_Species', 'Accepted_Species_ID',
+                     'Accepted_Rank', compiled_sources_col])
         out_df.to_csv(logan_cardenolide_hits_output_csv)
 
 
 def output_source_summaries():
-    output_summary_of_hit_csv(
-        logan_steroid_hits_output_csv,
-        os.path.join(_output_path, 'source_summaries', 'steroid_source_summary'),
-        families=['Loganiaceae'], ranks=['Species'])
-
-    output_summary_of_hit_csv(
-        logan_cardenolide_hits_output_csv,
-        os.path.join(_output_path, 'source_summaries', 'cardenolide_source_summary'),
-        families=['Loganiaceae'], ranks=['Species'])
-
     output_summary_of_hit_csv(
         logan_alkaloid_hits_output_csv,
         os.path.join(_output_path, 'source_summaries', 'alkaloid_source_summary'),
@@ -221,11 +218,9 @@ def output_source_summaries():
 def main():
     get_logan_metabolites()
     summarise_metabolites()
-    get_logan_antibac_metabolite_hits()
     get_logan_knapsack_antimal_metabolite_hits()
     get_logan_manual_antimal_metabolite_hits()
     get_logan_alkaloid_hits()
-    get_steroid_card_hits()
     output_source_summaries()
 
 

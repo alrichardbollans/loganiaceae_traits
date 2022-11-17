@@ -14,10 +14,6 @@ logan_spines_output_csv = os.path.join(output_path, 'spines_hits.csv')
 logan_no_spines_output_csv = os.path.join(output_path, 'no_spines_hits.csv')
 
 logan_hairy_output_csv = os.path.join(output_path, 'hairy_hits.csv')
-logan_non_coloured_latex_output_csv = os.path.join(output_path, 'non_coloured_latex.csv')
-logan_coloured_latex_output_csv = os.path.join(output_path, 'coloured_latex.csv')
-logan_left_corollas_latex_output_csv = os.path.join(output_path, 'left_corollas.csv')
-logan_right_corollas_latex_output_csv = os.path.join(output_path, 'right_corollas.csv')
 logan_habits_output_csv = os.path.join(output_path, 'habits.csv')
 
 logan_family_list = ['Loganiaceae']
