@@ -20,34 +20,14 @@ NEW_HEADINGS = [
     "Genus",
     "Species",
     "Tested_for_Alkaloids",
-    "Ref_Alks",
-    "Alkaloids_test_notes",
     "Alkaloids",
-    "Alk_classes_tested_for",
-    "Alkaloid_classes",
-    "Alkaloid_class_absences",
-    "Alkaloid_mainclass(conal)",
-    "Alkaloid_otherclasses",
-    "Alkaloid_class_notes",
+    "Ref_Alks",
     "Antimalarial_Use",
     "Ref_H_Mal",
     "History_Fever",
     "Ref_H_Fever",
-    "Tested_Antimalarial",
-    "Extraction_Method",
-    "Type_of_Test",
     "Activity_Antimalarial",
-    "Authors_Activity_Label",
-    "Positive_Control_Used",
-    "Given_Activities",
-    "Ref_Activity",
-    "General_notes",
-    "MPNS_notes",
-    "Details",
-    "Cardenolides",
-    "Cardenolides_Ref",
-    "Steroids",
-    "Steroids_Ref"
+    "Ref_Activity"
 ]
 if any('source' in x.lower() for x in NEW_HEADINGS):
     raise ValueError('Unwanted Source included in columns')
@@ -60,12 +40,13 @@ class Family:
         self.name = name
         self.tag = tag
         self.unclean_trait_csv = unclean_trait_csv
-        self.clean_trait_csv = os.path.join(logan_trait_parsing_output_path, "clean_" + tag + "_trait_data.csv")
+        self.clean_trait_csv = os.path.join(logan_trait_parsing_output_path,
+                                            "clean_" + tag + "_trait_data.csv")
         self.species_name_list = os.path.join(logan_trait_parsing_output_path, tag + "_species_names.txt")
 
 
 LOG = Family("Loganiaceae", "log",
-             os.path.join(_inputs_path, 'Loganiaceae, alkaloids, steroids and antimalarial activity.xlsx'))
+             os.path.join(_inputs_path, 'Loganiaceae traits.xlsx'))
 
 
 def strip_leading_trailing_whitespace(df: pd.DataFrame, column: str) -> pd.DataFrame:
@@ -131,7 +112,8 @@ def create_order_csv(fams):
 
     duplicateRows = accepted_order[accepted_order.duplicated([ACCEPTED_NAME_COLUMN])]
     if len(duplicateRows.index) > 0:
-        raise ValueError('Repeated accepted names (likely from use of synonyms in names). Fix before continuing.')
+        raise ValueError(
+            'Repeated accepted names (likely from use of synonyms in names). Fix before continuing.')
 
     print(accepted_order.columns)
     accepted_order.to_csv(logan_accepted_trait_csv)
