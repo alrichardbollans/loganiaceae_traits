@@ -16,6 +16,10 @@ setup(
     package_data={
         "": ["outputs/*"]
     },
+    install_requires=[
+        "miningtraitdata == 0.1",
+        "automatchnames==0.1"
+    ],
     # *strongly* suggested for sharing
     version='0.1',
     license='MIT',

@@ -1,4 +1,4 @@
-GBIF Occurrences for Apocynaceae, Rubiaceae and Celastraceae
+GBIF Occurrences for Loganiaceae
 Species
 GBIF.org (01 June 2022) GBIF Occurrence Download https://doi.org/10.15468/dl.sj97kj
 Subspecies
