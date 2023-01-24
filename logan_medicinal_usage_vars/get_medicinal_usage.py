@@ -33,8 +33,7 @@ logan_fams_of_interest = ['Loganiaceae']
 
 def get_powo_medicinal_usage():
     search_powo(
-        ['medicinal', 'medication', 'medicine', 'therapeutic', 'healing', 'cure', 'drug', 'antibiotic', 'antiviral',
-         'antibacterial'],
+        ['medicinal', 'medication', 'medicine'],
         _powo_search_medicinal_temp_output_accepted_csv,
         characteristics_to_search=['use'],
         families_of_interest=logan_fams_of_interest,
